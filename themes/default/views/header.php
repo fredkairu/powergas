@@ -1247,6 +1247,9 @@
                                                             <li id="sms_code"><a class="submenu" href="<?= site_url('customers/smscode'); ?>"><i
                                                 class="fa fa-users"></i><span
                                                 class="text"> <?= lang('SMS_Codes'); ?></span></a></li>
+                                          <li id="customers_index"><a class="submenu" href="<?= site_url('customers/getshops'); ?>"><i
+                                                class="fa fa-plus-circle"></i><span
+                                                class="text"> <?= lang('shops_days_served_summary'); ?></span></a></li> 
                                            <li id="customers_index"><a class="submenu" href="<?= site_url('customers/select_county'); ?>"><i
                                                 class="fa fa-plus-circle"></i><span
                                                 class="text"> <?= lang('Select_customers_by_counties'); ?></span></a></li>
