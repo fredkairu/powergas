@@ -37,8 +37,8 @@
                         <?php
                         foreach($shops as $customer)
                         {
-                            $this->load->model('customers');
-                            $days=$this->customers_model->getShops($customer->all_id);
+                            //$this->load->model('customers');
+                            //$days=$this->customers_model->getShops($customer->all_id);
                             if(isset($days)){
                             foreach($days as $day){
                                 
