@@ -8,36 +8,6 @@
     <div class="box-header">
         <h2 class="blue"><i class="fa-fw fa fa-users"></i><?= lang('shops_summary'); ?></h2>
 
-        <div class="box-icon">
-            <ul class="btn-tasks">
-                <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon fa fa-tasks tip"
-                                                                                  data-placement="left"
-                                                                                  title="<?= lang("actions") ?>"></i></a>
-                    <ul class="dropdown-menu pull-right" class="tasks-menus" role="menu" aria-labelledby="dLabel">
-                        <li><a href="<?= site_url('customers/add1'); ?>" data-toggle="modal" data-target="#myModal"
-                               id="add"><i class="fa fa-plus-circle"></i> <?= lang("add_customer1"); ?></a></li>
-                               
-                        <li><a href="<?= site_url('customers/import_csv1'); ?>" data-toggle="modal"
-                               data-target="#myModal"><i class="fa fa-plus-circle"></i> <?= lang("import_by_csv1"); ?>
-                            </a></li>
-                            
-                        <?php if ($Owner) { ?>
-                        <li><a href="<?= site_url('customers/import_customeralign_all'); ?>" data-toggle="modal"
-                               data-target="#myModal"><i class="fa fa-plus-circle"></i> <?= lang("Customer_Distributor_Mapping"); ?>
-                            </a></li>
-                            <li><a href="#" id="excel" data-action="export_excel"><i
-                                        class="fa fa-file-excel-o"></i> <?= lang('export_to_excel') ?></a></li>
-                            <li><a href="#" id="pdf" data-action="export_pdf"><i
-                                        class="fa fa-file-pdf-o"></i> <?= lang('export_to_pdf') ?></a></li>
-                                        
-                            <li class="divider"></li>
-                            
-                        <?php } ?>
-                    </ul>
-                </li>
-            </ul>
-        </div>
     </div>
     <div class="box-content">
         <div class="row">
@@ -46,7 +16,7 @@
                 <p class="introtext"><?= lang('list_results'); ?></p>
 
                 <div class="table-responsive">
-                    <table id="CusData" cellpadding="0" cellspacing="0" border ="0"
+                    <table id="CusData" cellpadding="0" cellspacing="0" border="0"
                            class="table table-bordered table-condensed table-hover table-striped">
                         <thead>
                         <tr class="primary">
@@ -57,7 +27,7 @@
                             <th><?= lang("Customer"); ?></th>
                             <th><?= lang("Shop"); ?></th>
                             <th><?= lang("Days"); ?></th>
-                            
+                            <th></th>
                         </tr>
                         </thead>
                         <tbody>
@@ -97,6 +67,7 @@
                             <th style="min-width:30px; width: 30px; text-align: center;">
                                 <input class="checkbox checkft" type="checkbox" name="check"/>
                             </th>
+                            <th></th>
                             <th></th>
                             <th></th>
                             <th></th>
