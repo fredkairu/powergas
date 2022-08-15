@@ -1,8 +1,4 @@
 
-<?php if ($Owner) {
-    echo form_open('customers/sanoficustomer_actions', 'id="action-form"');
-    
-} ?>
 <div class="box">
 
     <div class="box-header">
@@ -20,13 +16,20 @@
                            class="table table-bordered table-condensed table-hover table-striped">
                         <thead>
                         <tr class="primary">
+                            <th style="min-width:30px; width: 30px; text-align: center;">
+                                <input class="checkbox checkth" type="checkbox" name="check"/>
+                            </th>
+                            
                             <th><?= lang("Customer"); ?></th>
                             <th><?= lang("Shop"); ?></th>
                             <th><?= lang("Days"); ?></th>
-                          
+                            <th></th>
                         </tr>
                         </thead>
                         <tbody>
+                        <!-- <tr>
+                            <td colspan="11" class="dataTables_empty"><?= lang('loading_data_from_server') ?></td>
+                        </tr> -->
                         <?php
                         foreach($shops as $customer)
                         {
@@ -40,7 +43,7 @@
                             }
                             else
                             {$nm='' ;}
-                            $data= "<tr>
+                            $data= "<tr><td></td>
                             <td>".$customer->name."</td>
                             <td>".$customer->shop."</td>
                             <td>". $nm. "</td>
@@ -61,6 +64,9 @@
                         </tbody>
                         <tfoot class="dtFilter">
                         <tr class="active">
+                            <th style="min-width:30px; width: 30px; text-align: center;">
+                                <input class="checkbox checkft" type="checkbox" name="check"/>
+                            </th>
                             <th></th>
                             <th></th>
                             <th></th>
@@ -76,16 +82,7 @@
         </div>
     </div>
 </div>
-<script>$(document).ready(function(e){
-    $("#CusData").DataTable();
 
-   function confirm_del()
-   {
-    return confirm('are you sure?');
-   }
-});
-
-</script>
 
 <?php if ($Owner) { ?>
     <div style="display: none;">

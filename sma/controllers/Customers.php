@@ -177,8 +177,8 @@ class Customers extends MY_Controller
             //use route to get all shops in the same route
             $this->db
                 ->select("sma_shops.id as id,sma_shops.shop_name as shop,sma_shop_allocations.id as all_id,sma_customers.name")
-                ->from("sma_customers")
-                ->join("sma_shops","sma_shops.customer_id=sma_customers.id","left")
+                ->from("sma_shops")
+                ->join("sma_customers","sma_customers.id=sma_shops.customer_id","left")
                 ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
                 ->order_by('id','ASC');
                 $query= $this->db->get();
