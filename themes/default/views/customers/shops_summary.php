@@ -20,20 +20,13 @@
                            class="table table-bordered table-condensed table-hover table-striped">
                         <thead>
                         <tr class="primary">
-                            <th style="min-width:30px; width: 30px; text-align: center;">
-                                <input class="checkbox checkth" type="checkbox" name="check"/>
-                            </th>
-                            
                             <th><?= lang("Customer"); ?></th>
                             <th><?= lang("Shop"); ?></th>
                             <th><?= lang("Days"); ?></th>
-                            <th></th>
+                          
                         </tr>
                         </thead>
                         <tbody>
-                        <!-- <tr>
-                            <td colspan="11" class="dataTables_empty"><?= lang('loading_data_from_server') ?></td>
-                        </tr> -->
                         <?php
                         foreach($shops as $customer)
                         {
@@ -47,7 +40,7 @@
                             }
                             else
                             {$nm='' ;}
-                            $data= "<tr><td></td>
+                            $data= "<tr>
                             <td>".$customer->name."</td>
                             <td>".$customer->shop."</td>
                             <td>". $nm. "</td>
@@ -68,9 +61,6 @@
                         </tbody>
                         <tfoot class="dtFilter">
                         <tr class="active">
-                            <th style="min-width:30px; width: 30px; text-align: center;">
-                                <input class="checkbox checkft" type="checkbox" name="check"/>
-                            </th>
                             <th></th>
                             <th></th>
                             <th></th>
