@@ -180,7 +180,7 @@ class Customers extends MY_Controller
                 ->from("sma_customers")
                 ->join("sma_shops","sma_shops.customer_id=sma_customers.id","left")
                 ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
-                ->order_by('all_id','ASC');
+                ->order_by('id','ASC');
                 $query= $this->db->get();
                 $result=$query->result();
                 print_r($result);

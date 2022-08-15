@@ -39,10 +39,14 @@
                         {
                             $this->load->model('customers');
                             $days=$this->customers_model->getShops($customer->all_id);
-
+                            if(isset($days)){
                             foreach($days as $day){
+                                
                                $nm=$day->name;
-                            };
+                                }
+                            }
+                            else
+                            {$nm='' ;}
                             $data= "<tr><td></td>
                             <td>".$customer->name."</td>
                             <td>".$customer->shop."</td>
