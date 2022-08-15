@@ -1,0 +1,3 @@
+Name,Email,Phone,Address,City,State,Postal Code,Country,is_subsidiary,parent_company
+Sesasd,saleem@tecdiary.com,105292122,Taman Desa,Kuala Lumpur,WP,58100,CI,No,
+Sesasd2,saleem@tecdiary.com,105292123,Taman Desa,Kuala Lumpur,WP,58100,CI,Yes,Sesasd

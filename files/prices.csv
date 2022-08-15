@@ -1,0 +1,3 @@
+country,distributor,customer,product_gmid,supply_price,resale_price,tender_price,special_resale,special_tender,promotion
+KE,Laborex,A.I.C. KIJABE HOSPITAL,660198,26.8755,28.29,14.25,0,15,Promoted
+KE,,,696079,2.4035,2.53,0.2239,0,0,non-promoted

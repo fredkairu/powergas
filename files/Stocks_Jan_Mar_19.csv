@@ -1,0 +1,733 @@
+MONTH,COUNTRY,DISTRIBUTOR,Distributor NAMING,QUANTITY_UNITS
+1,KE,Harleys,Bioferon Capsules 30's,1509
+1,KE,Harleys,Bronchicum Elixir S 100ml,414
+1,KE,Harleys,Buscopan injection 20mg/ml  - 5s,1850
+1,KE,Harleys,Buscopan plus tablets 50's,25956
+1,KE,Harleys,Ercefuryl 4% Syrup 90ml,47
+1,KE,Harleys,Ibex Capsule 2 x 12's,3633
+1,KE,Harleys,Mucosolvan liquid 15mg/5ml 100ml,36575
+1,KE,Harleys,No-Spa 40mg/2ml Injection 25's,254
+1,KE,Harleys,NO-SPA Tablets 40mg 100's,1150
+1,KE,Harleys,No-Spa Tablets 40mg 20's,3
+1,KE,Harleys,Rhinathiol 2% Syrup 125ml - Paed,3330
+1,KE,Harleys,Rhinathiol 5% Syrup 125ml,3162
+1,KE,Harleys,Rhinathiol Promethazine Syrup  125ml,27866
+1,KE,Harleys,Amaryl M 2mg/500mgtablets 30's,1533
+1,KE,Harleys,Amaryl M SR 2mg/500mg tablets 30's,88
+1,KE,Harleys,Amaryl Tablets 1mg  30's,866
+1,KE,Harleys,Apidra Solostar 300IU pens 5s - COLD CHAIN,34
+1,KE,Harleys,Aprovasc 150mg/5mg tablets 28's,343
+1,KE,Harleys,Aprovasc 300mg/5mg tablets 28's,36
+1,KE,Harleys,Aprovel 300mg tablets 28's,307
+1,KE,Harleys,Axacef 250mg Tablets 10's,5
+1,KE,Harleys,Axacef 500mg Tablets 10's,662
+1,KE,Harleys,Clexane 40mg inj 2's,9853
+1,KE,Harleys,Clexane 80mg injection 2's,3092
+1,KE,Harleys,Coaprovel Tablets 150/12.5 mg 28's,822
+1,KE,Harleys,Epilim Chrono 500mg  Tablets 100's - DDA,270
+1,KE,Harleys,Flagentyl  500mg Tablets 4's,14301
+1,KE,Harleys,Flagyl Suspension 200mg/5ml 100ml,1015
+1,KE,Harleys,Fleming 1gm Tablets 14's,1564
+1,KE,Harleys,Fleming 228.5mg/5ml Dry Powder For Suspension 70ml,2142
+1,KE,Harleys,Fleming 625mg Tablets 14's,14
+1,KE,Harleys,Lantus 300iu /3ml inj  Cartridges  5'S - COLD CHAIN,25
+1,KE,Harleys,Lantus Solostar 100u/3ml 5's PENS - COLD CHAIN,1528
+1,KE,Harleys,Lantus vial 10ml - COLD CHAIN,136
+1,KE,Harleys,Maalox plus 200mg (4x10),14
+1,KE,Harleys,Orelox 100mg tablets 10's,160
+1,KE,Harleys,Orelox 200mg Tablets 10's,3
+1,KE,Harleys,Orelox 40mg/5ml suspension 100ml,2576
+1,KE,Harleys,Orelox 40mg/5ml suspension 50ml,1309
+1,KE,Harleys,Plavix 75mg Tablets 28's,713
+1,KE,Harleys,Stilnox10mg Tablet's 14's - DDA,6477
+1,KE,Harleys,Tavanic Tablets 500mg 5's,1870
+1,KE,Harleys,Taxotere 20mg/Vial,121
+1,KE,Harleys,Tritace 5mg tablets 28's,59
+1,KE,Harleys,Tritazide 5mg/25mg Tablets 28's,25
+1,KE,Harleys,Xatral LP Tablets 10mg 30's,1
+1,KE,Harleys,Zoxon 1gm Injection 1's,45
+1,KE,Highchem,AMARYL M 2mg/500mg 30'S,363
+1,KE,Highchem,AMARYL TABS 1.0mg 30'S,917
+1,KE,Highchem,AMARYL TABS 2.0mg 30'S,100
+1,KE,Highchem,AMARYL TABS 4.0mg 30'S,12
+1,KE,Highchem,APROVASC 150/5mg TABS 28'S,91
+1,KE,Highchem,APROVASC 150-10 MG 28'S,72
+1,KE,Highchem,APROVASC 300-10 MG 28'S,87
+1,KE,Highchem,APROVASC 300-5MG TABS,13
+1,KE,Highchem,APROVEL 300mg TABS 28'S,52
+1,KE,Highchem,ARTESUNATE AMO 100mg/270mg 3's,36862
+1,KE,Highchem,ARTESUNATE AMO.25mg/67.5mg 3's,71733
+1,KE,Highchem,ARTESUNATE AMOD 100MG/270 6's,27836
+1,KE,Highchem,ARTESUNATE AMOD 50mg/135mg 3's,46924
+1,KE,Highchem,BIOFERON CAPS 30'S,213
+1,KE,Highchem,CLEXANE 40mg 2'S,653
+1,KE,Highchem,CO-APROVEL TABS 150/12.5mg 28'S,334
+1,KE,Highchem,CO-APROVEL TABS 300/12.5mg 28'S,209
+1,KE,Highchem,CORDARONE TAB 200mg 30'S,611
+1,KE,Highchem,EPILIM 200mg TABS EC 100'S,1664
+1,KE,Highchem,EPILIM CHRONO 300mg TABS 100'S,380
+1,KE,Highchem,ERCEFURYL 200mg CAPS 28'S,80
+1,KE,Highchem,FLAGENTYL 500mg TABS,406
+1,KE,Highchem,FLAGYL 100ml SUSPENSION,839
+1,KE,Highchem,FLAGYL 400mg TABS 100'S,70
+1,KE,Highchem,LANTUS SOLOSTAR 3ml 5'S,542
+1,KE,Highchem,MAALOX 150ml SUSPENSION,3164
+1,KE,Highchem,MAALOX 350ml SUSPENSION,464
+1,KE,Highchem,MAALOX 460mg SATCHETS LEMON,558
+1,KE,Highchem,MAALOX PLUS 200MG TABS BL4X10,579
+1,KE,Highchem,NO SPA 40mg TABS 100'S,435
+1,KE,Highchem,NO SPA 40mg TABS 20'S,313
+1,KE,Highchem,NO SPA 40mg/2ml INJECTION 25'S,45
+1,KE,Highchem,NO SPA 40mg/2ml INJECTION 5'S,140
+1,KE,Highchem,NO SPA FORTE 80mg TABS 20'S,405
+1,KE,Highchem,ORELOX 100mg TABS 10'S,598
+1,KE,Highchem,ORELOX 100ml SUSPENSION,40
+1,KE,Highchem,ORELOX 200mg TABS 10'S,256
+1,KE,Highchem,ORELOX 50ml SUSPENSION,42
+1,KE,Highchem,PLAVIX 75mg TABS 28'S,575
+1,KE,Highchem,RHINATHIOL AD 125ml SP,4766
+1,KE,Highchem,RHINATHIOL ENFT 125ml SP,1840
+1,KE,Highchem,RHINATHIOL PROM 125ml SP,1640
+1,KE,Highchem,RHINATHIOL SUGAR FREE AD 200ml SRP,92
+1,KE,Highchem,STILNOX 10mg TABS 14'S,4136
+1,KE,Highchem,TAVANIC 500mg TABS 5'S,118
+1,KE,Highchem,TRITACE 2.5 MG TABS 28s,303
+1,KE,Highchem,TRITAZIDE 5/12.5mg TABS 28'S,6
+1,KE,Highchem,TRITAZIDE 5/25mg TABS 28'S,251
+1,KE,Highchem,XATRAL LP 10mg TABS 30'S,368
+1,KE,Highchem,XATRAL LP TABLETS 5MG*56s,290
+1,KE,Laborex,AMARYL M 2MG CP B/30          ,683
+1,KE,Laborex,AMARYL M SR 2MG CP B/30       ,367
+1,KE,Laborex,AMARYL TABS 1MG 30'S          ,1180
+1,KE,Laborex,AMARYL TABS 2MG 30'S          ,10
+1,KE,Laborex,APIDRA SOLOSTAR 100IU/ML 3ML/5,173
+1,KE,Laborex,APROVASC 150-5MG CP B/28      ,77
+1,KE,Laborex,APROVASC 300-5MG CP B/28      ,40
+1,KE,Laborex,BRONCHICUM ELIXIR 100ML       ,7354
+1,KE,Laborex,BUSCOPAN PLUS TABS 50'S      .,7725
+1,KE,Laborex,CLEXANE 40MG INJ 2'S          ,15559
+1,KE,Laborex,CLEXANE INJ  20MG 2'S         ,1519
+1,KE,Laborex,CLEXANE INJ  60MG 2'S         ,9058
+1,KE,Laborex,CLEXANE INJ 80MG 2'S          ,4636
+1,KE,Laborex,"CO APROVEL 150/12,5MG RMCP/28 ",1407
+1,KE,Laborex,"CO APROVEL 300/12,5MG RMCP/28 ",1072
+1,KE,Laborex,CORDARONE 200MG CP B/30       ,506
+1,KE,Laborex,ENTEROGERMINA 2M/5ML F/10     ,41678
+1,KE,Laborex,EPILIM CHRONO TABS 500MG 100S ,2088
+1,KE,Laborex,EPILIM EC TABS 200MG 100'S    ,3243
+1,KE,Laborex,EPILIM IV 400MG PER VIAL      ,260
+1,KE,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,2356
+1,KE,Laborex,ERCEFURYL 200MG GELU B/28     ,182
+1,KE,Laborex,ERCEFURYL SUSP BUV F/90ML     ,229
+1,KE,Laborex,FLAGENTYL 500MG CP B/4        ,6109
+1,KE,Laborex,FLAGYL SUSP 200MG 100ML       ,3871
+1,KE,Laborex,FLAGYL TABS 400MG 100'S       ,919
+1,KE,Laborex,LANTUS 1000UI VIAL 1'S        ,223
+1,KE,Laborex,LANTUS 300IU/3ML CART/5       ,859
+1,KE,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,996
+1,KE,Laborex,LASIX INJ 20MG/2ML AMP 5'S    ,13364
+1,KE,Laborex,LASIX TABS 40MG 20'S          ,4139
+1,KE,Laborex,"MAALOX ME CIT SUSP4,3MLSAC/20 ",4081
+1,KE,Laborex,MAALOX PLUS 200MG TABS 40'S  .,12
+1,KE,Laborex,MAALOX SUSP 350ML             ,1
+1,KE,Laborex,MONOTILDIEM SR 200MG TAB 28'S ,40
+1,KE,Laborex,"MUCOSOLVAN 1,5G/100ML SIR    .",39772
+1,KE,Laborex,NO SPA 40MG CP B/100          ,59
+1,KE,Laborex,NO SPA 40MG CP B/20           ,78
+1,KE,Laborex,NO SPA 40MG INJ 2ML B/25      ,122
+1,KE,Laborex,NO SPA 40MG INJ 2ML B/5       ,244
+1,KE,Laborex,NO SPA 80MG CP B/20           ,129
+1,KE,Laborex,ORELOX 100MG CP B/10          ,3049
+1,KE,Laborex,ORELOX 200MG CP B/10          ,3551
+1,KE,Laborex,ORELOX ENF 40MG/5ML SUS/100ML ,8631
+1,KE,Laborex,ORELOX ENF 40MG/5ML SUSP/50ML ,6290
+1,KE,Laborex,PLAVIX 75MG CP B/28 AFR       ,1232
+1,KE,Laborex,RHINATHIOL AD 5% SP F/125ML   ,3226
+1,KE,Laborex,RHINATHIOL PROMETH SP 125ML   ,7128
+1,KE,Laborex,RIFAFOUR TABLETS 84'S         ,171
+1,KE,Laborex,RIFINAH 150/75MG TABS 56'S    ,23
+1,KE,Laborex,RIFOCIN INJ 250MG 1'S         ,2501
+1,KE,Laborex,STILNOX TABLETS 10MG 14'S     ,5296
+1,KE,Laborex,TARGOCID 200MG/3ML INJ /1     ,70
+1,KE,Laborex,TAVANIC 500MG CP B/5          ,1930
+1,KE,Laborex,TELFAST 120MG TABS 10'S       ,27
+1,KE,Laborex,TRITACE 5MG TABS 28'S         ,1257
+1,KE,Laborex,TRITAZIDE 5-25MG CP B/28      ,42
+1,KE,Laborex,"XATRAL 2,5MG CP B/30          ",36
+1,KE,Laborex,XATRAL LP 10MG COMP B/30      ,367
+1,KE,Laborex,XATRAL LP 5MG CP B/56         ,47
+1,KE,Surgipharm,ALLSTAR PEN,813
+1,KE,Surgipharm,AMARYL M SR TABS 2MG-500mg * 30's,747
+1,KE,Surgipharm,AMARYL M TABS 2mg * 30's,1383
+1,KE,Surgipharm,AMARYL TABS 1mg * 30's,1927
+1,KE,Surgipharm,APIDRA SOLOSTAR 3ML DISP PENS * 5s,202
+1,KE,Surgipharm,APROVASC TAB 150-5MG *28,336
+1,KE,Surgipharm,APROVASC TAB 300-10MG *28,126
+1,KE,Surgipharm,APROVASC TAB 300-5MG *28,470
+1,KE,Surgipharm,APROVEL TABS 300mg * 28's,683
+1,KE,Surgipharm,CLEXANE INJ. 20mg * 2,12
+1,KE,Surgipharm,CLEXANE INJ. 40mg * 2,25777
+1,KE,Surgipharm,CLEXANE INJ. 60mg * 2,181
+1,KE,Surgipharm,CLEXANE INJ. 80mg * 2,542
+1,KE,Surgipharm,CO APROVEL TABS 150mg * 28's,676
+1,KE,Surgipharm,CO APROVEL TABS 300mg * 28's,1374
+1,KE,Surgipharm,CORDARONE TABLETS 200mg * 30,874
+1,KE,Surgipharm,ELOXATIN INJ 100mg * 1,14
+1,KE,Surgipharm,ELOXATIN INJ 50mg * 1,22
+1,KE,Surgipharm,EPILIM CHRONO TABS 300mg * 100,5
+1,KE,Surgipharm,EPILIM CHRONO TABS 500mg * 100,159
+1,KE,Surgipharm,EPILIM EC TABLETS 200mg * 100,1757
+1,KE,Surgipharm,EPILIM SYRUP 300ml,3174
+1,KE,Surgipharm,FLAGENTYL TABS 500mg * 4,6642
+1,KE,Surgipharm,FLAGYL SUSPENSION 100ml,6320
+1,KE,Surgipharm,FLAGYL TABS 400mg * 100's,1815
+1,KE,Surgipharm,LANTUS 10ml VIAL,572
+1,KE,Surgipharm,LANTUS 3ml CARTRIDGE * 5's,724
+1,KE,Surgipharm,LANTUS SOLOSTAR 3ML CARTRIDGE * 5'S,2266
+1,KE,Surgipharm,LASIX TABS 40mg * 20,633
+1,KE,Surgipharm,MONO-TILDIEM CAPS SR 200mg * 28's,300
+1,KE,Surgipharm,ORELOX SUSP 40MG/5ML 100ML,5275
+1,KE,Surgipharm,ORELOX SUSP 40MG/5ML 50ML,3748
+1,KE,Surgipharm,ORELOX TABS 100MG *10'S,1705
+1,KE,Surgipharm,ORELOX TABS 200MG *10'S,4644
+1,KE,Surgipharm,PLAVIX TABS 75mg * 28's,1533
+1,KE,Surgipharm,RESONIUM ADULT POWDER 454G,2
+1,KE,Surgipharm,RIFOCIN INJ. 250mg * 1's,75
+1,KE,Surgipharm,STILNOX TABS 10MG * 14,6457
+1,KE,Surgipharm,TARGOCID INJ 400mg * 1s,1056
+1,KE,Surgipharm,TAVANIC INJ. 500mg VIAL,245
+1,KE,Surgipharm,TAVANIC TABS 500mg * 5,849
+1,KE,Surgipharm,TAXOTERE 80mg/4ml * 1 VIAL,90
+1,KE,Surgipharm,TRITACE TABS 2.5mg * 28's,880
+1,KE,Surgipharm,TRITACE TABS 5mg * 28's,1180
+1,KE,Surgipharm,TRITAZIDE TABS 5/12.5MG * 28'S,588
+1,KE,Surgipharm,TRITAZIDE TABS 5/25MG * 28'S,133
+1,KE,Surgipharm,XATRAL LP TABLETS 5mg * 56's,75
+1,KE,Surgipharm,XATRAL LP TABS 10mg * 30's,1854
+1,KE,Surgipharm,BIOFERON CAPS *30  (SANOFI),660
+1,KE,Surgipharm,BRONCHICUM SYRUP * 100ml,2273
+1,KE,Surgipharm,BUSCOPAN AMPOULES 20mg/1ml * 5's,12653
+1,KE,Surgipharm,BUSCOPAN PLUS TABLETS * 50's,8756
+1,KE,Surgipharm,ENTEROGERMINA VIALS 5ML * 10's,3912
+1,KE,Surgipharm,ERCEFURYL CAPSULES 200mg * 28,612
+1,KE,Surgipharm,ERCEFURYL SUSPENSION 90ml,56
+1,KE,Surgipharm,IBEX CAPSULES 2*12,11534
+1,KE,Surgipharm,MAALOX LEMON STICK 460mg/susp *20s,803
+1,KE,Surgipharm,MAALOX PLUS TABLETS 200MG * 40's,713
+1,KE,Surgipharm,MAALOX SUSPENSION 150ml,33
+1,KE,Surgipharm,MAALOX SUSPENSION 350ml,1387
+1,KE,Surgipharm,MUCOSOLVAN LIQUID 15mg/5ml * 100ml,55680
+1,KE,Surgipharm,NO SPA FORTE TABLETS 80MG * 20,207
+1,KE,Surgipharm,NO SPA INJECTION 40mg/2ml * 25Amps,182
+1,KE,Surgipharm,NO SPA TABLETS 40mg * 100's,77
+1,KE,Surgipharm,NO SPA TABLETS 40mg * 20,200
+1,KE,Surgipharm,RHINATHIOL ADULT EXP 200M(SUGAR FR),30
+1,KE,Surgipharm,RHINATHIOL EXPEC/ADULT SYRUP 125ml,5388
+1,KE,Surgipharm,RHINATHIOL INFANT SYRUP 125ml,10813
+1,KE,Surgipharm,RHINATHIOL PROMETHAZINE SYRUP 125ml,13661
+1,KE,Harleys,Bioferon Capsules 30's,1202
+1,KE,Harleys,Bronchicum Elixir S 100ml,12
+1,KE,Harleys,Buscopan injection 20mg/ml  - 5s,1451
+1,KE,Harleys,Buscopan plus tablets 50's,23229
+1,KE,Harleys,Enterogermina Oral Suspension 10 x 5ml,2273
+1,KE,Harleys,Ercefuryl 4% Syrup 90ml,22
+1,KE,Harleys,Ibex Capsule 2 x 12's,1679
+1,KE,Harleys,Mucosolvan liquid 15mg/5ml 100ml,29286
+1,KE,Harleys,NO-SPA Tablets 40mg 100's,792
+1,KE,Harleys,No-Spa 40mg/2ml Injection 25's,30
+1,KE,Harleys,No-Spa Tablets 40mg 20's,3
+1,KE,Harleys,Rhinathiol 2% Syrup 125ml - Paed,795
+1,KE,Harleys,Rhinathiol 5% Syrup 125ml,1983
+1,KE,Harleys,Rhinathiol Promethazine Syrup  125ml,24145
+1,KE,Harleys,Amaryl M 2mg/500mgtablets 30's,1352
+1,KE,Harleys,Amaryl M SR 2mg/500mg tablets 30's,82
+1,KE,Harleys,Amaryl Tablets 1mg  30's,761
+1,KE,Harleys,Apidra Solostar 300IU pens 5s - COLD CHAIN,32
+1,KE,Harleys,Aprovasc 150mg/10mg tablets 28's,1
+1,KE,Harleys,Aprovasc 150mg/5mg tablets 28's,256
+1,KE,Harleys,Aprovasc 300mg/5mg tablets 28's,2
+1,KE,Harleys,Aprovel 300mg tablets 28's,166
+1,KE,Harleys,Axacef 250mg Tablets 10's,5
+1,KE,Harleys,Axacef 500mg Tablets 10's,59
+1,KE,Harleys,Clexane 40mg inj 2's,9073
+1,KE,Harleys,Clexane 80mg injection 2's,2663
+1,KE,Harleys,Coaprovel Tablets 150/12.5 mg 28's,762
+1,KE,Harleys,Eloxatin 5mg/ml  Injection 10ml,18
+1,KE,Harleys,Epilim Chrono 300mg  Tablets 100's,411
+1,KE,Harleys,Epilim Chrono 500mg  Tablets 100's - DDA,501
+1,KE,Harleys,Epilim EC 200mg tablets 100's - DDA,295
+1,KE,Harleys,Epilim Liquid 300ml,3
+1,KE,Harleys,Flagentyl  500mg Tablets 4's,5910
+1,KE,Harleys,Flagyl Suspension 200mg/5ml 100ml,22
+1,KE,Harleys,Fleming 1gm Tablets 14's,1054
+1,KE,Harleys,Fleming 228.5mg/5ml Dry Powder For Suspension 70ml,9236
+1,KE,Harleys,Lantus 300iu /3ml inj  Cartridges  5'S - COLD CHAIN,8
+1,KE,Harleys,Lantus Solostar 100u/3ml 5's PENS - COLD CHAIN,1302
+1,KE,Harleys,Lantus vial 10ml - COLD CHAIN,110
+1,KE,Harleys,Maalox plus 200mg (4x10),1925
+1,KE,Harleys,Orelox 100mg tablets 10's,4
+1,KE,Harleys,Orelox 40mg/5ml suspension 100ml,1924
+1,KE,Harleys,Orelox 40mg/5ml suspension 50ml,1012
+1,KE,Harleys,Plavix 75mg Tablets 28's,444
+1,KE,Harleys,Stilnox10mg Tablet's 14's - DDA,5899
+1,KE,Harleys,Tavanic Tablets 500mg 5's,1707
+1,KE,Harleys,Taxotere 20mg/Vial,166
+1,KE,Harleys,Taxotere 80mg/4ml Injection Vial,100
+1,KE,Harleys,Tritazide 5mg/25mg Tablets 28's,5
+1,KE,Harleys,Xatral 5mg Tablets 56's,86
+1,KE,Harleys,Zoxon 1gm Injection 1's,11002
+1,KE,Highchem,AMARYL M 2mg/500mg 30'S,375
+1,KE,Highchem,AMARYL TABS 1.0mg 30'S,914
+1,KE,Highchem,AMARYL TABS 2.0mg 30'S,30
+1,KE,Highchem,AMARYL TABS 4.0mg 30'S,12
+1,KE,Highchem,APROVASC 150/5mg TABS 28'S,77
+1,KE,Highchem,APROVASC 150-10 MG 28'S,81
+1,KE,Highchem,APROVASC 300-10 MG 28'S,81
+1,KE,Highchem,APROVASC 300-5MG TABS,15
+1,KE,Highchem,APROVEL 300mg TABS 28'S,174
+1,KE,Highchem,ARTESUNATE AMO 100mg/270mg 3's,28454
+1,KE,Highchem,ARTESUNATE AMO.25mg/67.5mg 3's,60984
+1,KE,Highchem,ARTESUNATE AMOD 100MG/270 6's,12132
+1,KE,Highchem,ARTESUNATE AMOD 50mg/135mg 3's,46324
+1,KE,Highchem,BIOFERON CAPS 30'S,133
+1,KE,Highchem,CLEXANE 40mg 2'S,823
+1,KE,Highchem,CO-APROVEL TABS 150/12.5mg 28'S,299
+1,KE,Highchem,CO-APROVEL TABS 300/12.5mg 28'S,55
+1,KE,Highchem,CORDARONE TAB 200mg 30'S,587
+1,KE,Highchem,ENTEROGERMINA 5.0ml 10'S,545
+1,KE,Highchem,EPILIM 200mg TABS EC 100'S,1594
+1,KE,Highchem,EPILIM 300ml SYRUP,659
+1,KE,Highchem,EPILIM CHRONO 300mg TABS 100'S,790
+1,KE,Highchem,EPILIM CHRONO 500mg TABS 100'S,462
+1,KE,Highchem,ERCEFURYL 200mg CAPS 28'S,156
+1,KE,Highchem,FLAGENTYL 500mg TABS,20
+1,KE,Highchem,FLAGYL 100ml SUSPENSION,265
+1,KE,Highchem,FLAGYL 400mg TABS 100'S,70
+1,KE,Highchem,FLEMING 1000mg+200mg 5's INJ,118
+1,KE,Highchem,FLEMING 228.5mg/5ml 70ml SUSPE..,730
+1,KE,Highchem,LANTUS SOLOSTAR 3ml 5'S,409
+1,KE,Highchem,MAALOX 150ml SUSPENSION,3003
+1,KE,Highchem,MAALOX 460mg SATCHETS LEMON,389
+1,KE,Highchem,MAALOX PLUS 200MG TABS BL4X10,554
+1,KE,Highchem,NO SPA 40mg TABS 100'S,379
+1,KE,Highchem,NO SPA 40mg TABS 20'S,313
+1,KE,Highchem,NO SPA 40mg/2ml INJECTION 25'S,40
+1,KE,Highchem,NO SPA 40mg/2ml INJECTION 5'S,120
+1,KE,Highchem,NO SPA FORTE 80mg TABS 20'S,403
+1,KE,Highchem,ORELOX 100mg TABS 10'S,481
+1,KE,Highchem,ORELOX 100ml SUSPENSION,30
+1,KE,Highchem,ORELOX 200mg TABS 10'S,49
+1,KE,Highchem,ORELOX 50ml SUSPENSION,10
+1,KE,Highchem,PLAVIX 75mg TABS 28'S,457
+1,KE,Highchem,RESONIUM 454g ADULT POWDER,48
+1,KE,Highchem,RHINATHIOL AD 125ml SP,4605
+2,KE,Highchem,RHINATHIOL ENFT 125ml SP,4811
+2,KE,Highchem,RHINATHIOL PROM 125ml SP,5222
+2,KE,Highchem,RHINATHIOL SUGAR FREE AD 200ml SRP,26
+2,KE,Highchem,STILNOX 10mg TABS 14'S,3092
+2,KE,Highchem,TAVANIC 500mg TABS 5'S,847
+2,KE,Highchem,TAVANIC INJECTION 500mg,150
+2,KE,Highchem,TRITACE 2.5 MG TABS 28s,217
+2,KE,Highchem,TRITAZIDE 5/12.5mg TABS 28'S,6
+2,KE,Highchem,TRITAZIDE 5/25mg TABS 28'S,249
+2,KE,Highchem,XATRAL 2.5mg TABS 30'S,8
+2,KE,Highchem,XATRAL LP 10mg TABS 30'S,238
+2,KE,Highchem,XATRAL LP TABLETS 5MG*56s,286
+2,KE,Highchem,ZOXON 1000mg,960
+2,KE,Surgipharm,ALLSTAR PEN,648
+2,KE,Surgipharm,AMARYL M SR TABS 2MG-500mg * 30's,703
+2,KE,Surgipharm,AMARYL M TABS 2mg * 30's,1443
+2,KE,Surgipharm,AMARYL TABS 1mg * 30's,1812
+2,KE,Surgipharm,AMARYL TABS 2mg * 30's,868
+2,KE,Surgipharm,AMARYL TABS 4mg * 30's,652
+2,KE,Surgipharm,APIDRA SOLOSTAR 3ML DISP PENS * 5s,179
+2,KE,Surgipharm,APROVASC TAB 150-5MG *28,486
+2,KE,Surgipharm,APROVASC TAB 300-10MG *28,84
+2,KE,Surgipharm,APROVASC TAB 300-5MG *28,412
+2,KE,Surgipharm,APROVEL TABS 300mg * 28's,632
+2,KE,Surgipharm,AXACEF TABLETS 250MG * 10,399
+2,KE,Surgipharm,AXACEF TABLETS 500MG * 10's,571
+2,KE,Surgipharm,CLEXANE INJ. 20mg * 2,112
+2,KE,Surgipharm,CLEXANE INJ. 40mg * 2,27016
+2,KE,Surgipharm,CLEXANE INJ. 80mg * 2,40
+2,KE,Surgipharm,CO APROVEL TABS 150mg * 28's,617
+2,KE,Surgipharm,CO APROVEL TABS 300mg * 28's,1044
+2,KE,Surgipharm,CORDARONE TABLETS 200mg * 30,775
+2,KE,Surgipharm,ELOXATIN INJ 100mg * 1,14
+2,KE,Surgipharm,ELOXATIN INJ 50mg * 1,22
+2,KE,Surgipharm,EPILIM CHRONO TABS 300mg * 100,242
+2,KE,Surgipharm,EPILIM CHRONO TABS 500mg * 100,2
+2,KE,Surgipharm,EPILIM EC TABLETS 200mg * 100,1097
+2,KE,Surgipharm,EPILIM INJECTION 400MG * 1,129
+2,KE,Surgipharm,EPILIM SYRUP 300ml,6651
+2,KE,Surgipharm,FLAGENTYL TABS 500mg * 4,5738
+2,KE,Surgipharm,FLAGYL SUSPENSION 100ml,4976
+2,KE,Surgipharm,FLAGYL TABS 400mg * 100's,1311
+2,KE,Surgipharm,FLEMING INJ 1.2GM * 5'S,87
+2,KE,Surgipharm,FLEMING SUSP 228.5MG/5ML * 70ML(SANOFI),1672
+2,KE,Surgipharm,FLEMING SUSP 457MG/5ML * 70ML  (SANOFI),410
+2,KE,Surgipharm,FLEMING TABS 1 G * 2*7'S,662
+2,KE,Surgipharm,FLEMING TABS 625MG * 14'S(SANOFI),400
+2,KE,Surgipharm,LANTUS 10ml VIAL,557
+2,KE,Surgipharm,LANTUS 3ml CARTRIDGE * 5's,674
+2,KE,Surgipharm,LANTUS SOLOSTAR 3ML CARTRIDGE * 5'S,2722
+2,KE,Surgipharm,LASIX AMPS 2ml * 5,4388
+2,KE,Surgipharm,LASIX TABS 40mg * 20,527
+2,KE,Surgipharm,MONO-TILDIEM CAPS SR 200mg * 28's,249
+2,KE,Surgipharm,ORELOX SUSP 40MG/5ML 100ML,3752
+2,KE,Surgipharm,ORELOX SUSP 40MG/5ML 50ML,3001
+2,KE,Surgipharm,ORELOX TABS 100MG *10'S,2947
+2,KE,Surgipharm,ORELOX TABS 200MG *10'S,3577
+2,KE,Surgipharm,PLAVIX TABS 75mg * 28's,1439
+2,KE,Surgipharm,RIFOCIN INJ. 250mg * 1's,2559
+2,KE,Surgipharm,STILNOX TABS 10MG * 14,5306
+2,KE,Surgipharm,TARGOCID INJ 400mg * 1s,1056
+2,KE,Surgipharm,TAVANIC INJ. 500mg VIAL,445
+2,KE,Surgipharm,TAVANIC TABS 500mg * 5,1845
+2,KE,Surgipharm,TAXOTERE 80mg/4ml * 1 VIAL,58
+2,KE,Surgipharm,TRITACE TABS 2.5mg * 28's,779
+2,KE,Surgipharm,TRITACE TABS 5mg * 28's,1011
+2,KE,Surgipharm,TRITAZIDE TABS 5/12.5MG * 28'S,574
+2,KE,Surgipharm,TRITAZIDE TABS 5/25MG * 28'S,131
+2,KE,Surgipharm,XATRAL LP TABLETS 5mg * 56's,88
+2,KE,Surgipharm,XATRAL LP TABS 10mg * 30's,1539
+2,KE,Surgipharm,BIOFERON CAPS *30  (SANOFI),652
+2,KE,Surgipharm,BRONCHICUM SYRUP * 100ml,1257
+2,KE,Surgipharm,BUSCOPAN AMPOULES 20mg/1ml * 5's,11863
+2,KE,Surgipharm,BUSCOPAN PLUS TABLETS * 50's,1438
+2,KE,Surgipharm,ENTEROGERMINA VIALS 5ML * 10's,412
+2,KE,Surgipharm,ERCEFURYL CAPSULES 200mg * 28,1014
+2,KE,Surgipharm,ERCEFURYL SUSPENSION 90ml,44
+2,KE,Surgipharm,IBEX CAPSULES 2*12,10918
+2,KE,Surgipharm,MAALOX LEMON STICK 460mg/susp *20s,2057
+2,KE,Surgipharm,MAALOX PLUS TABLETS 200MG * 40's,1468
+2,KE,Surgipharm,MAALOX SUSPENSION 150ml,27
+2,KE,Surgipharm,MAALOX SUSPENSION 350ml,888
+2,KE,Surgipharm,MUCOSOLVAN LIQUID 15mg/5ml * 100ml,53541
+2,KE,Surgipharm,NO SPA FORTE TABLETS 80MG * 20,200
+2,KE,Surgipharm,NO SPA INJECTION 40mg/2ml * 25Amps,176
+2,KE,Surgipharm,NO SPA TABLETS 40mg * 100's,198
+2,KE,Surgipharm,NO SPA TABLETS 40mg * 20,289
+2,KE,Surgipharm,RHINATHIOL ADULT EXP 200M(SUGAR FR),29
+2,KE,Surgipharm,RHINATHIOL EXPEC/ADULT SYRUP 125ml,4064
+2,KE,Surgipharm,RHINATHIOL INFANT SYRUP 125ml,10241
+2,KE,Surgipharm,RHINATHIOL PROMETHAZINE SYRUP 125ml,12522
+2,KE,Laborex,AMARYL M 2MG CP B/30          ,399
+2,KE,Laborex,AMARYL M SR 2MG CP B/30       ,346
+2,KE,Laborex,AMARYL TABS 1MG 30'S          ,1127
+2,KE,Laborex,AMARYL TABS 2MG 30'S          ,426
+2,KE,Laborex,AMARYL TABS 4MG 30'S          ,2307
+2,KE,Laborex,APIDRA SOLOSTAR 100IU/ML 3ML/5,148
+2,KE,Laborex,APROVASC 150-5MG CP B/28      ,28
+2,KE,Laborex,APROVASC 300-5MG CP B/28      ,18
+2,KE,Laborex,BRONCHICUM ELIXIR 100ML       ,6942
+2,KE,Laborex,BUSCOPAN PLUS TABS 50'S      .,6464
+2,KE,Laborex,CLEXANE 40MG INJ 2'S          ,14542
+2,KE,Laborex,CLEXANE INJ  20MG 2'S         ,1269
+2,KE,Laborex,CLEXANE INJ  60MG 2'S         ,8365
+2,KE,Laborex,CLEXANE INJ 80MG 2'S          ,4225
+2,KE,Laborex,"CO APROVEL 150/12,5MG RMCP/28 ",1294
+2,KE,Laborex,"CO APROVEL 300/12,5MG RMCP/28 ",927
+2,KE,Laborex,CORDARONE 200MG CP B/30       ,430
+2,KE,Laborex,ENTEROGERMINA 2M/5ML F/10     ,33832
+2,KE,Laborex,EPILIM CHRONO TABS 500MG 100S ,1881
+2,KE,Laborex,EPILIM EC TABS 200MG 100'S    ,541
+2,KE,Laborex,EPILIM IV 400MG PER VIAL      ,144
+2,KE,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,7607
+2,KE,Laborex,ERCEFURYL 200MG GELU B/28     ,86
+2,KE,Laborex,ERCEFURYL SUSP BUV F/90ML     ,160
+2,KE,Laborex,FLAGENTYL 500MG CP B/4        ,5289
+2,KE,Laborex,FLAGYL SUSP 200MG 100ML       ,2488
+2,KE,Laborex,FLAGYL TABS 400MG 100'S       ,8079
+2,KE,Laborex,LANTUS 1000UI VIAL 1'S        ,197
+2,KE,Laborex,LANTUS 300IU/3ML CART/5       ,826
+2,KE,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,835
+2,KE,Laborex,LASIX INJ 20MG/2ML AMP 5'S    ,13198
+2,KE,Laborex,LASIX TABS 40MG 20'S          ,1466
+2,KE,Laborex,"MAALOX ME CIT SUSP4,3MLSAC/20 ",3855
+2,KE,Laborex,MAALOX SUSP 350ML             ,14
+2,KE,Laborex,MONOTILDIEM SR 200MG TAB 28'S ,17
+2,KE,Laborex,"MUCOSOLVAN 1,5G/100ML SIR    .",38847
+2,KE,Laborex,NO SPA 40MG CP B/100          ,222
+2,KE,Laborex,NO SPA 40MG CP B/20           ,38
+2,KE,Laborex,NO SPA 40MG INJ 2ML B/25      ,78
+2,KE,Laborex,NO SPA 40MG INJ 2ML B/5       ,209
+2,KE,Laborex,NO SPA 80MG CP B/20           ,104
+2,KE,Laborex,ORELOX 100MG CP B/10          ,2819
+2,KE,Laborex,ORELOX 200MG CP B/10          ,3036
+2,KE,Laborex,ORELOX ENF 40MG/5ML SUSP/50ML ,5839
+2,KE,Laborex,PLAVIX 75MG CP B/28 AFR       ,1188
+2,KE,Laborex,RHINATHIOL AD 5% SP F/125ML   ,12817
+2,KE,Laborex,RHINATHIOL PROMETH SP 125ML   ,5306
+2,KE,Laborex,RIFINAH 150/75MG TABS 56'S    ,15
+2,KE,Laborex,RIFOCIN INJ 250MG 1'S         ,1818
+2,KE,Laborex,STILNOX TABLETS 10MG 14'S     ,4746
+2,KE,Laborex,TARGOCID 200MG/3ML INJ /1     ,53
+2,KE,Laborex,TAVANIC 500MG CP B/5          ,1879
+2,KE,Laborex,TELFAST 120MG TABS 10'S       ,21
+2,KE,Laborex,TRITACE 5MG TABS 28'S         ,1113
+2,KE,Laborex,TRITAZIDE 5-25MG CP B/28      ,37
+2,KE,Laborex,"XATRAL 2,5MG CP B/30          ",24
+2,KE,Laborex,XATRAL LP 10MG COMP B/30      ,254
+2,KE,Laborex,XATRAL LP 5MG CP B/56         ,23
+2,KE,Harleys,Amaryl M 2mg/500mgtablets 30's,768
+2,KE,Harleys,Amaryl M SR 2mg/500mg tablets 30's,60
+2,KE,Harleys,Amaryl Tablets 1mg  30's,629
+2,KE,Harleys,Amaryl Tablets 2mg  30's,3233
+2,KE,Harleys,Amaryl Tablets 4mg  30's,264
+2,KE,Harleys,Apidra Solostar 300IU pens 5s - COLD CHAIN,29
+2,KE,Harleys,Aprovasc 150mg/10mg tablets 28's,1
+2,KE,Harleys,Aprovasc 150mg/5mg tablets 28's,200
+2,KE,Harleys,Aprovel 300mg tablets 28's,93
+2,KE,Harleys,Axacef 250mg Tablets 10's,1424
+2,KE,Harleys,Axacef 500mg Tablets 10's,5
+2,KE,Harleys,Bioferon Capsules 30's,337
+2,KE,Harleys,Buscopan injection 20mg/ml  - 5s,884
+2,KE,Harleys,Buscopan plus tablets 50's,15639
+2,KE,Harleys,Clexane 40mg inj 2's,7306
+2,KE,Harleys,Clexane 80mg injection 2's,2252
+2,KE,Harleys,Coaprovel Tablets 150/12.5 mg 28's,588
+2,KE,Harleys,Cordarone Tablets 200mg 30's,18
+2,KE,Harleys,Eloxatin 5mg/ml  Injection 10ml,18
+2,KE,Harleys,Enterogermina Oral Suspension 10 x 5ml,9147
+2,KE,Harleys,Epilim Chrono 300mg  Tablets 100's - DDA,1355
+2,KE,Harleys,Epilim Chrono 500mg  Tablets 100's - DDA,22
+2,KE,Harleys,Epilim EC 200mg tablets 100's - DDA,10
+2,KE,Harleys,Epilim IV 400mg/4ml Vial,218
+2,KE,Harleys,Flagentyl  500mg Tablets 4's,61
+2,KE,Harleys,Flagyl Suspension 200mg/5ml 100ml,6
+2,KE,Harleys,Flagyl Tablets 400mg 100's,4116
+2,KE,Harleys,Fleming 1.2g Dry Powder For Injection 5's,581
+2,KE,Harleys,Fleming 1gm Tablets 14's,438
+2,KE,Harleys,Fleming 228.5mg/5ml Dry Powder For Suspension 70ml,8795
+2,KE,Harleys,Fleming 457mg/5ml Dry Powder For Suspension 70ml,1430
+2,KE,Harleys,Fleming 625mg Tablets 14's,17
+2,KE,Harleys,Ibex Capsule 2 x 12's,1200
+2,KE,Harleys,Lantus Solostar 100u/3ml 5's PENS - COLD CHAIN,852
+2,KE,Harleys,Lantus vial 10ml - COLD CHAIN,102
+2,KE,Harleys,Lasix 40mg Tablets 20's,391
+2,KE,Harleys,Lasix Injection 20mg 5 x 2ml AMP,830
+2,KE,Harleys,Maalox plus 200mg (4x10),1473
+2,KE,Harleys,Maalox Suspension 350ml,286
+2,KE,Harleys,Monotildiem SR 200mg Capsules 28's,39
+2,KE,Harleys,Mucosolvan liquid 15mg/5ml 100ml,23690
+2,KE,Harleys,No-Spa 40mg Tablets 100's,610
+2,KE,Harleys,No-Spa 40mg/2ml Injection 25's,4
+2,KE,Harleys,No-Spa Forte 80mg Tablets 20's,303
+2,KE,Harleys,No-Spa Tablets 40mg 20's,3
+2,KE,Harleys,Orelox 200mg Tablets 10's,32
+2,KE,Harleys,Orelox 40mg/5ml suspension 100ml,1104
+2,KE,Harleys,Orelox 40mg/5ml suspension 50ml,658
+2,KE,Harleys,Plavix 75mg Tablets 28's,336
+2,KE,Harleys,Rhinathiol Promethazine Syrup  125ml,18096
+2,KE,Harleys,Stilnox10mg Tablet's 14's - DDA,5033
+2,KE,Harleys,Targocid 200mg/vial inj,30
+2,KE,Harleys,Tavanic 500mg inj 1FL 100ml,299
+2,KE,Harleys,Tavanic Tablets 500mg 5's,3169
+2,KE,Harleys,Taxotere 20mg/Vial,156
+2,KE,Harleys,Taxotere 80mg/4ml Injection Vial,2
+2,KE,Harleys,Tritace 2.5mg tabs 28's,42
+2,KE,Harleys,Tritace 5mg tablets 28's,78
+2,KE,Harleys,Tritazide 5mg/25mg Tablets 28's,4
+2,KE,Harleys,Xatral 5mg Tablets 56's,16
+2,KE,Harleys,Zoxon 1gm Injection 1's,9666
+2,KE,Highchem,AMARYL M 2mg/500mg 30'S,541
+2,KE,Highchem,AMARYL TABS 1.0mg 30'S,801
+2,KE,Highchem,AMARYL TABS 2.0mg 30'S,93
+2,KE,Highchem,AMARYL TABS 4.0mg 30'S,448
+2,KE,Highchem,APROVASC 150/5mg TABS 28'S,50
+2,KE,Highchem,APROVASC 150-10 MG 28'S,9
+2,KE,Highchem,APROVASC 300-10 MG 28'S,81
+2,KE,Highchem,APROVASC 300-5MG TABS,15
+2,KE,Highchem,APROVEL 300mg TABS 28'S,140
+2,KE,Highchem,ARTESUNATE AMO 100mg/270mg 3's,14309
+2,KE,Highchem,ARTESUNATE AMO.25mg/67.5mg 3's,56534
+2,KE,Highchem,ARTESUNATE AMOD 100MG/270 6's,7378
+2,KE,Highchem,ARTESUNATE AMOD 50mg/135mg 3's,22376
+2,KE,Highchem,BIOFERON CAPS 30'S,131
+2,KE,Highchem,BRONCHICUM ELIXIR 100ml,1969
+2,KE,Highchem,CLEXANE 20mg 2'S,140
+2,KE,Highchem,CLEXANE 40mg 2'S,478
+2,KE,Highchem,CO-APROVEL TABS 150/12.5mg 28'S,275
+2,KE,Highchem,CORDARONE TAB 200mg 30'S,531
+2,KE,Highchem,ENTEROGERMINA 5.0ml 10'S,847
+2,KE,Highchem,EPILIM 200mg TABS EC 100'S,1476
+2,KE,Highchem,EPILIM 300ml SYRUP,1092
+2,KE,Highchem,EPILIM CHRONO 300mg TABS 100'S,808
+2,KE,Highchem,EPILIM CHRONO 500mg TABS 100'S,856
+2,KE,Highchem,ERCEFURYL 200mg CAPS 28'S,61
+2,KE,Highchem,FLAGENTYL 500mg TABS,921
+2,KE,Highchem,FLAGYL 100ml SUSPENSION,90
+2,KE,Highchem,FLAGYL 400mg TABS 100'S,70
+2,KE,Highchem,FLEMING 1000mg+200mg 5's INJ,157
+2,KE,Highchem,FLEMING 228.5mg/5ml 70ml SUSPE..,742
+2,KE,Highchem,FLEMING 500mg+125mg TABS 14'S,211
+2,KE,Highchem,FLEMING 875mg+125mg TABS 14'S,30
+2,KE,Highchem,LANTUS SOLOSTAR 3ml 5'S,272
+2,KE,Highchem,LASIX 20mg AMPS 5'S,500
+2,KE,Highchem,LASIX 40mg TABS 20'S,970
+2,KE,Highchem,MAALOX 150ml SUSPENSION,1332
+2,KE,Highchem,MAALOX 350ml SUSPENSION,358
+2,KE,Highchem,MAALOX PLUS 200MG TABS BL4X10,494
+2,KE,Highchem,NO SPA 40mg TABS 100'S,283
+2,KE,Highchem,NO SPA 40mg TABS 20'S,308
+2,KE,Highchem,NO SPA 40mg/2ml INJECTION 25'S,33
+2,KE,Highchem,NO SPA 40mg/2ml INJECTION 5'S,120
+2,KE,Highchem,NO SPA FORTE 80mg TABS 20'S,1
+2,KE,Highchem,ORELOX 100mg TABS 10'S,286
+2,KE,Highchem,ORELOX 100ml SUSPENSION,382
+2,KE,Highchem,ORELOX 200mg TABS 10'S,555
+2,KE,Highchem,ORELOX 50ml SUSPENSION,408
+2,KE,Highchem,PLAVIX 75mg TABS 28'S,388
+2,KE,Highchem,RESONIUM 454g ADULT POWDER,646
+2,KE,Highchem,RHINATHIOL AD 125ml SP,3955
+2,KE,Highchem,RHINATHIOL ENFT 125ml SP,5823
+2,KE,Highchem,RHINATHIOL PROM 125ml SP,2972
+2,KE,Highchem,STILNOX 10mg TABS 14'S,2266
+2,KE,Highchem,TAVANIC 500mg TABS 5'S,1845
+2,KE,Highchem,TAVANIC INJECTION 500mg,350
+2,KE,Highchem,TRITACE 2.5 MG TABS 28s,187
+2,KE,Highchem,TRITAZIDE 5/12.5mg TABS 28'S,6
+2,KE,Highchem,TRITAZIDE 5/25mg TABS 28'S,242
+2,KE,Highchem,XATRAL LP 10mg TABS 30'S,54
+2,KE,Highchem,XATRAL LP TABLETS 5MG*56s,236
+2,KE,Highchem,ZOXON 1000mg,960
+2,KE,Laborex,AMARYL M 2MG CP B/30          ,1156
+2,KE,Laborex,AMARYL M SR 2MG CP B/30       ,524
+2,KE,Laborex,AMARYL TABS 1MG 30'S          ,815
+2,KE,Laborex,AMARYL TABS 4MG 30'S          ,1865
+2,KE,Laborex,APIDRA SOLOSTAR 100IU/ML 3ML/5,160
+2,KE,Laborex,APROVASC 150-5MG CP B/28      ,13
+2,KE,Laborex,APROVASC 300-5MG CP B/28      ,4
+2,KE,Laborex,BRONCHICUM ELIXIR 100ML       ,6054
+2,KE,Laborex,BUSCOPAN PLUS TABS 50'S      .,4134
+2,KE,Laborex,CLEXANE 40MG INJ 2'S          ,23995
+2,KE,Laborex,CLEXANE INJ  20MG 2'S         ,450
+2,KE,Laborex,CLEXANE INJ  60MG 2'S         ,6861
+2,KE,Laborex,CLEXANE INJ 80MG 2'S          ,3621
+2,KE,Laborex,"CO APROVEL 150/12,5MG RMCP/28 ",1258
+2,KE,Laborex,"CO APROVEL 300/12,5MG RMCP/28 ",807
+2,KE,Laborex,CORDARONE 200MG CP B/30       ,352
+2,KE,Laborex,ENTEROGERMINA 2M/5ML F/10     ,29810
+2,KE,Laborex,EPILIM CHRONO TABS 500MG 100S ,1623
+2,KE,Laborex,EPILIM EC TABS 200MG 100'S    ,458
+2,KE,Laborex,EPILIM IV 400MG PER VIAL      ,137
+2,KE,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,10154
+2,KE,Laborex,ERCEFURYL 200MG GELU B/28     ,21
+2,KE,Laborex,ERCEFURYL SUSP BUV F/90ML     ,87
+2,KE,Laborex,FLAGENTYL 500MG CP B/4        ,4599
+2,KE,Laborex,FLAGYL SUSP 200MG 100ML       ,1410
+2,KE,Laborex,FLAGYL TABS 400MG 100'S       ,14373
+2,KE,Laborex,LANTUS 1000UI VIAL 1'S        ,164
+2,KE,Laborex,LANTUS 300IU/3ML CART/5       ,811
+2,KE,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,669
+2,KE,Laborex,LASIX INJ 20MG/2ML AMP 5'S    ,12160
+2,KE,Laborex,LASIX TABS 40MG 20'S          ,7
+2,KE,Laborex,"MAALOX ME CIT SUSP4,3MLSAC/20 ",3571
+2,KE,Laborex,MAALOX PLUS SUSP 150ML        ,2
+2,KE,Laborex,MAALOX SUSP 350ML             ,7
+2,KE,Laborex,MONOTILDIEM SR 200MG TAB 28'S ,6
+2,KE,Laborex,"MUCOSOLVAN 1,5G/100ML SIR    .",37030
+2,KE,Laborex,NO SPA 40MG CP B/100          ,174
+2,KE,Laborex,NO SPA 40MG CP B/20           ,33
+2,KE,Laborex,NO SPA 40MG INJ 2ML B/25      ,65
+2,KE,Laborex,NO SPA 40MG INJ 2ML B/5       ,208
+2,KE,Laborex,NO SPA 80MG CP B/20           ,67
+2,KE,Laborex,ORELOX 100MG CP B/10          ,5079
+2,KE,Laborex,ORELOX 200MG CP B/10          ,5379
+2,KE,Laborex,ORELOX ENF 40MG/5ML SUS/100ML ,6522
+2,KE,Laborex,ORELOX ENF 40MG/5ML SUSP/50ML ,5311
+2,KE,Laborex,PLAVIX 75MG CP B/28 AFR       ,1114
+2,KE,Laborex,RHINATHIOL AD 5% SP F/125ML   ,12528
+2,KE,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",14595
+2,KE,Laborex,RHINATHIOL PROMETH SP 125ML   ,49212
+2,KE,Laborex,RIFAFOUR TABLETS 84'S         ,32
+2,KE,Laborex,RIFINAH 150/75MG TABS 56'S    ,15
+2,KE,Laborex,RIFOCIN INJ 250MG 1'S         ,1634
+2,KE,Laborex,STILNOX TABLETS 10MG 14'S     ,3810
+2,KE,Laborex,TARGOCID 200MG/3ML INJ /1     ,53
+2,KE,Laborex,TAVANIC 500MG CP B/5          ,2743
+2,KE,Laborex,TELFAST 120MG TABS 10'S       ,10
+2,KE,Laborex,TRITACE 5MG TABS 28'S         ,989
+2,KE,Laborex,TRITAZIDE 5-25MG CP B/28      ,27
+2,KE,Laborex,"XATRAL 2,5MG CP B/30          ",14
+2,KE,Laborex,XATRAL LP 10MG COMP B/30      ,177
+2,KE,Laborex,XATRAL LP 5MG CP B/56         ,10
+2,KE,Surgipharm,ALLSTAR PEN,218
+2,KE,Surgipharm,AMARYL M SR TABS 2MG-500mg * 30's,874
+2,KE,Surgipharm,AMARYL M TABS 2mg * 30's,1925
+2,KE,Surgipharm,AMARYL TABS 1mg * 30's,2059
+2,KE,Surgipharm,AMARYL TABS 2mg * 30's,610
+2,KE,Surgipharm,AMARYL TABS 4mg * 30's,646
+2,KE,Surgipharm,APIDRA SOLOSTAR 3ML DISP PENS * 5s,160
+2,KE,Surgipharm,APROVASC TAB 150-5MG *28,362
+2,KE,Surgipharm,APROVASC TAB 300-10MG *28,267
+2,KE,Surgipharm,APROVASC TAB 300-5MG *28,321
+2,KE,Surgipharm,APROVEL TABS 300mg * 28's,569
+2,KE,Surgipharm,AXACEF TABLETS 250MG * 10,172
+2,KE,Surgipharm,AXACEF TABLETS 500MG * 10's,129
+2,KE,Surgipharm,CLEXANE INJ. 20mg * 2,198
+2,KE,Surgipharm,CLEXANE INJ. 40mg * 2,20876
+2,KE,Surgipharm,CLEXANE INJ. 80mg * 2,8
+2,KE,Surgipharm,CO APROVEL TABS 150mg * 28's,512
+2,KE,Surgipharm,CO APROVEL TABS 300mg * 28's,717
+2,KE,Surgipharm,CORDARONE TABLETS 200mg * 30,880
+2,KE,Surgipharm,ELOXATIN INJ 100mg * 1,12
+2,KE,Surgipharm,ELOXATIN INJ 50mg * 1,20
+2,KE,Surgipharm,EPILIM CHRONO TABS 300mg * 100,302
+2,KE,Surgipharm,EPILIM CHRONO TABS 500mg * 100,178
+2,KE,Surgipharm,EPILIM EC TABLETS 200mg * 100,307
+2,KE,Surgipharm,EPILIM INJECTION 400MG * 1,50
+2,KE,Surgipharm,EPILIM SYRUP 300ml,5478
+2,KE,Surgipharm,FLAGENTYL TABS 500mg * 4,5361
+2,KE,Surgipharm,FLAGYL SUSPENSION 100ml,1773
+2,KE,Surgipharm,FLAGYL TABS 400mg * 100's,366
+2,KE,Surgipharm,FLEMING INJ 1.2GM * 5'S,1207
+2,KE,Surgipharm,FLEMING SUSP 228.5MG/5ML * 70ML,2568
+2,KE,Surgipharm,FLEMING SUSP 457MG/5ML * 70ML,1903
+2,KE,Surgipharm,FLEMING TABS 1 G * 2*7'S,1327
+2,KE,Surgipharm,FLEMING TABS 625MG * 14'S,4200
+2,KE,Surgipharm,LANTUS 10ml VIAL,376
+2,KE,Surgipharm,LANTUS 3ml CARTRIDGE * 5's,606
+2,KE,Surgipharm,LANTUS SOLOSTAR 3ML CARTRIDGE (INSULIN GLARGINE),2337
+2,KE,Surgipharm,LASIX AMPS 2ml * 5,3991
+2,KE,Surgipharm,LASIX TABS 40mg * 20,46
+2,KE,Surgipharm,MONO-TILDIEM CAPS SR 200mg * 28's,296
+2,KE,Surgipharm,ORELOX SUSP 40MG/5ML 100ML,3951
+2,KE,Surgipharm,ORELOX SUSP 40MG/5ML 50ML,2523
+2,KE,Surgipharm,ORELOX TABS 100MG *10'S,4160
+2,KE,Surgipharm,ORELOX TABS 200MG *10'S,3323
+2,KE,Surgipharm,PLAVIX TABS 75mg * 28's,1533
+2,KE,Surgipharm,RESONIUM ADULT POWDER 454G,2
+2,KE,Surgipharm,RIFOCIN INJ. 250mg * 1's,2062
+2,KE,Surgipharm,STILNOX TABS 10MG * 14,4008
+2,KE,Surgipharm,TAVANIC INJ. 500mg VIAL,111
+2,KE,Surgipharm,TAVANIC TABS 500mg * 5,1680
+2,KE,Surgipharm,TAXOTERE 80mg/4ml * 1 VIAL,296
+2,KE,Surgipharm,TRITACE TABS 2.5mg * 28's,566
+2,KE,Surgipharm,TRITACE TABS 5mg * 28's,675
+2,KE,Surgipharm,TRITAZIDE TABS 5/12.5MG * 28'S,549
+2,KE,Surgipharm,TRITAZIDE TABS 5/25MG * 28'S,110
+2,KE,Surgipharm,XATRAL LP TABLETS 5mg * 56's,139
+2,KE,Surgipharm,XATRAL LP TABS 10mg * 30's,1640
+2,KE,Surgipharm,BIOFERON CAPS *30  (SANOFI),539
+2,KE,Surgipharm,BRONCHICUM SYRUP * 100ml,85
+2,KE,Surgipharm,BUSCOPAN AMPOULES 20mg/1ml * 5's,11468
+2,KE,Surgipharm,BUSCOPAN PLUS TABLETS * 50's,400
+2,KE,Surgipharm,ENTEROGERMINA VIALS 5ML * 10's,6146
+2,KE,Surgipharm,ERCEFURYL CAPSULES 200mg * 28,837
+2,KE,Surgipharm,ERCEFURYL SUSPENSION 90ml,44
+2,KE,Surgipharm,IBEX CAPSULES 2*12,10106
+2,KE,Surgipharm,MAALOX LEMON STICK 460mg/susp *20s,2490
+2,KE,Surgipharm,MAALOX PLUS TABLETS 200MG * 40's,2931
+2,KE,Surgipharm,MAALOX SUSPENSION 350ml,57
+2,KE,Surgipharm,MUCOSOLVAN LIQUID 15mg/5ml * 100ml,51483
+2,KE,Surgipharm,NO SPA FORTE TABLETS 80MG * 20,168
+2,KE,Surgipharm,NO SPA INJECTION 40mg/2ml * 25Amps,104
+2,KE,Surgipharm,NO SPA TABLETS 40mg * 100's,139
+2,KE,Surgipharm,NO SPA TABLETS 40mg * 20,173
+2,KE,Surgipharm,RHINATHIOL ADULT EXP 200M(SUGAR FR),29
+2,KE,Surgipharm,RHINATHIOL EXPEC/ADULT SYRUP 125ml,4453
+2,KE,Surgipharm,RHINATHIOL INFANT SYRUP 125ml,10090
+2,KE,Surgipharm,RHINATHIOL PROMETHAZINE SYRUP 125ml,9840
+2,KE,Harleys,Zoxon 1gm Injection 1's,9666

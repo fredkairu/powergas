@@ -1,0 +1,699 @@
+MONTH,COUNTRY,DISTRIBUTOR,Distributor NAMING,QUANTITY_UNITS
+1,ET,Beker,Amaryl SA 2mg 30 tabs,4
+1,ET,Beker,Amaryl SA 4mg 2*15 tabs,5
+1,ET,Beker,Clexane 4000IU 21NJD SWI,306
+1,ET,Beker,Clexane 6000IU 21NJD SWI,901
+1,ET,Beker,Clexane 8000IU 21NJD SWI,23
+1,ET,Beker,Clomid 50mg 10 tab,3
+1,ET,Beker,NO-SPA Tab 40mg of 100 Total,18
+1,ET,Dejen,AMARYL 2MG Tab. BL2*15,4474
+1,ET,Dejen,AMARYL 4MG Tab. BL2*15,881
+1,ET,Dejen,CLEXANE 4000 IU/0.4ml 2 INJ ,4000
+1,ET,Dejen,CLEXANE 6000IU/0.6ML Inj 2,3286
+1,ET,Dejen,CLEXANE 8000IU/0.8ML Inj. 2,1650
+1,ET,Dejen,DAONIL 5MG Tab. 100,30833
+1,ET,Dejen,EPILIM 200 mg 10X10 Tab,2836
+1,ET,Dejen,EPILIM 200 mg/5ml syrup,7
+1,ET,Dejen,EPILIM CHRONO 500 mg 10X10 Tab,3
+1,ET,Dejen,LASIX 40MG TAB. 20,675
+1,ET,Dejen,NO-SPA 40MG TAB. BL10*10,1340
+1,ET,Dejen,ORELOX 100MG TAB10,3591
+1,ET,Dejen,Rhinathiol 2.5G/125ML,14427
+1,ET,Dejen,Rhinathiol 6.25G/125ML,23000
+1,ET,Dejen,Xatral LP 10mg TAB 30,595
+1,ET,Dugda,AMARYL 4mg 2x15 Tab,54
+1,ET,Dugda,CLEXANE 4000 IU/0.4ml 2 INJ ,997
+1,ET,Dugda,CLEXANE 8000 IU/0.8ml 2 INJ,498
+1,ET,Dugda,CLOMID 50 mg OF 10 Tab,321
+1,ET,Dugda,CO-Aprovel 150/12.5 mg of 28Tab,1203
+1,ET,Dugda,CO-Aprovel 300/12.5 mg of 28Tab,696
+1,ET,Dugda,DAONIL 5 mg OF 100 Tab,7467
+1,ET,Dugda,NO-SPA 40 mg 10X10 Tab,3205
+1,ET,Dugda,ORELOX 100 mg OF 10 Tab,3676
+1,ET,EBG,Amaryl SA 2mg 30 tabs,31
+1,ET,EBG,Aprovel  Rm 150 28cap,47
+1,ET,EBG,Aprovel Rm 300 28cap,40
+1,ET,EBG,Clexane 4000IU 21NJD SWI,620
+1,ET,EBG,Clexane 6000IU 21NJD SWI,514
+1,ET,EBG,DAONIL 5MG OF 10*10,208
+1,ET,EBG,LASIX 40MG OF 20,25
+1,ET,EBG,NO-SPA Tab 40mg of 100 Total,2756
+1,ET,EBG,Rhinathiol SRP AD 5% 125ml ,17
+1,ET,Zemera,Clexane 6000IU/0.6ml of 2,965
+1,ET,Zemera,Clexane 8000IU/0.8ml of 2,185
+1,TZ,Bahari,Epilim Tabs 200mg ,129
+1,TZ,Bahari,Flagently Tabs 500mg-4,189
+1,TZ,Bahari,FLEMING SYRUP 228,294
+1,TZ,Bahari,FLEMING TABLET 625,527
+1,TZ,Bahari,No-Spa Tabs 40mg 100'S,1
+1,TZ,Bahari,Orelox 200mg Tabs,430
+1,TZ,Bahari,Rhinathiol Adults Sugarfree,3
+1,TZ,Bahari,Rhinothiol 6.25mg Adults ,2565
+1,TZ,JD,FLEMING 228MG SYRUP 70ML (AUGMENTIN),74
+1,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,1128
+1,TZ,JD,SANOFI AMARYL TABS 1MG 30S,185
+1,TZ,JD,SANOFI AMARYL TABS 2MG 30S,245
+1,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,153
+1,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,353
+1,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,117
+1,TZ,JD,SANOFI FLEMING 625MG TABS 14S,337
+1,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,511
+1,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,385
+1,TZ,JD,SANOFI ORELOX TABS 200MG 10S,13
+1,TZ,JD,SANOFI RHINATHIOL PROMETHAZINE SYRUP 125MLS,1
+1,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,6541
+1,TZ,JD,SANOFI RHINATHIOL SYRUP 5% ADULT 125MLS 1 U.K,441
+1,TZ,Laborex,AMARYL TABS 1MG 30'S          ,390
+1,TZ,Laborex,AMARYL TABS 2MG 30'S          ,438
+1,TZ,Laborex,AMARYL TABS 4MG 30'S          ,3
+1,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",763
+1,UG,Eris,"Bioferon 305mg Caps, 30's",436
+1,UG,Eris,Cordarone 200mg Tabs 30's,8
+1,UG,Eris,"Epilim 200mg Tabs, 100's",75
+1,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",28
+1,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",221
+1,UG,Eris,"Flagentyl 500mg Tabs, 4's",170
+1,UG,Eris,"Fleming 228mg/5ml, 70ml",1636
+1,UG,Eris,"Fleming 625mg Tabs, 14's",216
+1,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",34
+1,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",86
+1,UG,Eris,"No Spa 40mg Tabs, 100's",442
+1,UG,Eris,"No Spa 40mg/2ml Inj, 5's",2
+1,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",245
+1,UG,Eris,"Xatral 10mg Tabs, 30's",23
+1,UG,Laborex,AMARYL TABS 1MG 30'S          ,126
+1,UG,Laborex,AMARYL TABS 2MG 30'S          ,140
+1,UG,Laborex,AMARYL TABS 4MG 30'S          ,180
+1,UG,Laborex,CLEXANE 40MG INJ 2'S          ,847
+1,UG,Laborex,CLEXANE INJ  60MG 2'S         ,528
+1,UG,Laborex,CLEXANE INJ 80MG 2'S          ,862
+1,UG,Laborex,CORDARONE 200MG CP B/30       ,415
+1,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,640
+1,UG,Laborex,EPILIM EC TABS 200MG 100'S    ,768
+1,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,1227
+1,UG,Laborex,FLAGENTYL 500MG CP B/4        ,679
+1,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,272
+1,UG,Laborex,NO SPA 40MG CP B/100          ,5647
+1,UG,Laborex,NO SPA 40MG INJ 2ML B/25      ,54
+1,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,334
+1,UG,Laborex,ORELOX ENF 40MG/5ML SUS/100ML ,385
+1,UG,Laborex,ORELOX ENF 40MG/5ML SUSP/50ML ,1841
+1,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,2084
+1,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1490
+1,UG,Laborex,XATRAL LP 10MG COMP B/30      ,171
+1,UG,lifepharma,SNF Clexane 4000 IU Inj 2's,160
+1,UG,lifepharma,SNF Clexane 6000 IU Inj 2's,160
+1,UG,lifepharma,SNF Clexane 8000 IU Inj 2's,190
+1,UG,lifepharma,SNF Epilim 300ml,150
+1,UG,lifepharma,SNF Epilim Ec 200mg 10x10's,139
+1,UG,lifepharma,SNF Fleming 625 mg tabs 2x7,620
+1,UG,lifepharma,SNF No - Spa 40mg Inj 1x25's,570
+1,UG,lifepharma,Snf No Spa 40 Mg 10x10,1001
+1,UG,lifepharma,SNF Rhinathiol 2.5,1100
+1,UG,lifepharma,SNF Rhinathiol 6.25,1100
+1,UG,Surgipharm,Amaryl M Tab 2mg 30's,316
+1,UG,Surgipharm,Amaryl Tabs 1mg x 30 (Glimepiride),344
+1,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),372
+1,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),197
+1,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1277
+1,UG,Surgipharm,Clexane Inj 20mg x 2 (Enoxaparin),371
+1,UG,Surgipharm,Clexane Inj 40mg x 2 (Enoxaparin),1401
+1,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),1680
+1,UG,Surgipharm,Clexane Inj 80mg x 2 (Enoxaparin),893
+1,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+1,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),741
+1,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),273
+1,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1761
+1,UG,Surgipharm,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),97
+1,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,425
+1,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),192
+1,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),3583
+1,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),752
+1,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),103
+1,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),604
+1,UG,Surgipharm,No Spa Inj 40mg/2ml x 25 (Drotaverine HCl),9
+1,UG,Surgipharm,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),368
+1,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),352
+1,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),44
+1,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),722
+1,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),704
+1,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),327
+2,ET,Beker,Amaryl SA 2mg 30 tabs,4
+2,ET,Beker,Amaryl SA 4mg 2*15 tabs,5
+2,ET,Beker,Clexane 4000IU 21NJD SWI,306
+2,ET,Beker,Clexane 6000IU 21NJD SWI,901
+2,ET,Beker,Clexane 8000IU 21NJD SWI,23
+2,ET,Beker,Clomid 50mg 10 tab,3
+2,ET,Beker,NO-SPA Tab 40mg of 100 Total,18
+2,ET,Dejen,AMARYL 2mg 2x15 Tab,2027
+2,ET,Dejen,AMARYL 4mg 2x15 Tab,1005
+2,ET,Dejen,CLEXANE 4000 IU/0.4ml 2 INJ ,3843
+2,ET,Dejen,CLEXANE 6000 IU/0.6ml 2 INJ ,2852
+2,ET,Dejen,CLEXANE 8000 IU/0.8ml 2 INJ,1595
+2,ET,Dejen,DAONIL 5 mg OF 100 Tab,30809
+2,ET,Dejen,NO-SPA 40 mg 10X10 Tab,1297
+2,ET,Dejen,ORELOX 100 mg OF 10 Tab,2711
+2,ET,Dejen,Rhinathiol 2.5g/125ml syr,10225
+2,ET,Dejen,Rhinathiol 6.25g/125ml syr,18841
+2,ET,Dejen,XATRAL 10mg OF 30 Tab,505
+2,ET,Dugda,AMARYL 4mg 2x15 Tab,54
+2,ET,Dugda,CLEXANE 4000 IU/0.4ml 2 INJ ,644
+2,ET,Dugda,CLEXANE 8000 IU/0.8ml 2 INJ,334
+2,ET,Dugda,CO-Aprovel 150/12.5 mg of 28Tab,488
+2,ET,Dugda,CO-Aprovel 300/12.5 mg of 28Tab,631
+2,ET,Dugda,DAONIL 5 mg OF 100 Tab,6257
+2,ET,Dugda,NO-SPA 40 mg 10X10 Tab,3205
+2,ET,Dugda,ORELOX 100 mg OF 10 Tab,3436
+2,ET,EBG,Amaryl SA 1mg 2*15 tabs,143
+2,ET,EBG,Amaryl SA 2mg 30 tabs,1648
+2,ET,EBG,Amaryl SA 4mg 2*15 tabs,827
+2,ET,EBG,Aprovel  Rm 150 28cap,146
+2,ET,EBG,Clexane 4000IU 21NJD SWI,1848
+2,ET,EBG,Clexane 6000IU 21NJD SWI,1829
+2,ET,EBG,Clexane 8000IU 21NJD SWI,375
+2,ET,EBG,Coaprovel 150mg /12.5mg 28 tab tab,63
+2,ET,EBG,Coaprovel 300mg/12.5mg 28 tab,33
+2,ET,EBG,DAONIL 5MG OF 10*10,1628
+2,ET,EBG,Epilim* Chrono 500 CP EX S2,253
+2,ET,EBG,Lantus solostar 300 units of 5,198
+2,ET,EBG,LASIX 40MG OF 20,775
+2,ET,EBG,NO-SPA Tab 40mg of 100 Total,2285
+2,ET,Zemera,Clexane 6000IU/0.6ml of 2,870
+2,ET,Zemera,Clexane 8000IU/0.8ml of 2 ,140
+2,TZ,JD,FLEMING 228MG SYRUP 70ML (AUGMENTIN),70
+2,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,1102
+2,TZ,JD,SANOFI AMARYL TABS 1MG 30S,142
+2,TZ,JD,SANOFI AMARYL TABS 2MG 30S,183
+2,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,131
+2,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,290
+2,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,102
+2,TZ,JD,SANOFI FLEMING 625MG TABS 14S,331
+2,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,482
+2,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,278
+2,TZ,JD,SANOFI ORELOX TABS 200MG 10S,3
+2,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,6152
+2,TZ,JD,SANOFI RHINATHIOL SYRUP 5% ADULT 125MLS 1 U.K,375
+2,TZ,Laborex,AMARYL TABS 1MG 30'S          ,366
+2,TZ,Laborex,AMARYL TABS 2MG 30'S          ,398
+2,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",676
+2,UG,Eris,"Bioferon 305mg Caps, 30's",436
+2,UG,Eris,Cordarone 200mg Tabs 30's,8
+2,UG,Eris,"Epilim 200mg Tabs, 100's",61
+2,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",19
+2,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",209
+2,UG,Eris,"Flagentyl 500mg Tabs, 4's",100
+2,UG,Eris,"Fleming 228mg/5ml, 70ml",1624
+2,UG,Eris,"Fleming 625mg Tabs, 14's",163
+2,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",27
+2,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",84
+2,UG,Eris,"No Spa 40mg Tabs, 100's",398
+2,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",211
+2,UG,Eris,"Xatral 10mg Tabs, 30's",23
+2,UG,Laborex,AMARYL TABS 1MG 30'S          ,106
+2,UG,Laborex,AMARYL TABS 2MG 30'S          ,137
+2,UG,Laborex,AMARYL TABS 4MG 30'S          ,160
+2,UG,Laborex,CLEXANE 40MG INJ 2'S          ,742
+2,UG,Laborex,CLEXANE INJ  60MG 2'S         ,518
+2,UG,Laborex,CLEXANE INJ 80MG 2'S          ,812
+2,UG,Laborex,CORDARONE 200MG CP B/30       ,415
+2,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,581
+2,UG,Laborex,EPILIM EC TABS 200MG 100'S    ,352
+2,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,1175
+2,UG,Laborex,FLAGENTYL 500MG CP B/4        ,608
+2,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,236
+2,UG,Laborex,NO SPA 40MG CP B/100          ,5213
+2,UG,Laborex,NO SPA 40MG INJ 2ML B/25      ,45
+2,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,334
+2,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,1770
+2,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1157
+2,UG,Laborex,XATRAL LP 10MG COMP B/30      ,171
+2,UG,lifepharma,SNF Fleming 625 mg tabs 2x7,400
+2,UG,lifepharma,SNF No - Spa 40mg Inj 1x25's,170
+2,UG,lifepharma,Snf No Spa 40 Mg 10x10,201
+2,UG,lifepharma,SNF Rhinathiol 2.5,500
+2,UG,lifepharma,SNF Rhinathiol 6.25,500
+2,UG,Surgipharm,Amaryl M Tab 2mg 30's,302
+2,UG,Surgipharm,Amaryl Tabs 1mg x 30 (Glimepiride),313
+2,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),349
+2,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),182
+2,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1267
+2,UG,Surgipharm,Clexane Inj 20mg x 2 (Enoxaparin),371
+2,UG,Surgipharm,Clexane Inj 40mg x 2 (Enoxaparin),971
+2,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),1487
+2,UG,Surgipharm,Clexane Inj 80mg x 2 (Enoxaparin),532
+2,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+2,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),686
+2,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),220
+2,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1544
+2,UG,Surgipharm,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),47
+2,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,332
+2,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),191
+2,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),3414
+2,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),703
+2,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),58
+2,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),604
+2,UG,Surgipharm,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),361
+2,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),352
+2,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),44
+2,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),722
+2,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),357
+2,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),327
+3,ET,Beker,Amaryl SA 2mg 30 tabs,4
+3,ET,Beker,Amaryl SA 4mg 2*15 tabs,5
+3,ET,Beker,Clexane 4000IU 21NJD SWI,256
+3,ET,Beker,Clexane 6000IU 21NJD SWI,896
+3,ET,Beker,Clexane 8000IU 21NJD SWI,18
+3,ET,Beker,Clomid 50mg 10 tab,3
+3,ET,Beker,NO-SPA Tab 40mg of 100 Total,18
+3,ET,Dejen,AMARYL 2mg 2x15 Tab,460
+3,ET,Dejen,CLEXANE 4000 IU/0.4ml 2 INJ ,3535
+3,ET,Dejen,CLEXANE 6000 IU/0.6ml 2 INJ ,2682
+3,ET,Dejen,CLEXANE 8000 IU/0.8ml 2 INJ,1435
+3,ET,Dejen,DAONIL 5 mg OF 100 Tab,30121
+3,ET,Dejen,NO-SPA 40 mg 10X10 Tab,1177
+3,ET,Dejen,ORELOX 100 mg OF 10 Tab,1841
+3,ET,Dejen,Rhinathiol 2.5g/125ml syr,8339
+3,ET,Dejen,Rhinathiol 6.25g/125ml syr,16251
+3,ET,Dugda,CLEXANE 8000 IU/0.8ml 2 INJ,289
+3,ET,Dugda,CO-Aprovel 300/12.5 mg of 28Tab,366
+3,ET,Dugda,DAONIL 5 mg OF 100 Tab,4527
+3,ET,Dugda,NO-SPA 40 mg 10X10 Tab,3132
+3,ET,Dugda,ORELOX 100 mg OF 10 Tab,3186
+3,ET,EBG,Amaryl SA 2mg 30 tabs,592
+3,ET,EBG,Amaryl SA 4mg 2*15 tabs,40
+3,ET,EBG,Aprovel  Rm 150 28cap,26
+3,ET,EBG,Clexane 4000IU 21NJD SWI,1412
+3,ET,EBG,Clexane 6000IU 21NJD SWI,1624
+3,ET,EBG,Clexane 8000IU 21NJD SWI,232
+3,ET,EBG,DAONIL 5MG OF 10*10,955
+3,ET,EBG,Epilim* Chrono 500 CP EX S2,38
+3,ET,EBG,LASIX 40MG OF 20,25
+3,ET,EBG,NO-SPA Tab 40mg of 100 Total,1584
+3,ET,Zemera,Clexane 6000IU/0.6ml of 2,858
+3,ET,Zemera,Clexane 8000IU/0.8ml of 2 ,138
+3,TZ,Bahari,Epilim Tabs 200mg ,129
+3,TZ,Bahari,Flagently Tabs 500mg-4,189
+3,TZ,Bahari,FLEMING SYRUP 228,294
+3,TZ,Bahari,FLEMING TABLET 625,527
+3,TZ,Bahari,No-Spa Tabs 40mg 100'S,1
+3,TZ,Bahari,Orelox 200mg Tabs,430
+3,TZ,Bahari,Rhinathiol Adults Sugarfree,3
+3,TZ,Bahari,Rhinothiol 6.25mg Adults ,2561
+3,TZ,JD,FLEMING 228MG SYRUP 70ML (AUGMENTIN),68
+3,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,1100
+3,TZ,JD,SANOFI AMARYL TABS 1MG 30S,122
+3,TZ,JD,SANOFI AMARYL TABS 2MG 30S,8
+3,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,118
+3,TZ,JD,SANOFI CLEXANE INJ 40MG 2S (4000 ANTI-XA IU/0.4 ML),970
+3,TZ,JD,SANOFI EPILIM 200MG TAB 100S U.K,231
+3,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,103
+3,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,237
+3,TZ,JD,SANOFI FLEMING 625MG TABS 14S,318
+3,TZ,JD,SANOFI LANTUS (GLARGINE) SOLOSTAR 3ML 5S,7
+3,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,379
+3,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,276
+3,TZ,JD,SANOFI ORELOX TABS 100MG 10Sx1,55
+3,TZ,JD,SANOFI ORELOX TABS 200MG 10S,204
+3,TZ,JD,SANOFI RHINATHIOL PROMETHAZINE SYRUP 125MLS,64
+3,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,5257
+3,TZ,JD,SANOFI RHINATHIOL SYRUP 5% ADULT 125MLS 1 U.K,333
+3,TZ,Laborex,AMARYL TABS 1MG 30'S          ,345
+3,TZ,Laborex,AMARYL TABS 2MG 30'S          ,359
+3,TZ,Laborex,RHINATHIOL AD 5% S/S 10G200ML ,408
+3,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1934
+3,UG,Eris,"Amaryl 4mg Tabs, 30's",60
+3,UG,Eris,"Clexane 40mg Inj, 2's",180
+3,UG,Eris,Cordarone 200mg Tabs 30's,8
+3,UG,Eris,"Epilim 200mg Tabs, 100's",49
+3,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",133
+3,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",294
+3,UG,Eris,"Flagentyl 500mg Tabs, 4's",162
+3,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",98
+3,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",53
+3,UG,Eris,"No Spa 40mg Tabs, 100's",352
+3,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",122
+3,UG,Eris,"Xatral 10mg Tabs, 30's",22
+3,UG,Laborex,AMARYL TABS 1MG 30'S          ,1
+3,UG,Laborex,AMARYL TABS 2MG 30'S          ,115
+3,UG,Laborex,AMARYL TABS 4MG 30'S          ,155
+3,UG,Laborex,CLEXANE 40MG INJ 2'S          ,153
+3,UG,Laborex,CLEXANE INJ  60MG 2'S         ,478
+3,UG,Laborex,CLEXANE INJ 80MG 2'S          ,760
+3,UG,Laborex,CORDARONE 200MG CP B/30       ,384
+3,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,482
+3,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,1006
+3,UG,Laborex,FLAGENTYL 500MG CP B/4        ,480
+3,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,138
+3,UG,Laborex,NO SPA 40MG CP B/100          ,4979
+3,UG,Laborex,NO SPA 40MG INJ 2ML B/25      ,14
+3,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,298
+3,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,1207
+3,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",737
+3,UG,Laborex,XATRAL LP 10MG COMP B/30      ,55
+3,UG,lifepharma,SNF Fleming 625 mg tabs 2x7,200
+3,UG,Surgipharm,Amaryl M Tab 2mg 30's,272
+3,UG,Surgipharm,Amaryl Tabs 1mg x 30 (Glimepiride),201
+3,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),339
+3,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),382
+3,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1247
+3,UG,Surgipharm,Clexane Inj 20mg x 2 (Enoxaparin),348
+3,UG,Surgipharm,Clexane Inj 40mg x 2 (Enoxaparin),2049
+3,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),2019
+3,UG,Surgipharm,Clexane Inj 80mg x 2 (Enoxaparin),1562
+3,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+3,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),525
+3,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),706
+3,UG,Surgipharm,Epilim Tabs 200mg x 100 (Sodium Valproate),133
+3,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1414
+3,UG,Surgipharm,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),35
+3,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,719
+3,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),191
+3,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),3033
+3,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),1079
+3,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),240
+3,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),603
+3,UG,Surgipharm,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),131
+3,UG,Surgipharm,No Spa Tabs 40mg x 100 (Drotaverine HCl),847
+3,UG,Surgipharm,No Spa Tabs 40mg x 20 (Drotaverine HCl),150
+3,UG,Surgipharm,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),92
+3,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),170
+3,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),24
+3,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),722
+3,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),948
+3,UG,Surgipharm,Rhinathiol Infant 2% x 125ml (Carbocisteine),1178
+3,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),324
+4,ET,Beker,Amaryl SA 2mg 30 tabs,4
+4,ET,Beker,Amaryl SA 4mg 2*15 tabs,5
+4,ET,Beker,Clexane 4000IU 21NJD SWI,226
+4,ET,Beker,Clexane 6000IU 21NJD SWI,896
+4,ET,Beker,Clexane 8000IU 21NJD SWI,18
+4,ET,Beker,Clomid 50mg 10 tab,3
+4,ET,Beker,NO-SPA Tab 40mg of 100 Total,18
+4,ET,Dejen,CLEXANE 4000 IU/0.4ml 2 INJ ,3233
+4,ET,Dejen,CLEXANE 6000 IU/0.6ml 2 INJ ,2677
+4,ET,Dejen,CLEXANE 8000 IU/0.8ml 2 INJ,1435
+4,ET,Dejen,DAONIL 5 mg OF 100 Tab,28582
+4,ET,Dejen,NO-SPA 40 mg 10X10 Tab,1042
+4,ET,Dejen,ORELOX 100 mg OF 10 Tab,1726
+4,ET,Dejen,Rhinathiol 2.5g/125ml syr,7544
+4,ET,Dejen,Rhinathiol 6.25g/125ml syr,14511
+4,ET,Dugda,AMARYL 4mg 2x15 Tab,54
+4,ET,Dugda,CLEXANE 8000 IU/0.8ml 2 INJ,289
+4,ET,Dugda,CO-Aprovel 300/12.5 mg of 28Tab,20
+4,ET,Dugda,DAONIL 5 mg OF 100 Tab,2719
+4,ET,Dugda,NO-SPA 40 mg 10X10 Tab,3132
+4,ET,Dugda,ORELOX 100 mg OF 10 Tab,2702
+4,ET,EBG,Amaryl SA 2mg 30 tabs,780
+4,ET,EBG,Amaryl SA 4mg 2*15 tabs,500
+4,ET,EBG,Clexane 4000IU 21NJD SWI,3994
+4,ET,EBG,Clexane 6000IU 21NJD SWI,1511
+4,ET,EBG,Clexane 8000IU 21NJD SWI,639
+4,ET,EBG,DAONIL 5MG OF 10*10,704
+4,ET,EBG,Epilim* Chrono 500 CP EX S2,527
+4,ET,EBG,Lantus solostar 300 units of 5,300
+4,ET,EBG,NO-SPA Tab 40mg of 100 Total,1461
+4,ET,EBG,ORELOX 100MG OF 10 TAB,649
+4,ET,EBG,Plavix NF 75mg,155
+4,ET,EBG,XATRAL LP 10MG OF 30CP,65
+4,ET,Zemera,Clexane 6000IU/0.6ml of 2,858
+4,ET,Zemera,Clexane 8000IU/0.8ml of 2 ,138
+4,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,1091
+4,TZ,JD,SANOFI AMARYL TABS 1MG 30S,121
+4,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,85
+4,TZ,JD,SANOFI CLEXANE INJ 40MG 2S (4000 ANTI-XA IU/0.4 ML),290
+4,TZ,JD,SANOFI EPILIM 200MG TAB 100S U.K,224
+4,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,41
+4,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,221
+4,TZ,JD,SANOFI FLEMING 625MG TABS 14S,207
+4,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,353
+4,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,270
+4,TZ,JD,SANOFI ORELOX TABS 100MG 10Sx1,52
+4,TZ,JD,SANOFI ORELOX TABS 200MG 10S,201
+4,TZ,JD,SANOFI RHINATHIOL PROMETHAZINE SYRUP 125MLS,3
+4,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,5106
+4,TZ,JD,SANOFI RHINATHIOL SYRUP 5% ADULT 125MLS 1 U.K,46
+4,TZ,Laborex,AMARYL TABS 1MG 30'S          ,332
+4,TZ,Laborex,AMARYL TABS 2MG 30'S          ,336
+4,TZ,Laborex,RHINATHIOL AD 5% S/S 10G200ML ,218
+4,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1530
+4,UG,Eris,"Amaryl 4mg Tabs, 30's",60
+4,UG,Eris,"Bioferon 305mg Caps, 30's",426
+4,UG,Eris,"Clexane 40mg Inj, 2's",1180
+4,UG,Eris,"Clexane 60mg Inj, 2's",1000
+4,UG,Eris,"Clexane 80mg Inj, 2's",1000
+4,UG,Eris,Cordarone 200mg Tabs 30's,8
+4,UG,Eris,"Epilim 200mg Tabs, 100's",44
+4,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",128
+4,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",284
+4,UG,Eris,"Flagentyl 500mg Tabs, 4's",160
+4,UG,Eris,"Fleming 228mg/5ml, 70ml",1344
+4,UG,Eris,"Fleming 625mg Tabs, 14's",62
+4,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",97
+4,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",52
+4,UG,Eris,"No Spa 40mg Tabs, 100's",330
+4,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",106
+4,UG,Eris,"Xatral 10mg Tabs, 30's",22
+4,UG,Laborex,AMARYL TABS 1MG 30'S          ,1
+4,UG,Laborex,AMARYL TABS 2MG 30'S          ,115
+4,UG,Laborex,AMARYL TABS 4MG 30'S          ,111
+4,UG,Laborex,CLEXANE 40MG INJ 2'S          ,141
+4,UG,Laborex,CLEXANE INJ  60MG 2'S         ,478
+4,UG,Laborex,CLEXANE INJ 80MG 2'S          ,762
+4,UG,Laborex,CORDARONE 200MG CP B/30       ,384
+4,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,301
+4,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,948
+4,UG,Laborex,FLAGENTYL 500MG CP B/4        ,356
+4,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,99
+4,UG,Laborex,NO SPA 40MG CP B/100          ,4737
+4,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,286
+4,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,1148
+4,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",638
+4,UG,Laborex,XATRAL LP 10MG COMP B/30      ,55
+4,UG,Surgipharm,Amaryl M Tab 2mg 30's,271
+4,UG,Surgipharm,Amaryl Tabs 1mg x 30 (Glimepiride),111
+4,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),274
+4,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),372
+4,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1246
+4,UG,Surgipharm,Clexane Inj 20mg x 2 (Enoxaparin),343
+4,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),564
+4,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+4,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),434
+4,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),683
+4,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1164
+4,UG,Surgipharm,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),35
+4,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,700
+4,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),191
+4,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),3003
+4,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),1074
+4,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),164
+4,UG,Surgipharm,Maalox Tabs x 10 (Magnesium OH/Aluminium OH),7
+4,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),603
+4,UG,Surgipharm,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),81
+4,UG,Surgipharm,No Spa Tabs 40mg x 100 (Drotaverine HCl),826
+4,UG,Surgipharm,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),89
+4,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),98
+4,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),24
+4,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),672
+4,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),855
+4,UG,Surgipharm,Rhinathiol Infant 2% x 125ml (Carbocisteine),998
+4,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),314
+5,ET,Beker,Amaryl SA 2mg 30 tabs,4
+5,ET,Beker,Amaryl SA 4mg 2*15 tabs,5
+5,ET,Beker,Clexane 4000IU 21NJD SWI,226
+5,ET,Beker,Clexane 6000IU 21NJD SWI,896
+5,ET,Beker,Clexane 8000IU 21NJD SWI,18
+5,ET,Beker,Clomid 50mg 10 tab,3
+5,ET,Beker,NO-SPA Tab 40mg of 100 Total,18
+5,ET,Dejen,CLEXANE 4000 IU/0.4ml 2 INJ ,3129
+5,ET,Dejen,CLEXANE 6000 IU/0.6ml 2 INJ ,2485
+5,ET,Dejen,CLEXANE 8000 IU/0.8ml 2 INJ,1370
+5,ET,Dejen,DAONIL 5 mg OF 100 Tab,28966
+5,ET,Dejen,NO-SPA 40 mg 10X10 Tab,825
+5,ET,Dejen,ORELOX 100 mg OF 10 Tab,1841
+5,ET,Dejen,Rhinathiol 2.5g/125ml syr,6434
+5,ET,Dejen,Rhinathiol 6.25g/125ml syr,14001
+5,ET,Dugda,CLEXANE 8000 IU/0.8ml 2 INJ,294
+5,ET,Dugda,DAONIL 5 mg OF 100 Tab,1113
+5,ET,Dugda,NO-SPA 40 mg 10X10 Tab,3045
+5,ET,Dugda,ORELOX 100 mg OF 10 Tab,2612
+5,ET,EBG,Amaryl SA 2mg 30 tabs,780
+5,ET,EBG,Amaryl SA 4mg 2*15 tabs,500
+5,ET,EBG,Lantus solostar 300 units of 5,300
+5,ET,Zemera,Clexane 6000IU/0.6ml of 2,818
+5,ET,Zemera,Clexane 8000IU/0.8ml of 2 ,103
+5,TZ,JD,FLEMING 228MG SYRUP 70ML (AUGMENTIN),68
+5,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,1088
+5,TZ,JD,SANOFI AMARYL TABS 1MG 30S,109
+5,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,27
+5,TZ,JD,SANOFI CLEXANE INJ 40MG 2S (4000 ANTI-XA IU/0.4 ML),951
+5,TZ,JD,SANOFI CLEXANE INJ 60MG 2S,83
+5,TZ,JD,SANOFI EPILIM 200MG TAB 100S U.K,315
+5,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,234
+5,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,263
+5,TZ,JD,SANOFI FLEMING 625MG TABS 14S,191
+5,TZ,JD,SANOFI MAALOX PLUS 200MG CHEWABLE TABS 40S,162
+5,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,322
+5,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,310
+5,TZ,JD,SANOFI ORELOX TABS 100MG 10Sx1,96
+5,TZ,JD,SANOFI ORELOX TABS 200MG 10S,190
+5,TZ,JD,SANOFI RHINATHIOL PROMETHAZINE SYRUP 125MLS,108
+5,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,5041
+5,TZ,Laborex,AMARYL TABS 1MG 30'S          ,315
+5,TZ,Laborex,AMARYL TABS 2MG 30'S          ,327
+5,TZ,Laborex,RHINATHIOL AD 5% S/S 10G200ML ,1
+5,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1447
+5,UG,Eris,"Amaryl 4mg Tabs, 30's",60
+5,UG,Eris,"Bioferon 305mg Caps, 30's",420
+5,UG,Eris,"Clexane 40mg Inj, 2's",179
+5,UG,Eris,Cordarone 200mg Tabs 30's,8
+5,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",121
+5,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",274
+5,UG,Eris,"Flagentyl 500mg Tabs, 4's",140
+5,UG,Eris,"Fleming 228mg/5ml, 70ml",1346
+5,UG,Eris,"Fleming 625mg Tabs, 14's",62
+5,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",97
+5,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",52
+5,UG,Eris,"No Spa 40mg Tabs, 100's",294
+5,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",47
+5,UG,Eris,"Xatral 10mg Tabs, 30's",17
+5,UG,Laborex,AMARYL TABS 2MG 30'S          ,115
+5,UG,Laborex,AMARYL TABS 4MG 30'S          ,105
+5,UG,Laborex,CLEXANE 40MG INJ 2'S          ,454
+5,UG,Laborex,CLEXANE INJ  60MG 2'S         ,448
+5,UG,Laborex,CLEXANE INJ 80MG 2'S          ,727
+5,UG,Laborex,CORDARONE 200MG CP B/30       ,364
+5,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,213
+5,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,1659
+5,UG,Laborex,FLAGENTYL 500MG CP B/4        ,289
+5,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,84
+5,UG,Laborex,NO SPA 40MG CP B/100          ,4400
+5,UG,Laborex,NO SPA 40MG INJ 2ML B/25      ,296
+5,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,286
+5,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,914
+5,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",443
+5,UG,Surgipharm,Amaryl M Tab 2mg 30's,271
+5,UG,Surgipharm,Amaryl Tabs 1mg x 30 (Glimepiride),41
+5,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),274
+5,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),362
+5,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1244
+5,UG,Surgipharm,Clexane Inj 20mg x 2 (Enoxaparin),323
+5,UG,Surgipharm,Clexane Inj 40mg x 2 (Enoxaparin),3460
+5,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),2064
+5,UG,Surgipharm,Clexane Inj 80mg x 2 (Enoxaparin),1133
+5,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+5,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),427
+5,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),653
+5,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1162
+5,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,670
+5,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),190
+5,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),2870
+5,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),495
+5,UG,Surgipharm,Lantus Solostar 100IU 10 ml x 1s (Human Insulin),1000
+5,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),334
+5,UG,Surgipharm,Maalox Tabs x 10 (Magnesium OH/Aluminium OH),1
+5,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),603
+5,UG,Surgipharm,No Spa Inj 40mg/2ml x 25 (Drotaverine HCl),1000
+5,UG,Surgipharm,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),17
+5,UG,Surgipharm,No Spa Tabs 40mg x 100 (Drotaverine HCl),775
+5,UG,Surgipharm,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),289
+5,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),98
+5,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),24
+5,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),672
+5,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),2790
+5,UG,Surgipharm,Rhinathiol Infant 2% x 125ml (Carbocisteine),956
+5,UG,Surgipharm,Rhinathiol Sugar Free Adult 5% x 200ml (Carbocisteine),838
+5,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),314
+6,TZ,Bahari,Epilim Tabs 200mg ,129
+6,TZ,Bahari,Flagently Tabs 500mg-4,189
+6,TZ,Bahari,FLEMING SYRUP 228,294
+6,TZ,Bahari,FLEMING TABLET 625,527
+6,TZ,Bahari,No-Spa Tabs 40mg 100'S,1
+6,TZ,Bahari,Orelox 200mg Tabs,430
+6,TZ,Bahari,Rhinathiol Adults Sugarfree,3
+6,TZ,Bahari,Rhinothiol 6.25mg Adults ,2561
+6,TZ,JD,SANOFI AMARYL M 2MG TABS 30S,776
+6,TZ,JD,SANOFI AMARYL TABS 1MG 30S,101
+6,TZ,JD,SANOFI AMARYL TABS 4MG 30S UK,15
+6,TZ,JD,SANOFI APIDRA SOLOSTAR 5 X 3MLS,2
+6,TZ,JD,SANOFI CLEXANE INJ 40MG 2S (4000 ANTI-XA IU/0.4 ML),836
+6,TZ,JD,SANOFI CLEXANE INJ 60MG 2S,83
+6,TZ,JD,SANOFI EPILIM 200MG TAB 100S U.K,287
+6,TZ,JD,SANOFI EPILIM 200MG/5ML SYRUP * 300ML 1 U.K,179
+6,TZ,JD,SANOFI EPILIM CHRONO 500MG TAB 100S,216
+6,TZ,JD,SANOFI MAALOX PLUS 200MG CHEWABLE TABS 40S,140
+6,TZ,JD,SANOFI NO-SPA 40MG TABS 100S,308
+6,TZ,JD,SANOFI NO-SPA 40MG TABS 20S,308
+6,TZ,JD,SANOFI ORELOX TABS 100MG 10Sx1,96
+6,TZ,JD,SANOFI ORELOX TABS 200MG 10S,189
+6,TZ,JD,SANOFI RHINATHIOL PROMETHAZINE SYRUP 125MLS,44
+6,TZ,JD,SANOFI RHINATHIOL SYRUP 2% CHILD 125MLS 1 U.K,4973
+6,TZ,JD,SANOFI RHINATHIOL SYRUP ADULT S/FREE 200MLS,190
+6,TZ,Laborex,AMARYL M 2MG CP B/30          ,144
+6,TZ,Laborex,AMARYL TABS 1MG 30'S          ,307
+6,TZ,Laborex,AMARYL TABS 2MG 30'S          ,305
+6,TZ,Laborex,CLEXANE INJ 80MG 2'S          ,323
+6,TZ,Laborex,EPILIM CHRONO TABS 500MG 100S ,482
+6,TZ,Laborex,EPILIM EC TABS 200MG 100'S    ,41
+6,TZ,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,314
+6,TZ,Laborex,NO SPA 40MG CP B/100          ,604
+6,TZ,Laborex,RHINATHIOL AD 5% S/S 10G200ML ,1
+6,TZ,Laborex,RHINATHIOL AD 5% SP F/125ML   ,528
+6,TZ,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1408
+6,TZ,Laborex,RHINATHIOL PROMETH SP 125ML   ,38
+6,UG,Eris,"Amaryl 4mg Tabs, 30's",60
+6,UG,Eris,"Bioferon 305mg Caps, 30's",420
+6,UG,Eris,"Clexane 40mg Inj, 2's",179
+6,UG,Eris,Cordarone 200mg Tabs 30's,8
+6,UG,Eris,"Epilim Chrono 500mg Tabs, 100's",90
+6,UG,Eris,"Epilim Syrup 200mg/5ml, 300ml",190
+6,UG,Eris,"Flagentyl 500mg Tabs, 4's",103
+6,UG,Eris,"Fleming 228mg/5ml, 70ml",1346
+6,UG,Eris,"Lantus Solostar 100IU, 3ml 5PN",89
+6,UG,Eris,"Maalox Plus 200mg Tabs, 4x10",52
+6,UG,Eris,"No Spa 40mg Tabs, 100's",278
+6,UG,Eris,"Rhinathiol Chesty Cough Adult, 125ml",18
+6,UG,Eris,"Xatral 10mg Tabs, 30's",17
+6,UG,Laborex,AMARYL TABS 2MG 30'S          ,114
+6,UG,Laborex,AMARYL TABS 4MG 30'S          ,105
+6,UG,Laborex,CLEXANE 40MG INJ 2'S          ,414
+6,UG,Laborex,CLEXANE INJ  60MG 2'S         ,1078
+6,UG,Laborex,CLEXANE INJ 80MG 2'S          ,727
+6,UG,Laborex,CORDARONE 200MG CP B/30       ,341
+6,UG,Laborex,EPILIM CHRONO TABS 500MG 100S ,392
+6,UG,Laborex,EPILIM SYRUP 200MG/5ML 300ML  ,1586
+6,UG,Laborex,FLAGENTYL 500MG CP B/4        ,270
+6,UG,Laborex,LANTUS SOLOSTAR 100IU 3ML 5'S ,76
+6,UG,Laborex,NO SPA 40MG CP B/100          ,3700
+6,UG,Laborex,NO SPA 40MG INJ 2ML B/25      ,368
+6,UG,Laborex,NO SPA 40MG INJ 2ML B/5       ,286
+6,UG,Laborex,RHINATHIOL AD 5% S/S 10G200ML ,430
+6,UG,Laborex,RHINATHIOL AD 5% SP F/125ML   ,1063
+6,UG,Laborex,"RHINATHIOL ENF 2% 2,5G /125ML ",1385
+6,UG,Laborex,XATRAL LP 10MG COMP B/30      ,124
+6,UG,Surgipharm,Amaryl Tabs 2mg x 30 (Glimepiride),261
+6,UG,Surgipharm,Amaryl Tabs 4mg x 30 (Glimepiride),349
+6,UG,Surgipharm,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1226
+6,UG,Surgipharm,Clexane Inj 40mg x 2 (Enoxaparin),3443
+6,UG,Surgipharm,Clexane Inj 60mg x 2 (Enoxaparin),2002
+6,UG,Surgipharm,Clexane Inj 80mg x 2 (Enoxaparin),1113
+6,UG,Surgipharm,Cordarone X Tabs 200mg x 30 (Amiodarone),41
+6,UG,Surgipharm,Epilim Chrono Tabs 500mg x 100 (Sodium Valproate),409
+6,UG,Surgipharm,Epilim Syr 200mg/5ml x 300ml (Sodium Valproate),578
+6,UG,Surgipharm,Flagentyl Tabs 500mg x 4 (Secnidazole),1107
+6,UG,Surgipharm,Fleming 457mg/5ml Susp.X70ml,378
+6,UG,Surgipharm,Fleming Inj 1.2g x 5 (Co-Amoxiclav),188
+6,UG,Surgipharm,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),2657
+6,UG,Surgipharm,Fleming Tabs 625mg x 14 (Co-Amoxiclav),213
+6,UG,Surgipharm,Lantus Solostar 100IU 10 ml x 1s (Human Insulin),983
+6,UG,Surgipharm,Lantus Solostar 100IU 3ml x 5s (Human Insulin),291
+6,UG,Surgipharm,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),593
+6,UG,Surgipharm,No Spa Inj 40mg/2ml x 25 (Drotaverine HCl),954
+6,UG,Surgipharm,No Spa Tabs 40mg x 100 (Drotaverine HCl),574
+6,UG,Surgipharm,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),289
+6,UG,Surgipharm,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),94
+6,UG,Surgipharm,Orelox Tabs 100mg x 10 (Cefpodoxime),24
+6,UG,Surgipharm,Orelox Tabs 200mg x 10 (Cefpodoxime),668
+6,UG,Surgipharm,Rhinathiol Adult 5% x 125ml (Carbocisteine),2720
+6,UG,Surgipharm,Rhinathiol Infant 2% x 125ml (Carbocisteine),915
+6,UG,Surgipharm,Rhinathiol Sugar Free Adult 5% x 200ml (Carbocisteine),545
+6,UG,Surgipharm,Xatral LP Tabs 10mg x 30 (Alfuzosin),314

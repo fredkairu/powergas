@@ -1,0 +1,5 @@
+country,distributor,customer,product_gmid,supply_price,resale_price,tender_price,special_resale,special_tender,promotion
+SN,,,645820,0,0,0,0,0,non-promoted
+KE,,,645818,0,0,0,0,0,non-promoted
+KE,,,632896,0,0,0,0,0,non-promoted
+UG,,,645819,0,0,0,0,0,non-promoted

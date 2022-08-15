@@ -1,0 +1,210 @@
+MONTH,COUNTRY,DISTRIBUTOR,CUSTOMER,PRODUCT,QUANTITY_UNITS
+1,UG,Eris,,"Bioferon 305mg Caps, 30's",11
+1,UG,Eris,,"Clexane 40mg Inj, 2's",72
+1,UG,Eris,,"Clexane 80mg Inj, 2's",34
+1,UG,Eris,,"Flagentyl 500mg Tabs, 4's",19
+1,UG,Eris,,"Fleming 228mg/5ml, 70ml",310
+1,UG,Eris,,"Fleming 625mg Tabs, 14's",318
+1,UG,Eris,,"Maalox Plus 200mg Tabs, 4x10",22
+1,UG,Eris,,"No Spa 40mg Tabs, 100's",28
+1,UG,Eris,,"Orelox 100mg Tabs, 10's",1
+1,UG,Laborex,,AMARYL TABS 1MG 30'S          ,84
+1,UG,Laborex,,AMARYL TABS 2MG 30'S          ,10
+1,UG,Laborex,,AMARYL TABS 4MG 30'S          ,10
+1,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,125
+1,UG,Laborex,,CLEXANE INJ  60MG 2'S         ,11
+1,UG,Laborex,,CLEXANE INJ 80MG 2'S          ,28
+1,UG,Laborex,,CORDARONE 200MG CP B/30       ,23
+1,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,99
+1,UG,Laborex,,NO SPA 40MG CP B/100          ,1175
+1,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,131
+1,UG,Laborex,,NO SPA 40MG INJ 2ML B/5       ,1
+1,UG,Laborex,,XATRAL LP 10MG COMP B/30      ,5
+1,UG,lifepharma,,SNF Clexane 4000 IU Inj 2's,110
+1,UG,lifepharma,,SNF Clexane 6000 IU Inj 2's,110
+1,UG,lifepharma,,SNF Clexane 8000 IU Inj 2's,80
+1,UG,lifepharma,,SNF Fleming 625 mg tabs 2x7,40
+1,UG,lifepharma,,SNF No - Spa 40mg Inj 1x25's,30
+1,UG,lifepharma,,Snf No Spa 40 Mg 10x10,55
+1,UG,Surgipharm,,Amaryl M Tab 2mg 30's,12
+1,UG,Surgipharm,,Amaryl Tabs 2mg x 30 (Glimepiride),20
+1,UG,Surgipharm,,Amaryl Tabs 4mg x 30 (Glimepiride),16
+1,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),12
+1,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),512
+1,UG,Surgipharm,,Clexane Inj 60mg x 2 (Enoxaparin),123
+1,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),263
+1,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),365
+1,UG,Surgipharm,,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),103
+1,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,90
+1,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),152
+1,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),95
+1,UG,Surgipharm,,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),16
+1,UG,Surgipharm,,No Spa Inj 40mg/2ml x 25 (Drotaverine HCl),161
+1,UG,Surgipharm,,Orelox Tabs 100mg x 10 (Cefpodoxime),30
+1,UG,Surgipharm,,Xatral LP Tabs 10mg x 30 (Alfuzosin),3
+2,UG,Eris,,"Flagentyl 500mg Tabs, 4's",70
+2,UG,Eris,,"Fleming 228mg/5ml, 70ml",12
+2,UG,Eris,,"Fleming 625mg Tabs, 14's",53
+2,UG,Eris,,"Maalox Plus 200mg Tabs, 4x10",2
+2,UG,Eris,,"No Spa 40mg Tabs, 100's",44
+2,UG,Laborex,,AMARYL TABS 1MG 30'S          ,20
+2,UG,Laborex,,AMARYL TABS 2MG 30'S          ,3
+2,UG,Laborex,,AMARYL TABS 4MG 30'S          ,20
+2,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,105
+2,UG,Laborex,,CLEXANE INJ  60MG 2'S         ,10
+2,UG,Laborex,,CLEXANE INJ 80MG 2'S          ,50
+2,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,71
+2,UG,Laborex,,NO SPA 40MG CP B/100          ,434
+2,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,9
+2,UG,Laborex,,ORELOX ENF 40MG/5ML SUSP/50ML ,75
+2,UG,lifepharma,,SNF Fleming 625 mg tabs 2x7,220
+2,UG,lifepharma,,SNF No - Spa 40mg Inj 1x25's,400
+2,UG,lifepharma,,Snf No Spa 40 Mg 10x10,800
+2,UG,Surgipharm,,Amaryl M Tab 2mg 30's,14
+2,UG,Surgipharm,,Amaryl Tabs 1mg x 30 (Glimepiride),31
+2,UG,Surgipharm,,Amaryl Tabs 2mg x 30 (Glimepiride),23
+2,UG,Surgipharm,,Amaryl Tabs 4mg x 30 (Glimepiride),15
+2,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),10
+2,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),430
+2,UG,Surgipharm,,Clexane Inj 60mg x 2 (Enoxaparin),193
+2,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),361
+2,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),217
+2,UG,Surgipharm,,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),50
+2,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,93
+2,UG,Surgipharm,,Fleming Inj 1.2g x 5 (Co-Amoxiclav),1
+2,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),169
+2,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),49
+2,UG,Surgipharm,,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),7
+3,UG,Eris,,"Flagentyl 500mg Tabs, 4's",34
+3,UG,Eris,,"Maalox Plus 200mg Tabs, 4x10",31
+3,UG,Eris,,"No Spa 40mg Tabs, 100's",46
+3,UG,Eris,,"Xatral 10mg Tabs, 30's",1
+3,UG,Laborex,,AMARYL TABS 1MG 30'S          ,105
+3,UG,Laborex,,AMARYL TABS 2MG 30'S          ,22
+3,UG,Laborex,,AMARYL TABS 4MG 30'S          ,5
+3,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,625
+3,UG,Laborex,,CLEXANE INJ  60MG 2'S         ,52
+3,UG,Laborex,,CLEXANE INJ 80MG 2'S          ,52
+3,UG,Laborex,,CORDARONE 200MG CP B/30       ,31
+3,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,128
+3,UG,Laborex,,NO SPA 40MG CP B/100          ,232
+3,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,31
+3,UG,Laborex,,XATRAL LP 10MG COMP B/30      ,15
+3,UG,lifepharma,,SNF Clexane 4000 IU Inj 2's,160
+3,UG,lifepharma,,SNF Clexane 6000 IU Inj 2's,160
+3,UG,lifepharma,,SNF Clexane 8000 IU Inj 2's,190
+3,UG,lifepharma,,SNF Fleming 625 mg tabs 2x7,200
+3,UG,lifepharma,,SNF No - Spa 40mg Inj 1x25's,170
+3,UG,lifepharma,,Snf No Spa 40 Mg 10x10,201
+3,UG,Surgipharm,,Amaryl M Tab 2mg 30's,30
+3,UG,Surgipharm,,Amaryl Tabs 1mg x 30 (Glimepiride),112
+3,UG,Surgipharm,,Amaryl Tabs 2mg x 30 (Glimepiride),10
+3,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),20
+3,UG,Surgipharm,,Clexane Inj 20mg x 2 (Enoxaparin),23
+3,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),122
+3,UG,Surgipharm,,Clexane Inj 60mg x 2 (Enoxaparin),68
+3,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),170
+3,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),130
+3,UG,Surgipharm,,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),12
+3,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,113
+3,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),381
+3,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),124
+3,UG,Surgipharm,,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),1
+3,UG,Surgipharm,,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),230
+3,UG,Surgipharm,,No Spa Tabs 40mg x 100 (Drotaverine HCl),153
+3,UG,Surgipharm,,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),108
+3,UG,Surgipharm,,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),182
+3,UG,Surgipharm,,Orelox Tabs 100mg x 10 (Cefpodoxime),20
+3,UG,Surgipharm,,Xatral LP Tabs 10mg x 30 (Alfuzosin),3
+4,UG,Eris,,"Flagentyl 500mg Tabs, 4's",2
+4,UG,Eris,,"Fleming 228mg/5ml, 70ml",103
+4,UG,Eris,,"Maalox Plus 200mg Tabs, 4x10",1
+4,UG,Eris,,"No Spa 40mg Tabs, 100's",22
+4,UG,Laborex,,AMARYL TABS 4MG 30'S          ,44
+4,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,12
+4,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,124
+4,UG,Laborex,,NO SPA 40MG CP B/100          ,242
+4,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,14
+4,UG,Laborex,,NO SPA 40MG INJ 2ML B/5       ,12
+4,UG,lifepharma,,SNF Fleming 625 mg tabs 2x7,200
+4,UG,Surgipharm,,Amaryl M Tab 2mg 30's,1
+4,UG,Surgipharm,,Amaryl Tabs 1mg x 30 (Glimepiride),90
+4,UG,Surgipharm,,Amaryl Tabs 2mg x 30 (Glimepiride),65
+4,UG,Surgipharm,,Amaryl Tabs 4mg x 30 (Glimepiride),10
+4,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),1
+4,UG,Surgipharm,,Clexane Inj 20mg x 2 (Enoxaparin),5
+4,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),2049
+4,UG,Surgipharm,,Clexane Inj 60mg x 2 (Enoxaparin),1455
+4,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),1562
+4,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),250
+4,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,19
+4,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),30
+4,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),5
+4,UG,Surgipharm,,Maalox Tabs x 10 (Magnesium OH/Aluminium OH),40
+4,UG,Surgipharm,,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),50
+4,UG,Surgipharm,,No Spa Tabs 40mg x 100 (Drotaverine HCl),21
+4,UG,Surgipharm,,No Spa Tabs 40mg x 20 (Drotaverine HCl),150
+4,UG,Surgipharm,,Orelox Susp 40mg/5ml x 100ml (Cefpodoxime),3
+4,UG,Surgipharm,,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),72
+4,UG,Surgipharm,,Orelox Tabs 200mg x 10 (Cefpodoxime),50
+4,UG,Surgipharm,,Xatral LP Tabs 10mg x 30 (Alfuzosin),10
+5,UG,Eris,,"Bioferon 305mg Caps, 30's",5
+5,UG,Eris,,"Clexane 40mg Inj, 2's",1001
+5,UG,Eris,,"Clexane 60mg Inj, 2's",1000
+5,UG,Eris,,"Clexane 80mg Inj, 2's",1000
+5,UG,Eris,,"Flagentyl 500mg Tabs, 4's",20
+5,UG,Eris,,"No Spa 40mg Tabs, 100's",36
+5,UG,Eris,,"Xatral 10mg Tabs, 30's",5
+5,UG,Laborex,,AMARYL TABS 1MG 30'S          ,1
+5,UG,Laborex,,AMARYL TABS 4MG 30'S          ,6
+5,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,27
+5,UG,Laborex,,CLEXANE INJ  60MG 2'S         ,30
+5,UG,Laborex,,CLEXANE INJ 80MG 2'S          ,35
+5,UG,Laborex,,CORDARONE 200MG CP B/30       ,20
+5,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,67
+5,UG,Laborex,,NO SPA 40MG CP B/100          ,337
+5,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,24
+5,UG,Laborex,,XATRAL LP 10MG COMP B/30      ,21
+5,UG,Surgipharm,,Amaryl Tabs 1mg x 30 (Glimepiride),70
+5,UG,Surgipharm,,Amaryl Tabs 4mg x 30 (Glimepiride),10
+5,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),2
+5,UG,Surgipharm,,Clexane Inj 20mg x 2 (Enoxaparin),20
+5,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),40
+5,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),352
+5,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),2
+5,UG,Surgipharm,,Fleming 1000mg Tab 2x7(Amox 875mg/clav125mg),35
+5,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,30
+5,UG,Surgipharm,,Fleming Inj 1.2g x 5 (Co-Amoxiclav),1
+5,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),133
+5,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),579
+5,UG,Surgipharm,,Maalox Tabs x 10 (Magnesium OH/Aluminium OH),6
+5,UG,Surgipharm,,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),64
+5,UG,Surgipharm,,No Spa Tabs 40mg x 100 (Drotaverine HCl),51
+6,UG,Eris,,"Flagentyl 500mg Tabs, 4's",37
+6,UG,Eris,,"No Spa 40mg Tabs, 100's",16
+6,UG,Laborex,,AMARYL TABS 2MG 30'S          ,1
+6,UG,Laborex,,CLEXANE 40MG INJ 2'S          ,60
+6,UG,Laborex,,CORDARONE 200MG CP B/30       ,23
+6,UG,Laborex,,FLAGENTYL 500MG CP B/4        ,19
+6,UG,Laborex,,NO SPA 40MG CP B/100          ,700
+6,UG,Laborex,,NO SPA 40MG INJ 2ML B/25      ,48
+6,UG,Laborex,,XATRAL LP 10MG COMP B/30      ,10
+6,UG,Surgipharm,,Amaryl Tabs 1mg x 30 (Glimepiride),41
+6,UG,Surgipharm,,Amaryl Tabs 2mg x 30 (Glimepiride),13
+6,UG,Surgipharm,,Amaryl Tabs 4mg x 30 (Glimepiride),13
+6,UG,Surgipharm,,Bioferon Caps x 30 (Ferrous Fumerate/Folic Acid/Vit B12/Vit C/Zinc),18
+6,UG,Surgipharm,,Clexane Inj 40mg x 2 (Enoxaparin),17
+6,UG,Surgipharm,,Clexane Inj 60mg x 2 (Enoxaparin),62
+6,UG,Surgipharm,,Clexane Inj 80mg x 2 (Enoxaparin),20
+6,UG,Surgipharm,,Flagentyl Tabs 500mg x 4 (Secnidazole),55
+6,UG,Surgipharm,,Fleming 457mg/5ml Susp.X70ml,292
+6,UG,Surgipharm,,Fleming Inj 1.2g x 5 (Co-Amoxiclav),2
+6,UG,Surgipharm,,Fleming Susp 228/5ml x 70ml (Co-Amoxiclav),213
+6,UG,Surgipharm,,Fleming Tabs 625mg x 14 (Co-Amoxiclav),282
+6,UG,Surgipharm,,Maalox Tabs x 10 (Magnesium OH/Aluminium OH),1
+6,UG,Surgipharm,,No Spa Forte Tabs 80mg x 20 (Drotaverine HCl),10
+6,UG,Surgipharm,,No Spa Inj 40mg/2ml x 25 (Drotaverine HCl),46
+6,UG,Surgipharm,,No Spa Inj 40mg/2ml x 5 (Drotaverine HCl),17
+6,UG,Surgipharm,,No Spa Tabs 40mg x 100 (Drotaverine HCl),201
+6,UG,Surgipharm,,Orelox Susp 40mg/5ml x 50ml (Cefpodoxime),4
+6,UG,Surgipharm,,Orelox Tabs 200mg x 10 (Cefpodoxime),4

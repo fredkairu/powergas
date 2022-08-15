@@ -1,0 +1,545 @@
+[18-Feb-2020 18:18:26 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:18:45 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 551
+[18-Feb-2020 18:20:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:20:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getGroupedSalesTotals() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 174
+[18-Feb-2020 18:20:55 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:21:31 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:26:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:41:22 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 551
+[18-Feb-2020 18:41:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[18-Feb-2020 18:43:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getGroupedSalesTotals() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 174
+[18-Feb-2020 19:03:39 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getGroupedSalesTotals() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 174
+[18-Feb-2020 19:35:36 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 551
+[18-Feb-2020 19:48:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getGroupedSalesTotals() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 174
+[18-Feb-2020 19:58:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::bestsellingproducts() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1203
+[19-Feb-2020 09:31:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 551
+[19-Feb-2020 14:04:09 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 820
+[21-Feb-2020 07:15:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 551
+[21-Feb-2020 07:21:31 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::consolidatedSalesSI() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 552
+[21-Feb-2020 07:25:05 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/techsava/public_html/mashariki2.0/sma/models/Sales_model.php on line 2092
+[21-Feb-2020 09:04:12 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 821
+[21-Feb-2020 11:51:05 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/themes/default/views/header.php on line 936
+[21-Feb-2020 11:51:45 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 821
+[21-Feb-2020 11:57:20 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1093
+[21-Feb-2020 12:02:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 822
+[21-Feb-2020 12:08:12 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getBudgetForecastForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 822
+[21-Feb-2020 12:12:43 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/sma/models/Sales_model.php on line 3098
+[21-Feb-2020 14:59:01 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/purchases.php on line 262
+[21-Feb-2020 14:59:02 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/purchases.php on line 262
+[21-Feb-2020 15:04:58 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 328
+[21-Feb-2020 15:31:39 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 332
+[21-Feb-2020 15:32:51 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 331
+[21-Feb-2020 15:32:52 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 331
+[21-Feb-2020 15:42:01 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/techsava/public_html/mashariki2.0/themes/default/views/purchases/purchase_by_csv.php on line 73
+[21-Feb-2020 15:42:20 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/techsava/public_html/mashariki2.0/themes/default/views/purchases/purchase_by_csv.php on line 73
+[21-Feb-2020 15:42:21 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/techsava/public_html/mashariki2.0/themes/default/views/purchases/purchase_by_csv.php on line 73
+[21-Feb-2020 16:24:29 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ''" autocomplete="off"'' (T_CONSTANT_ENCAPSED_STRING) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 317
+[25-Feb-2020 11:45:23 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/mashariki_report.php on line 264
+[03-Mar-2020 15:38:07 Africa/Nairobi] PHP Fatal error:  Call to a member function like() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2024
+[03-Mar-2020 15:57:13 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products_model::getCategoryById() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 160
+[03-Mar-2020 17:06:58 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 4313
+[03-Mar-2020 17:06:59 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 4313
+[03-Mar-2020 17:07:49 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 4313
+[05-Mar-2020 16:47:01 Africa/Nairobi] PHP Fatal error:  Call to undefined method Products_model::getCategoryById() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 618
+[10-Mar-2020 17:07:50 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2234
+[10-Mar-2020 17:08:11 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::union() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2234
+[12-Mar-2020 05:34:48 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2241
+[12-Mar-2020 05:35:46 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2241
+[12-Mar-2020 05:41:10 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2241
+[12-Mar-2020 05:41:15 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2241
+[12-Mar-2020 05:42:54 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2241
+[12-Mar-2020 05:44:11 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:44:45 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:44:49 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:45:21 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:45:33 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:51:29 Africa/Nairobi] PHP Fatal error:  Call to undefined function from() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2235
+[12-Mar-2020 05:57:15 Africa/Nairobi] PHP Fatal error:  Can't use method return value in write context in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2239
+[12-Mar-2020 12:37:33 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::union() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2280
+[12-Mar-2020 12:39:23 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::union() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2280
+[12-Mar-2020 12:39:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::union() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2280
+[12-Mar-2020 12:39:40 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::union() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2280
+[12-Mar-2020 12:56:55 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ''UNION'' (T_CONSTANT_ENCAPSED_STRING) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2282
+[12-Mar-2020 13:03:02 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::query() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2281
+[12-Mar-2020 14:48:11 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2060
+[12-Mar-2020 15:27:06 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2176
+[12-Mar-2020 15:27:08 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2176
+[18-Mar-2020 07:34:11 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2301
+[18-Mar-2020 10:39:02 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2256
+[18-Mar-2020 10:39:26 Africa/Nairobi] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet_ColumnDimension::removeColumn() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2255
+[18-Mar-2020 11:25:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2282
+[18-Mar-2020 11:25:40 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 2282
+[18-Mar-2020 16:18:26 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '{' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1911
+[18-Mar-2020 16:27:53 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 308
+[18-Mar-2020 16:28:15 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 308
+[18-Mar-2020 16:32:08 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerByName() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3038
+[18-Mar-2020 16:32:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerByName() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3038
+[19-Mar-2020 17:02:25 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Companies_model in /home/techsava/public_html/mashariki2.0/sma/models/Customers.php on line 0
+[19-Mar-2020 17:05:16 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Customers in /home/techsava/public_html/mashariki2.0/sma/models/Customers.php on line 0
+[19-Mar-2020 17:29:30 Africa/Nairobi] PHP Fatal error:  Call to a member function getCustomerByID() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 171
+[19-Mar-2020 21:40:55 Africa/Nairobi] PHP Fatal error:  Call to a member function getCustomerByID() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 171
+[22-Mar-2020 22:11:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::getCustomerByName() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 204
+[23-Mar-2020 08:11:55 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '?>' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 473
+[24-Mar-2020 08:14:11 Africa/Nairobi] PHP Fatal error:  Cannot redeclare system_settings::getClusters() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1904
+[25-Mar-2020 09:50:19 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 229
+[25-Mar-2020 09:50:30 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 229
+[25-Mar-2020 11:17:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 957
+[25-Mar-2020 11:20:15 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 957
+[25-Mar-2020 11:20:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetForMonth() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 957
+[25-Mar-2020 13:38:20 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:38:20 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:38:28 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:38:29 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:05 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:06 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:28 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:28 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:35 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:39:35 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:40:39 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:40:39 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:42:11 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:42:12 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:42:24 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[25-Mar-2020 13:42:24 Africa/Nairobi] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 46
+[27-Mar-2020 13:17:58 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Welcome in /home/techsava/public_html/mashariki2.0/themes/default/views/sit.php on line 0
+[27-Mar-2020 13:18:02 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Welcome in /home/techsava/public_html/mashariki2.0/themes/default/views/sit.php on line 0
+[27-Mar-2020 13:18:10 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Welcome in /home/techsava/public_html/mashariki2.0/themes/default/views/sit.php on line 0
+[27-Mar-2020 14:47:29 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1520
+[27-Mar-2020 14:49:46 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1520
+[27-Mar-2020 14:49:47 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1520
+[27-Mar-2020 14:56:31 Africa/Nairobi] PHP Fatal error:  Call to a member function format() on boolean in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 219
+[27-Mar-2020 14:56:36 Africa/Nairobi] PHP Fatal error:  Call to a member function format() on boolean in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 219
+[30-Mar-2020 09:39:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 237
+[30-Mar-2020 19:53:20 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::addStAlignmentsBatch() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 557
+[30-Mar-2020 19:54:04 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::addStAlignmentsBatch() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 557
+[30-Mar-2020 19:54:17 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::addStAlignmentsBatch() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 557
+[30-Mar-2020 20:01:31 Africa/Nairobi] PHP Fatal error:  Call to a member function getCountryByCode() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1364
+[31-Mar-2020 08:45:45 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::updateSfMsralignment() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 704
+[31-Mar-2020 08:46:26 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::updateSfMsralignment() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 704
+[31-Mar-2020 08:59:23 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 690
+[31-Mar-2020 08:59:42 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 690
+[31-Mar-2020 14:31:06 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1545
+[31-Mar-2020 14:31:07 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1545
+[31-Mar-2020 14:31:30 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1545
+[31-Mar-2020 14:31:43 Africa/Nairobi] PHP Fatal error:  Unsupported operand types in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1545
+[31-Mar-2020 19:12:14 Africa/Nairobi] PHP Fatal error:  Call to a member function remove_customermsrdata() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1363
+[31-Mar-2020 19:12:28 Africa/Nairobi] PHP Fatal error:  Call to a member function remove_customermsrdata() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1363
+[01-Apr-2020 13:57:53 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::addDSMTEAMAlignmentsBatch() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2622
+[01-Apr-2020 13:59:32 Africa/Nairobi] PHP Fatal error:  Call to a member function addDSMTEAMAlignmentsBatch() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2622
+[08-Apr-2020 15:05:47 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerdistnaming() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3028
+[08-Apr-2020 15:06:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerdistnaming() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3028
+[08-Apr-2020 15:10:21 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerdistnaming() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3028
+[08-Apr-2020 15:13:47 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getSSOCustomerdistnaming() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3028
+[08-Apr-2020 15:36:56 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::msr_customer_alignments() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3035
+[13-Apr-2020 10:59:19 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'sma_products' (T_STRING) in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 100
+[13-Apr-2020 11:43:54 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getfranchise() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 2101
+[13-Apr-2020 11:48:24 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Site::getfranchise() in /home/techsava/public_html/mashariki2.0/sma/models/Site.php on line 250
+[13-Apr-2020 11:48:26 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Site::getfranchise() in /home/techsava/public_html/mashariki2.0/sma/models/Site.php on line 250
+[13-Apr-2020 12:54:47 Africa/Nairobi] PHP Fatal error:  Class 'Budget_model' not found in /home/techsava/public_html/mashariki2.0/system/core/Loader.php on line 305
+[13-Apr-2020 12:55:27 Africa/Nairobi] PHP Fatal error:  Class 'Budget_model' not found in /home/techsava/public_html/mashariki2.0/system/core/Loader.php on line 305
+[15-Apr-2020 13:36:18 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 1532
+[15-Apr-2020 13:36:26 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 1532
+[15-Apr-2020 14:02:17 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 1422
+[15-Apr-2020 14:03:02 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 1422
+[16-Apr-2020 15:47:11 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ';' in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 1692
+[16-Apr-2020 17:18:32 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1517
+[16-Apr-2020 17:19:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1517
+[16-Apr-2020 17:19:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1517
+[16-Apr-2020 17:19:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1517
+[16-Apr-2020 17:20:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:20:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:20:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:21:09 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:21:13 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:21:44 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:30:59 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:31:13 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:56:30 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[16-Apr-2020 17:56:39 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1458
+[16-Apr-2020 17:56:56 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1458
+[16-Apr-2020 18:04:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllMsr() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 712
+[22-Apr-2020 23:34:35 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1517
+[22-Apr-2020 23:43:08 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllBu() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1518
+[22-Apr-2020 23:43:10 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAllBu() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1518
+[23-Apr-2020 16:31:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllDsm() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 713
+[23-Apr-2020 16:43:10 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMsrNotAssigned() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 492
+[23-Apr-2020 16:53:37 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMsrNotAssigned() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 492
+[23-Apr-2020 16:53:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllDsm() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 788
+[23-Apr-2020 16:53:56 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMsrNotAssigned() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 492
+[23-Apr-2020 17:17:25 Africa/Nairobi] PHP Parse error:  syntax error, unexpected end of file in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3251
+[23-Apr-2020 17:20:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::checkModulePermission() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 934
+[23-Apr-2020 17:29:45 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getDsmNotAssigned() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 493
+[24-Apr-2020 16:30:30 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMsrByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1485
+[24-Apr-2020 18:33:01 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getAllTeams() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1487
+[24-Apr-2020 18:33:55 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1584
+[24-Apr-2020 18:34:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1584
+[24-Apr-2020 18:34:27 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1584
+[24-Apr-2020 18:34:42 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1584
+[24-Apr-2020 18:34:47 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1584
+[25-Apr-2020 10:13:57 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getDsmByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1528
+[25-Apr-2020 10:14:05 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getDSMteams() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2360
+[25-Apr-2020 10:18:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsNoDSMForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1593
+[25-Apr-2020 10:21:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsNoDSMForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2366
+[25-Apr-2020 10:30:16 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getTeamsNoDSMForCountryID() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2366
+[25-Apr-2020 11:14:34 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::addEmployee() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 530
+[25-Apr-2020 11:16:10 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Companies_model::addEmployee() in /home/techsava/public_html/mashariki2.0/sma/models/Companies_model.php on line 530
+[25-Apr-2020 11:20:27 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::updateTeam() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1566
+[25-Apr-2020 12:14:09 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteTeam() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2739
+[25-Apr-2020 12:14:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteTeam() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2739
+[25-Apr-2020 15:15:07 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 890
+[25-Apr-2020 15:43:25 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Settings_model::deleteTeam() in /home/techsava/public_html/mashariki2.0/sma/models/Settings_model.php on line 578
+[25-Apr-2020 15:53:28 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Settings_model::getMsrByID() in /home/techsava/public_html/mashariki2.0/sma/models/Settings_model.php on line 165
+[25-Apr-2020 15:54:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Settings_model::getMsrByID() in /home/techsava/public_html/mashariki2.0/sma/models/Settings_model.php on line 165
+[29-Apr-2020 11:48:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getmsrByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 449
+[29-Apr-2020 11:49:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getmsrByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 449
+[29-Apr-2020 11:57:32 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getmsrByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 689
+[29-Apr-2020 15:38:50 Africa/Nairobi] PHP Fatal error:  Call to a member function getAllCustomerCompanies() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 1255
+[29-Apr-2020 15:38:53 Africa/Nairobi] PHP Fatal error:  Call to a member function getAllCustomerCompanies() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 1255
+[29-Apr-2020 17:31:12 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 327
+[29-Apr-2020 17:31:16 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 327
+[29-Apr-2020 17:31:28 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 327
+[29-Apr-2020 17:32:58 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 340
+[29-Apr-2020 17:34:13 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 340
+[29-Apr-2020 17:34:16 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 340
+[29-Apr-2020 17:51:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getAllCurrencies() in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 921
+[29-Apr-2020 17:54:24 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 358
+[29-Apr-2020 18:03:25 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 349
+[29-Apr-2020 18:04:50 Africa/Nairobi] PHP Fatal error:  Call to a member function getCurrencyByID() on null in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/add.php on line 349
+[30-Apr-2020 05:19:21 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$totalshipping' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 3234
+[30-Apr-2020 05:19:27 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$totalshipping' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 3234
+[30-Apr-2020 05:19:30 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$totalshipping' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 3234
+[30-Apr-2020 05:20:27 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$totalshipping' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 3234
+[30-Apr-2020 07:30:22 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getmsrByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 449
+[05-May-2020 09:27:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::updateMSR() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1579
+[05-May-2020 09:51:32 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addMSR() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2902
+[05-May-2020 11:17:28 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getdsmByName() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2701
+[05-May-2020 11:22:37 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getTeamByName() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2706
+[05-May-2020 11:24:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addDSMTEAMAlignmentsBatch() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2730
+[06-May-2020 11:26:23 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4194304 bytes) in /home/techsava/public_html/mashariki2.0/sma/third_party/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[06-May-2020 12:23:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getmsrByName() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1457
+[06-May-2020 12:42:35 Africa/Nairobi] PHP Fatal error:  Call to a member function remove_customermsrdata() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1500
+[06-May-2020 12:48:42 Africa/Nairobi] PHP Fatal error:  Call to a member function remove_customermsrdata() on null in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 1500
+[07-May-2020 10:40:27 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addDSM() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2927
+[07-May-2020 10:42:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addTeam() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2948
+[07-May-2020 17:28:24 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addDSM() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2927
+[07-May-2020 18:22:43 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addTeam() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2948
+[12-May-2020 10:28:22 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/edit.php on line 288
+[12-May-2020 10:28:27 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/edit.php on line 288
+[12-May-2020 10:29:05 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/mashariki2.0/themes/default/views/sales/edit.php on line 286
+[12-May-2020 14:17:36 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::deleteCustomer2() in /home/techsava/public_html/mashariki2.0/sma/controllers/Customers.php on line 2569
+[13-May-2020 08:21:03 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 100
+[13-May-2020 08:21:13 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 100
+[13-May-2020 08:22:13 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 100
+[13-May-2020 08:22:39 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 94
+[13-May-2020 12:36:36 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1856
+[13-May-2020 12:36:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1856
+[13-May-2020 12:48:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 12:50:26 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 13:06:24 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 13:07:57 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 22:58:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1858
+[13-May-2020 22:59:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1858
+[13-May-2020 23:01:17 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 23:01:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 23:04:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1856
+[13-May-2020 23:08:08 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 23:08:31 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 23:08:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::order_by() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[13-May-2020 23:47:24 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/DB_driver.php on line 1764
+[14-May-2020 11:42:25 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/DB_query_builder.php on line 1592
+[14-May-2020 13:04:23 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/DB_driver.php on line 1023
+[15-May-2020 11:19:45 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 78 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[15-May-2020 11:49:40 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[15-May-2020 12:17:52 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[15-May-2020 12:18:12 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 81 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:18:29 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 84 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:18:57 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1024 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:20:06 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 84 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:20:23 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1024 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:20:53 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 7 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:21:03 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1024 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:22:14 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1024 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:25:30 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 1024 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 12:29:16 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1857
+[15-May-2020 12:37:06 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1866
+[15-May-2020 12:38:19 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1866
+[15-May-2020 12:38:30 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1866
+[15-May-2020 12:39:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1866
+[15-May-2020 12:39:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1866
+[15-May-2020 12:51:27 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 10838013 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[15-May-2020 12:51:37 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 10805916 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[15-May-2020 12:53:06 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 10838013 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[15-May-2020 13:00:10 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 2 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 13:01:07 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 85 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 151
+[15-May-2020 13:01:15 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 85 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 151
+[15-May-2020 13:02:06 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 87 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 13:02:19 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[15-May-2020 13:14:00 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[15-May-2020 13:14:19 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[18-May-2020 07:21:35 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/sales.php on line 317
+[18-May-2020 07:46:19 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 84 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[18-May-2020 08:15:41 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 2 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 08:16:41 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 08:55:01 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 09:01:15 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 09:04:08 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 09:08:09 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 82 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-May-2020 09:45:48 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 16777216 bytes exhausted (tried to allocate 82 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 09:46:56 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 167772160 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 10:12:02 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 2 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 10:12:17 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 86 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 10:14:53 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 86 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 11:08:20 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 84 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_result.php on line 295
+[18-May-2020 11:30:00 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[18-May-2020 11:35:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 2291
+[18-May-2020 11:36:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 2291
+[18-May-2020 11:38:45 Africa/Nairobi] PHP Fatal error:  Call to undefined method Budget_model::getBudgetByID() in /home/techsava/public_html/mashariki2.0/sma/controllers/Budgets.php on line 2291
+[19-May-2020 16:27:04 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16080550 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[19-May-2020 16:29:20 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 15370025 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[19-May-2020 16:29:35 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16080550 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[19-May-2020 16:29:37 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 15483780 bytes) in /home/techsava/public_html/mashariki2.0/system/database/DB_cache.php on line 175
+[19-May-2020 16:39:46 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[19-May-2020 16:40:10 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 2 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[19-May-2020 17:05:31 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[19-May-2020 17:08:50 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 82 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 184
+[20-May-2020 10:23:10 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::getAlignmentCustomersAndProducts() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 2199
+[20-May-2020 12:18:44 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1881
+[20-May-2020 12:18:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1881
+[20-May-2020 12:20:07 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1881
+[20-May-2020 13:16:35 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/techsava/public_html/mashariki2.0/sma/models/Purchases_model.php on line 734
+[22-May-2020 10:15:21 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1880
+[22-May-2020 10:15:32 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1880
+[22-May-2020 10:16:01 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1890
+[22-May-2020 10:16:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1890
+[22-May-2020 10:16:19 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1890
+[22-May-2020 10:16:50 Africa/Nairobi] PHP Fatal error:  Call to undefined method Datatables::limit() in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1890
+[25-May-2020 14:06:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::checkModulePermission() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 2330
+[25-May-2020 15:11:00 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '.' in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3187
+[26-May-2020 10:06:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')' in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 2386
+[11-Jun-2020 06:22:18 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/techsava/public_html/mashariki2.0/themes/default/views/reports/mashariki_rpt.php on line 234
+[11-Jun-2020 11:15:22 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')' in /home/techsava/public_html/mashariki2.0/sma/controllers/Reports.php on line 1904
+[23-Jun-2020 10:34:08 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '{' in /home/techsava/public_html/mashariki2.0/sma/controllers/Sales.php on line 3071
+[23-Jun-2020 10:51:51 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/models/Sales_model.php on line 229
+[23-Jun-2020 10:52:25 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/models/Sales_model.php on line 229
+[23-Jun-2020 10:53:54 Africa/Nairobi] PHP Fatal error:  Call to undefined function where() in /home/techsava/public_html/mashariki2.0/sma/models/Sales_model.php on line 229
+[24-Jun-2020 15:30:21 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ''non-promoted'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 982
+[06-Jul-2020 13:53:32 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 64
+[06-Jul-2020 13:59:40 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/sma/models/Site.php on line 0
+[06-Jul-2020 15:05:02 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/DB_driver.php on line 1306
+[06-Jul-2020 16:28:55 Africa/Nairobi] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/techsava/public_html/mashariki2.0/system/database/DB_driver.php on line 1786
+[08-Jul-2020 12:59:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method Welcome::cachePage() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 873
+[10-Jul-2020 13:10:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::checkModulePermission() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 2339
+[14-Jul-2020 16:23:09 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:23:16 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:23:44 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:33:20 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:33:23 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:35:57 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:36:19 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::getMinCategories() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1558
+[14-Jul-2020 16:57:34 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 928
+[14-Jul-2020 17:23:34 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 507
+[14-Jul-2020 17:43:56 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '?>' in /home/techsava/public_html/mashariki2.0/themes/default/views/sso.php on line 547
+[20-Jul-2020 07:34:54 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteConversion() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1653
+[20-Jul-2020 07:35:39 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteConversion() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1653
+[20-Jul-2020 07:35:53 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteConversion() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1653
+[20-Jul-2020 07:35:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteConversion() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1653
+[23-Jul-2020 09:09:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Site::checkModulePermission() in /home/techsava/public_html/mashariki2.0/sma/controllers/Products.php on line 2339
+[28-Jul-2020 13:40:51 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Welcome in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 0
+[28-Jul-2020 13:51:40 Africa/Nairobi] PHP Fatal error:  Cannot redeclare class Sales_model in /home/techsava/public_html/mashariki2.0/themes/default/views/monthlytrend.php on line 0
+[04-Aug-2020 08:48:15 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 08:50:41 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 08:53:13 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 08:54:57 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 08:55:28 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 11:17:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addExchangeRate() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1147
+[04-Aug-2020 11:17:26 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addExchangeRate() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1147
+[04-Aug-2020 11:17:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addExchangeRate() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1147
+[04-Aug-2020 13:53:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addExchangeRate() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1147
+[04-Aug-2020 13:54:10 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::addExchangeRate() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1147
+[04-Aug-2020 13:58:55 Africa/Nairobi] PHP Fatal error:  Call to undefined method Settings_model::deleteConversion() in /home/techsava/public_html/mashariki2.0/sma/controllers/System_settings.php on line 1696
+[04-Aug-2020 16:23:31 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 16:23:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 17:19:23 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 22:32:49 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 22:32:55 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 22:32:59 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 22:33:07 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[04-Aug-2020 22:33:22 Africa/Nairobi] PHP Fatal error:  Call to undefined method Sales_model::getPSOsalesByCountryYearly() in /home/techsava/public_html/mashariki2.0/sma/controllers/Welcome.php on line 1586
+[24-Aug-2020 10:53:18 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 185
+[24-Aug-2020 10:53:33 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 185
+[24-Aug-2020 10:53:35 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 185
+[24-Aug-2020 10:53:36 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77 bytes) in /home/techsava/public_html/mashariki2.0/system/database/drivers/mysqli/mysqli_result.php on line 185
+[12-Nov-2020 15:58:12 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerShops() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 264
+[12-Nov-2020 16:19:36 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerShop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 287
+[14-Nov-2020 16:54:43 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 16:56:31 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 16:56:40 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 16:56:58 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 16:59:55 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 17:00:04 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 17:00:15 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 17:00:24 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[14-Nov-2020 17:24:23 Africa/Nairobi] PHP Fatal error:  Call to a member function model() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 10
+[17-Nov-2020 11:52:19 Africa/Nairobi] PHP Fatal error:  Class 'TSP' not found in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 91
+[17-Nov-2020 11:52:39 Africa/Nairobi] PHP Fatal error:  Class 'TSP' not found in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 91
+[17-Nov-2020 11:58:57 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/techsava/public_html/powergas/sma/libraries/Tsp.php on line 91
+[21-Nov-2020 15:45:59 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 175
+[21-Nov-2020 15:46:58 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 175
+[24-Nov-2020 11:59:21 Africa/Nairobi] PHP Fatal error:  Call to a member function getCountryByID() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 230
+[24-Nov-2020 12:02:47 Africa/Nairobi] PHP Fatal error:  Call to a member function getCountryByID() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 230
+[24-Nov-2020 12:04:23 Africa/Nairobi] PHP Fatal error:  Call to a member function getCountryByID() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 230
+[24-Nov-2020 12:04:46 Africa/Nairobi] PHP Fatal error:  Call to a member function getCountryByID() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 230
+[27-Nov-2020 13:05:46 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[27-Nov-2020 13:05:55 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[27-Nov-2020 14:28:52 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[27-Nov-2020 15:23:52 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/techsava/public_html/powergas/themes/default/views/purchases/edit_expense.php on line 46
+[27-Nov-2020 15:24:09 Africa/Nairobi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/techsava/public_html/powergas/themes/default/views/purchases/edit_expense.php on line 46
+[29-Nov-2020 10:54:51 Africa/Nairobi] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/techsava/public_html/powergas/system/database/DB_query_builder.php on line 2635
+[29-Nov-2020 15:50:55 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/models/Sales_model.php on line 884
+[29-Nov-2020 15:53:00 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/models/Sales_model.php on line 884
+[01-Dec-2020 15:06:10 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '/' in /home/techsava/public_html/powergas/themes/default/views/sales/view.php on line 407
+[01-Dec-2020 15:29:45 Africa/Nairobi] PHP Fatal error:  Call to a member function getCompanyByID() on null in /home/techsava/public_html/powergas/sma/controllers/Sales.php on line 365
+[09-Dec-2020 12:28:28 Africa/Nairobi] PHP Fatal error:  Call to a member function select() on null in /home/techsava/public_html/powergas/sma/controllers/Reports.php on line 816
+[09-Dec-2020 12:28:41 Africa/Nairobi] PHP Fatal error:  Call to a member function select() on null in /home/techsava/public_html/powergas/sma/controllers/Reports.php on line 816
+[09-Dec-2020 12:30:42 Africa/Nairobi] PHP Fatal error:  Call to a member function select() on null in /home/techsava/public_html/powergas/sma/controllers/Reports.php on line 810
+[09-Dec-2020 12:31:43 Africa/Nairobi] PHP Fatal error:  Call to a member function select() on null in /home/techsava/public_html/powergas/sma/controllers/Reports.php on line 809
+[12-Dec-2020 16:46:47 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 672
+[12-Dec-2020 16:46:58 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 672
+[12-Dec-2020 16:47:19 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 672
+[12-Dec-2020 16:49:41 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 672
+[12-Dec-2020 16:50:42 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 673
+[12-Dec-2020 16:50:56 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}' in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 673
+[13-Dec-2020 14:34:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:35:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:40:59 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:53:21 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:09 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:11 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:12 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:13 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:27 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:56:47 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 14:57:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 15:05:59 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 130
+[13-Dec-2020 15:10:05 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Companies_model.php on line 129
+[13-Dec-2020 15:20:06 Africa/Nairobi] PHP Fatal error:  Call to undefined function unsetValue() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 219
+[14-Dec-2020 17:10:07 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/models/Sales_model.php on line 971
+[14-Dec-2020 19:14:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 221
+[14-Dec-2020 19:15:03 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 221
+[14-Dec-2020 19:16:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 226
+[14-Dec-2020 19:17:54 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:21:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:21:29 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:21:50 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:22:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:23:08 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 205
+[14-Dec-2020 19:23:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:23:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:24:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:24:25 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:24:50 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:24:58 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 204
+[14-Dec-2020 19:26:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method Api::getProductDiscountsByProductIDAndDistributorID() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 223
+[15-Dec-2020 12:57:23 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_Input::all() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 500
+[15-Dec-2020 12:57:34 Africa/Nairobi] PHP Fatal error:  Call to a member function all() on null in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 500
+[15-Dec-2020 12:58:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_Input::posts() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 500
+[03-Jan-2021 10:55:38 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[03-Jan-2021 10:55:45 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[10-Jan-2021 11:19:36 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/powergas/themes/default/views/customers/edit1.php on line 17
+[10-Jan-2021 11:20:00 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/powergas/themes/default/views/customers/edit1.php on line 17
+[10-Jan-2021 11:21:06 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/powergas/themes/default/views/customers/edit1.php on line 17
+[10-Jan-2021 11:22:02 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/techsava/public_html/powergas/themes/default/views/customers/edit1.php on line 17
+[10-Jan-2021 23:44:27 Africa/Nairobi] PHP Fatal error:  Call to undefined function jsondecode() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 1619
+[11-Jan-2021 03:30:18 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[11-Jan-2021 03:30:30 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[11-Jan-2021 03:30:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[11-Jan-2021 03:32:00 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[11-Jan-2021 03:33:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[11-Jan-2021 03:33:14 Africa/Nairobi] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/techsava/public_html/powergas/sma/models/Towns_model.php on line 36
+[13-Jan-2021 19:35:23 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[14-Jan-2021 09:22:49 Africa/Nairobi] PHP Fatal error:  Call to undefined function setItem() in /home/techsava/public_html/powergas/themes/default/views/purchases/add.php on line 202
+[19-Jan-2021 21:32:09 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[19-Jan-2021 21:33:35 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[20-Jan-2021 09:25:03 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[20-Jan-2021 09:32:21 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[20-Jan-2021 09:32:30 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[20-Jan-2021 09:32:35 Africa/Nairobi] PHP Fatal error:  Cannot use object of type stdClass as array in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 415
+[22-Jan-2021 11:51:52 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '/' in /home/techsava/public_html/powergas/themes/default/views/header.php on line 349
+[25-Jan-2021 19:03:41 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:03:47 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:03:47 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:03:56 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:40:47 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:44:10 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:44:21 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:47:59 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::add_shop() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 797
+[25-Jan-2021 19:53:52 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Customers::view_shops() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 798
+[29-Jan-2021 12:22:51 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getAllCustomersShops() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 135
+[29-Jan-2021 12:23:00 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getAllCustomersShops() in /home/techsava/public_html/powergas/sma/controllers/Api.php on line 135
+[05-Feb-2021 23:23:17 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerLimit() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 689
+[05-Feb-2021 23:24:08 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerLimit() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 689
+[05-Feb-2021 23:24:12 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerLimit() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 689
+[05-Feb-2021 23:26:04 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getCustomerLimit() in /home/techsava/public_html/powergas/sma/controllers/Customers.php on line 704
+[17-Feb-2021 19:15:15 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:15:34 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:15:38 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:16:16 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:22:46 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:22:47 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:23:48 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[17-Feb-2021 19:24:00 Africa/Nairobi] PHP Fatal error:  Call to undefined method Vehicles_model::reverseVehicleStockTaking() in /home/techsava/public_html/powergas/sma/controllers/Purchases.php on line 2284
+[15-Mar-2021 17:30:31 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getSalesmansVehicle() in /home/techsava/public_html/powergas_test/sma/controllers/Customers.php on line 947
+[15-Mar-2021 17:30:52 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getSalesmansVehicle() in /home/techsava/public_html/powergas_test/sma/controllers/Customers.php on line 947
+[15-Mar-2021 17:31:22 Africa/Nairobi] PHP Fatal error:  Call to undefined method Companies_model::getSalesmansVehicle() in /home/techsava/public_html/powergas_test/sma/controllers/Customers.php on line 947
+[04-Apr-2021 00:11:13 Africa/Nairobi] PHP Fatal error:  Call to a member function getRouteByID() on null in /home/techsava/public_html/powergas/sma/controllers/Vehicles.php on line 232
+[04-Apr-2021 00:12:06 Africa/Nairobi] PHP Fatal error:  Call to a member function getRouteByID() on null in /home/techsava/public_html/powergas/sma/controllers/Vehicles.php on line 232
+[04-Apr-2021 00:12:14 Africa/Nairobi] PHP Fatal error:  Call to a member function getRouteByID() on null in /home/techsava/public_html/powergas/sma/controllers/Vehicles.php on line 232
+[08-Jul-2021 02:42:27 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:42:35 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:42:37 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:43:06 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:44:57 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:45:00 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:46:24 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:46:29 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:46:31 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:46:43 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:48:49 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:48:51 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:56:49 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:56:50 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 02:56:50 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 13:11:34 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 13:39:43 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 13:39:47 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 13:39:52 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 16:38:13 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 16:38:18 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:04 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:06 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:07 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:26:10 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:43:54 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:45:11 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:55:12 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 18:55:14 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 19:34:51 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 19:37:22 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 20:23:09 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[08-Jul-2021 20:23:13 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:15:57 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:17:44 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:17:47 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:17:49 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:23:36 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:23:37 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:23:39 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[09-Jul-2021 10:37:26 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales_model::updateDiscount() in /home/techsava/public_html/powergas_test/sma/models/Sales_model.php on line 1188
+[14-Jul-2021 17:30:28 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales::modal_view() in /home/techsava/public_html/powergas_test/sma/controllers/Sales.php on line 634
+[14-Jul-2021 17:30:50 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales::modal_view() in /home/techsava/public_html/powergas_test/sma/controllers/Sales.php on line 634
+[14-Jul-2021 17:30:53 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales::modal_view() in /home/techsava/public_html/powergas_test/sma/controllers/Sales.php on line 634
+[14-Jul-2021 17:30:55 Africa/Nairobi] PHP Fatal error:  Cannot redeclare Sales::modal_view() in /home/techsava/public_html/powergas_test/sma/controllers/Sales.php on line 634

@@ -1,0 +1,4 @@
+Code,Name,Category Code,Unit,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+CAJASMALL,CAJA ENERGY SAVING BULB SMALL,22,,60,85,,VAT@ 16%,INCLUSIVE,,,,,,,,
+CAJASPIRALSMALL,CAJA ENERGY SAVING BULB SPIRAL  SMALL,22,,100,125,,VAT@ 16%,INCLUSIVE,,,,,,,,
+CAJASPIRALBIG,CAJA ENERGY SAVING BULBSPIRAL BIG,22,,120,145,,VAT@ 16%,INCLUSIVE,,,,,,,,

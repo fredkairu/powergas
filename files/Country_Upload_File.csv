@@ -1,0 +1,32 @@
+cluster,Country,French_desc,Portuguese_desc,Currency_code,Currency_name,rate
+EAH,Ethiopia,Ethiopia,Ethiopia,EURO,EURO,1
+EAH,Kenya,Kenya,Kenya,EURO,EURO,1
+EAH,Tanzania,Tanzania,Tanzania,EURO,EURO,1
+EAH,Uganda ,Uganda ,Uganda ,EURO,EURO,1
+SSA32,Angola,Angola,Angola,EURO,EURO,1
+SSA32,Benin,Benin,Benin,EURO,EURO,1
+SSA32,Burkina-Faso,Burkina-Faso,Burkina-Faso,EURO,EURO,1
+SSA32,Burundi,Burundi,Burundi,EURO,EURO,1
+SSA32,Cape Verde,Cape Verde,Cape Verde,EURO,EURO,1
+SSA32,Central Afric,Central Afric,Central Afric,EURO,EURO,1
+SSA32,Chad,Chad,Chad,EURO,EURO,1
+SSA32,Comoros,Comoros,Comoros,EURO,EURO,1
+SSA32,Congo,Congo,Congo,EURO,EURO,1
+SSA32,Congo dem.,Congo dem.,Congo dem.,EURO,EURO,1
+SSA32,Djibouti,Djibouti,Djibouti,EURO,EURO,1
+SSA32,Gabon,Gabon,Gabon,EURO,EURO,1
+SSA32,Guinea,Guinea,Guinea,EURO,EURO,1
+SSA32,Guinee Bissau,Guinee Bissau,Guinee Bissau,EURO,EURO,1
+SSA32,Madagascar,Madagascar,Madagascar,EURO,EURO,1
+SSA32,Mali,Mali,Mali,EURO,EURO,1
+SSA32,Mauretania,Mauretania,Mauretania,EURO,EURO,1
+SSA32,Mauritius,Mauritius,Mauritius,EURO,EURO,1
+SSA32,Mozambique,Mozambique,Mozambique,EURO,EURO,1
+SSA32,Niger,Niger,Niger,EURO,EURO,1
+SSA32,Rwanda,Rwanda,Rwanda,EURO,EURO,1
+SSA32,Togo,Togo,Togo,EURO,EURO,1
+SSA32,Zambia,Zambia,Zambia,EURO,EURO,1
+SSA32,Zimbabwe,Zimbabwe,Zimbabwe,EURO,EURO,1
+CCS,Cameroon,Cameroon,Cameroon,EURO,EURO,1
+CCS,Ivory Coast,Ivory Coast,Ivory Coast,EURO,EURO,1
+CCS,Senegal,Senegal,Senegal,EURO,EURO,1
