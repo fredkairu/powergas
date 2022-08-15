@@ -44,7 +44,7 @@
                             else
                             {$nm='' ;}
                             $data= "<tr><td></td>
-                            <td>".$customer->name."</td>
+                            <td>".$customer->cust."</td>
                             <td>".$customer->shop."</td>
                             <td>". $nm. "</td>
                             <td>
