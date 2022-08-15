@@ -183,7 +183,7 @@ class Customers extends MY_Controller
                 ->order_by('id','ASC');
                 $query= $this->db->get();
                 $result=$query->result();
-                print_r($result);
+                //print_r($result);
                 $this->data['shops']=$result;
        
         $this->data['error'] = (validation_errors()) ? validation_errors() : $this->session->flashdata('error');
