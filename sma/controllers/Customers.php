@@ -176,7 +176,7 @@ class Customers extends MY_Controller
             //get vehicle route id
             //use route to get all shops in the same route
             $this->db
-                ->select("sma_shops.id as id,sma_shop_allocations.id as all_id,sma_customers.name,sma_shops")
+                ->select("sma_shops.id as id,sma_shop_allocations.id as all_id,sma_customers.name")
                 ->from("sma_customers")
                 ->join("sma_shops","sma_shops.customer_id=sma_customers.id","left")
                 ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
