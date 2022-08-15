@@ -165,6 +165,31 @@ class Customers extends MY_Controller
         $meta = array('page_title' => 'Customers', 'bc' => $bc);
         $this->page_construct('customers/customers', $meta, $this->data);
     }
+    function getshops($action = NULL)
+    {
+        $this->sma->checkPermissions('index',true,'customers');
+
+        $distributor=$this->companies_model->getCompanyByID($this->ion_auth->get_company_id());
+        
+            //get company id from users table
+            //get vehicle id from company table using company id
+            //get vehicle route id
+            //use route to get all shops in the same route
+            $this->db
+                ->select("sma_shops.id as id,sma_shop_allocations.id as all_id,sma_customers.name,sma_shops")
+                ->from("sma_customers")
+                ->join("sma_shops","sma_shops.customer_id=sma_customers.id","left")
+                ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
+                ->order_by('all_id','ASC');
+                $query= $this->db->get();
+                $result=$query->result();
+                $this->data['shops']=$result;
+       
+        $this->data['error'] = (validation_errors()) ? validation_errors() : $this->session->flashdata('error');
+        $bc = array(array('link' => base_url(), 'page' => lang('home')), array('link' => '#', 'page' => lang('Customers')));
+        $meta = array('page_title' => 'Shops', 'bc' => $bc);
+        $this->page_construct('customers/shops_summary', $meta, $this->data);
+    }
     
     function smscode($action = null)
     {

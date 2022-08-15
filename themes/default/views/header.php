@@ -662,7 +662,9 @@
                                <li id="customers_index"><a class="submenu" href="<?= site_url('customers/select_county'); ?>"><i
                                                 class="fa fa-plus-circle"></i><span
                                                 class="text"> <?= lang('select_customers_by_counties'); ?></span></a></li>
-                                                
+                               <li id="customers_index"><a class="submenu" href="<?= site_url('customers/getshops'); ?>"><i
+                                                class="fa fa-plus-circle"></i><span
+                                                class="text"> <?= lang('shops_days_served_summary'); ?></span></a></li>                
                                                 
                             </ul>
                         </li>
