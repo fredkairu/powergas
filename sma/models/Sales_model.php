@@ -53,6 +53,10 @@ class Sales_model extends CI_Model
         }
         return false;
     }
+    public function addTicketSale($data = array())
+    {
+        $this->db->insert('ticket_sales', $data);
+    }
 	public function addMvcode($data = array())
     {
         if ($this->db->insert('movementcodes', $data)) {
