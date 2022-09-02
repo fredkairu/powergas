@@ -25,6 +25,21 @@ class Vehicles_model extends CI_Model
         }
         return false;
     }
+    public function getDays($all_id)
+    {
+        
+          $this->db->select('days_of_the_week.id,days_of_the_week.name')
+        ->join('days_of_the_week', 'days_of_the_week.id=allocation_days.day', 'left');
+          
+            $q = $this->db->get_where('allocation_days', array('allocation_id' => $all_id));
+        if ($q->num_rows() > 0) {
+            foreach (($q->result()) as $row) {
+                $data[] = $row;
+            }
+            return $data;
+        }
+        return FALSE;
+    }
     
     public function addVehicleClosingStock($data = array())
     {
