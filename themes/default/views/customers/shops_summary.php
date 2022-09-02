@@ -38,7 +38,7 @@
                             if(isset($days)){
                             foreach($days as $day){
                                 
-                               $nm=$day->name;
+                               $nm=$day['name'];
                                 }
                             }
                             else
