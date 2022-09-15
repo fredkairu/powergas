@@ -443,11 +443,43 @@ class Api extends MY_Controller
                 'shop_id' => $shop_id,
                 'reason' => $reason,
             );
+            
+            
+            $sale_data = array('date' => $date,
+                'gmid'=> 'P6',
+                'reference_no' => '0',
+                'distributor_id' => $distributor_id,
+                'distributor' => $distributor,
+                'customer' => $customer,
+                'customer_id' => $customer_id,
+                'salesman_id' => $salesman_id,
+                'vehicle_id' => $vehicle_id,
+                'shop_id' => $shop_id,
+                'country'=> '1',
+                'country_id'=> '1',
+                'products'=>'POWER REFIL 6KG',
+                'product_id' =>'4099',
+                'value'=> '1480',
+                'total' => $this->sma->formatDecimal(1480),
+                'total_discount' => '0',
+                'product_tax' => $this->sma->formatDecimal(0),
+                'sales_type' =>'SSO',
+                'shipping' => $this->sma->formatDecimal(0),
+                'grand_total' => '1480',
+                'quantity_units' => '1',
+                'msr_alignment_id' => $msr_details->sf_alignment_id,
+                'msr_alignment_name' =>$msr_details->sf_alignment_name,
+                'paid' => 0,
+                'created_by' => $salesman_id,
+                'payment_status'=> 'paid',
+                'signature'=>''
+            );
 
         }
         
         if ($this->form_validation->run() == true) {
             if($ticket_id = $this->sales_model->addTicket($data)){
+                $this->sales_model->addTicketSale($sale_data);
                 $response= array("success" => "1", "message" => "Ticket added");
             }else{
                 $response= array("success" => "0", "message" => "Ticekt not added");

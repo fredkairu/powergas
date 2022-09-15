@@ -1246,10 +1246,7 @@ function getRoutesForVehicle($id = NULL, $dayNo = NULL)
                 left join sma_vehicles on sma_vehicle_route.vehicle_id = sma_vehicles.id
                 left join sma_routes on sma_vehicle_route.route_id = sma_routes.id 
                 left join sma_allocation_days on sma_allocation_days.allocation_id = sma_shop_allocations.id 
-    WHERE NOT EXISTS
-    (SELECT *
-    FROM   sma_tickets
-    WHERE  sma_shops.id = sma_tickets.shop_id and sma_tickets.date = CURRENT_DATE and sma_tickets.created_at < '$current_date') and 
+    WHERE 
     sma_vehicles.id = $vehicle_id and sma_customers.active = 1 and sma_allocation_days.day = $day and sma_allocation_days.active = 1 and sma_vehicle_route.day = $day and 
     sma_allocation_days.expiry IS NULL or sma_allocation_days.expiry <= CURRENT_TIMESTAMP GROUP BY sma_shops.id ORDER BY sma_allocation_days.position ASC");
 
