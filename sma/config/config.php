@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 //$config['base_url'] = 'http://localhost/sanofipos/';
 //$config['base_url'] = 'https://powergas.techsavanna.technology/';
-$config['base_url'] = 'https://powergas-home.techsavanna.technology/powergas-test/';
+$config['base_url'] = 'http://localhost/powergas-test/';
 //$config['base_url'] = 'https://powergas.techsavanna.technology/';
 /*
 |--------------------------------------------------------------------------

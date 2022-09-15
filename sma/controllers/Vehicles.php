@@ -1276,7 +1276,7 @@ function updatePosition()
             }
 
             exit("success");
-            }
+         }
 }
 
 

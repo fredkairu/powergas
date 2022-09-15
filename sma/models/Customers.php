@@ -70,7 +70,7 @@ class Companies_model extends CI_Model
     public function getDays($all_id)
     {
         
-          $this->db->select('days_of_the_week.id,days_of_the_week.name')
+        $this->db->select('days_of_the_week.id,days_of_the_week.name')
         ->join('days_of_the_week', 'days_of_the_week.id=allocation_days.day', 'left');
           
             $q = $this->db->get_where('allocation_days', array('allocation_id' => $all_id));
@@ -82,7 +82,7 @@ class Companies_model extends CI_Model
         }
         return FALSE;
     }
-
+   
     public function getCustomerByID($id)
     {
         $q = $this->db->get_where('customers', array('id' => $id), 1);
@@ -159,8 +159,8 @@ class Companies_model extends CI_Model
                  if($id>0){
                  $this->db->where('id',$cid);
                  $newdata["id"]=$id+1;
-$this->db->update('companies',$newdata);  
-$cid=$id+1;
+                $this->db->update('companies',$newdata);  
+                $cid=$id+1;
                  }
         }
         
@@ -169,8 +169,8 @@ $cid=$id+1;
                  if($id>0){
                  $this->db->where('id',$cid);
                  $newdata["id"]=$id+1;
-$this->db->update('companies',$newdata);  
-$cid=$id+1;
+                $this->db->update('companies',$newdata);  
+                $cid=$id+1;
         }
         
             
@@ -192,8 +192,8 @@ $cid=$id+1;
           foreach ($data as $value) {
               
          
-$last_id=$this->db->insert('distributor_mapping',$value);  
- }
+            $last_id=$this->db->insert('distributor_mapping',$value);  
+    }
       return $last_id; 
  
     }

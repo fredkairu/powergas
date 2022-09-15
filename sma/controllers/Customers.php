@@ -171,26 +171,25 @@ class Customers extends MY_Controller
 
         $distributor=$this->companies_model->getCompanyByID($this->ion_auth->get_company_id());
         
-            //get company id from users table
-            //get vehicle id from company table using company id
-            //get vehicle route id
-            //use route to get all shops in the same route
-            $this->db
-                ->select("sma_shops.id as id,sma_shops.shop_name as shop,sma_shop_allocations.id as all_id,sma_customers.name as cust")
-                ->from("sma_shops")
-                ->join("sma_customers","sma_customers.id=sma_shops.customer_id","left")
-                ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
-                ->order_by('id','ASC')
-                ->group_by('id');
+         
+           $this->db
+                ->select("sma_customers.id as id,sma_customers.created_at,sma_customers.name,sma_customers.email, sma_customers.phone, sma_currencies.french_name, sma_cities.city, sma_companies.name as sales_person_name,sma_customers.active")
+                ->from("sma_customers")
+                ->join("sma_cities","sma_cities.id=sma_customers.city","left")
+                ->join("sma_currencies","sma_currencies.id=sma_cities.county_id","left")
+                ->join("sma_companies","sma_companies.id=sma_customers.salesman_id","left")
+                ->where('sma_customers.group_name', 'customer')
+                ->where('sma_customers.distributor_id', $distributor->id);
                 $query= $this->db->get();
                 $result=$query->result();
-                //print_r($result);
-                $this->data['shops']=$result;
-       
+                $this->data['customers']=$result;
+
         $this->data['error'] = (validation_errors()) ? validation_errors() : $this->session->flashdata('error');
-        $bc = array(array('link' => base_url(), 'page' => lang('home')), array('link' => '#', 'page' => lang('Customers')));
+        $this->data['action'] = $action;
+        $bc = array(array('link' => base_url(), 'page' => lang('home')), array('link' => '#', 'page' => lang('Sales_People')));
+        
         $meta = array('page_title' => 'Shops', 'bc' => $bc);
-        $this->page_construct('customers/shops_summary', $meta, $this->data);
+        $this->page_construct('customers/shops_summary2', $meta, $this->data);
     }
     
     function smscode($action = null)

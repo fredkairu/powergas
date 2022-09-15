@@ -38,9 +38,9 @@
         <div class="box-icon">
             <ul class="btn-tasks">
                 <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon fa fa-tasks tip"
-                                                                                  data-placement="left"
-                                                                                  title="<?= lang("actions") ?>"></i></a>
+                     <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                        <i class="icon fa fa-tasks tip" data-placement="left" title="<?= lang("actions") ?>"></i>
+                    </a>
                     <ul class="dropdown-menu pull-right" class="tasks-menus" role="menu" aria-labelledby="dLabel">
                         <li><a href="<?= site_url('customers/add2'); ?>" data-toggle="modal" data-target="#myModal"
                                id="add"><i class="fa fa-plus-circle"></i> <?= lang("Add_Sales_Person"); ?></a></li>

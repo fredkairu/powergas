@@ -21,8 +21,9 @@
                             </th>
                             
                             <th><?= lang("Customer"); ?></th>
-                            <th><?= lang("Shop"); ?></th>
-                            <th><?= lang("Days"); ?></th>
+                            <th><?= lang("Shops"); ?></th>
+                            <th><?= lang("Days Served"); ?></th>
+                            <th><?= lang("Vehicle"); ?></th>
                             <th></th>
                         </tr>
                         </thead>
@@ -33,8 +34,8 @@
                         <?php
                         foreach($shops as $customer)
                         {
-                            //$this->load->model('customers');
-                            //$days=$this->customers_model->getShops($customer->all_id);
+                        
+                         $days=$this->customers->getShops($customer->all_id);
                             if(isset($days)){
                             foreach($days as $day){
                                 

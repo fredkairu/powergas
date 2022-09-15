@@ -31,6 +31,39 @@ class Companies_model extends CI_Model
         }
         return FALSE;
     }
+
+    public function getShopsForCustomer($id)
+    {
+                 $this->db
+                ->select("sma_shops.id as id,sma_shops.shop_name as shop,sma_shop_allocations.id as all_id,sma_customers.name as cust")
+                ->from("sma_shops")
+                ->join("sma_customers","sma_customers.id=sma_shops.customer_id","left")
+                ->join("sma_shop_allocations","sma_shop_allocations.shop_id=sma_shops.id","left")
+                ->where("sma_customers.id",$id)
+                ->order_by('id','ASC')
+                ->group_by('id');
+                $query= $this->db->get();
+                $result=$query->result();
+                //print_r($result);
+                
+
+                return $result;
+    }
+    public function getDays1($all_id)
+    {
+        
+        $this->db->select('days_of_the_week.id,days_of_the_week.name')
+        ->join('days_of_the_week', 'days_of_the_week.id=allocation_days.day', 'left');
+          
+            $q = $this->db->get_where('allocation_days', array('allocation_id' => $all_id));
+        if ($q->num_rows() > 0) {
+            foreach (($q->result()) as $row) {
+                $data[] = $row;
+            }
+            return $data;
+        }
+        return FALSE;
+    }
     
     public function getAllCustomersWithRouteId($route_id)
     {
@@ -193,7 +226,7 @@ class Companies_model extends CI_Model
     $this->db->update('users', $macaddress);
     return true;
     }
- public function implodeMac($mac)
+    public function implodeMac($mac)
     {
 
     $mac=explode(':',$mac);
