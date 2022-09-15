@@ -65,10 +65,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '0.0.0.0', //DESKTOP-1ATQ9FP'
+	'hostname' => '127.0.0.1', //DESKTOP-1ATQ9FP'
     'username' => 'root',
 	'password' => 'Trymenot#123$',
-	'database' => 'techsava_powergas2',
+	'database' => 'techsava_powergas',
 	'dbdriver' => 'mysql', //sqlsrv
 	'dbprefix' => 'sma_',   //sanofi.sma_
 	'pconnect' => FALSE,
