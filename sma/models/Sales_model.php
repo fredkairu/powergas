@@ -1076,6 +1076,9 @@ public function getMvcodeByID($id)
                     			'Amount' => $actual_payment['amount']);
                     		$json[] = $data2;
                     		$json_data = json_encode($json);
+                             $myfile = fopen("payment.txt", "w");
+                             fwrite($myfile,  $json_data);
+                             fclose($myfile);
                     		$username = "pos-api";
                     		$password = "admin";
                     		$headers = array(
