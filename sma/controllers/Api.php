@@ -1271,6 +1271,10 @@ class Api extends MY_Controller
             			
             			$json[] = $data2;
                         $json_data = json_encode($json);
+                                         
+         $myfile = fopen("tt.txt", "w");
+        fwrite($myfile,  $json_data);
+        fclose($myfile);
                         $username = "pos-api";
                         $password = "admin";
                         $headers = array(
