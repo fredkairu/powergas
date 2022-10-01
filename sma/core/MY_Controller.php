@@ -30,6 +30,8 @@ class MY_Controller extends CI_Controller {
             $this->data['Owner'] = $this->Owner;
             $this->Customer = $this->sma->in_group('customer') ? TRUE : NULL;
             $this->data['Customer'] = $this->Customer;
+            $this->Accounts = $this->sma->in_group('accounts') ? TRUE : NULL;
+            $this->data['Accounts'] = $this->Accounts;
             $this->Supplier = $this->sma->in_group('supplier') ? TRUE : NULL;
             $this->data['Supplier'] = $this->Supplier;
             $this->Admin = $this->sma->in_group('admin') ? TRUE : NULL;
@@ -94,6 +96,7 @@ class MY_Controller extends CI_Controller {
         $meta['ip_address'] = $this->input->ip_address();
         $meta['Owner'] = $data['Owner'];
         $meta['Admin'] = $data['Admin'];
+         $meta['Accounts'] = $data['Accounts'];
         $meta['Supplier'] = $data['Supplier'];
         $meta['Customer'] = $data['Customer'];
         $meta['Distributor'] = $data['Distributor'];
