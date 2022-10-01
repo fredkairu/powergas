@@ -1030,13 +1030,13 @@ public function getMvcodeByID($id)
                     			'TransDate' => $actual_payment['date'],
                     			'BankAcct' => $bank_acc_id,
                     			'Amount' => $actual_payment['amount']);
-                    		$json[] = $data2;
-                    		$json_data = json_encode($json);
-                    		$username = "pos-api";
-                    		$password = "admin";
-                    		$headers = array(
-                    			'Authorization: Basic '. base64_encode($username.':'.$password),
-                    		);
+                        		$json[] = $data2;
+                        		$json_data = json_encode($json);
+                        		$username = "pos-api";
+                        		$password = "admin";
+                        		$headers = array(
+                        			'Authorization: Basic '. base64_encode($username.':'.$password),
+                        		);
                         	
                         
                         	//Perform curl post request to add item to the accounts erp

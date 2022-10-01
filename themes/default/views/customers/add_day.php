@@ -10,7 +10,7 @@
         <div class="modal-body">
             <div class="form-group">
                 <?= lang("Day", "day") ?>
-                <select class="form-control" name="day">
+ <!--            <select class="form-control" name="day">
                     <option value="1">Mon</option>
                     <option value="2">Tue</option>
                     <option value="3">Wed</option>
@@ -18,7 +18,20 @@
                     <option value="5">Fri</option>
                     <option value="6">Sat</option>
                     <option value="7">Sun</option>
-                </select>
+                 </select> -->
+                <br/>
+                <?php 
+
+                
+
+                ?>
+                <input type="checkbox" class="form-control" name='day[]' value="1"> Mon <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="2"> Tue <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="3"> Wed <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="4"> Thur <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="5"> Fri <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="6"> Sat <br/>
+                <input type="checkbox" class="form-control" name='day[]' value="6"> Sun <br/>
             </div>
             <div class="form-group">
                 <label for="expiry">Expiry</label><br>
