@@ -869,6 +869,9 @@ class Api extends MY_Controller
 
 
                         //Perform curl post request to add item to the accounts erp
+                        // $myfile = fopen("payment.txt", "w");
+                         //    fwrite($myfile,  $json_data);
+                           //  fclose($myfile);
                         $curl = curl_init();
 
                         curl_setopt_array($curl, array(
@@ -1278,6 +1281,9 @@ class Api extends MY_Controller
                         );
             
                         //Perform curl post request to add item to the accounts erp
+                        //$myfile = fopen("payment.txt", "w");
+                          //   fwrite($myfile,  $json_data);
+                            // fclose($myfile);
                         $curl = curl_init();
             
                         curl_setopt_array($curl, array(
