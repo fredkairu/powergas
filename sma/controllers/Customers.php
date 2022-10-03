@@ -1032,66 +1032,57 @@ class Customers extends MY_Controller
     }
     
     function add_day($id){
-        //$this->sma->checkPermissions('add-shops',true,'customers');
-
-        $this->form_validation->set_rules('day', $this->lang->line("Day"), 'required');
-        //$this->form_validation->set_rules('expiry', $this->lang->line("Expiry"), 'required');
-
+    
         $allocation = $this->companies_model->getAllocationById($id);
 
-        if ($this->form_validation->run('customers/add_day') == true) {
-            $data = array(
+        $dataarray = $this->input->post('day');
+        // print_r($dataarray);
+        // die("a");
+        foreach($dataarray as $value){
+          $this->form_validation->set_rules('day', $this->lang->line("Day"), 'required');
+           $data = array(
                 'allocation_id' => $id,
-                'day' => $this->input->post('day'),
+                'day' => $value,
                 'expiry' => $this->input->post('expiry') ? $this->input->post('expiry') : null,
             );
-        } elseif ($this->input->post('add_day')) {
-            $this->session->set_flashdata('error', validation_errors());
-            redirect('customers/customers');
+
+           if (isset($data)) {
+               $cid = $this->companies_model->addAllocationDay($data);
+           }
         }
 
-        if ($this->form_validation->run() == true && $cid = $this->companies_model->addAllocationDay($data)) {
-           /***  $vehicle = $this->vehicles_model->getVehicleByRouteID($allocation->route_id,$data['day']);
-                if(!empty($vehicle)){
-                $companies = $this->vehicles_model->getSalesmanID($vehicle->vehicle_id);
-                $response = $this->routes_model->getVroomRoutes($companies->vehicle_id,$data['day'],$companies->id);
-                $vehicleroutes=json_decode($response,true);
-                foreach($vehicleroutes as $vehicleroute)
-        {
-            if(isset($vehicleroute['id']))
-            {
-            $datar = array(
-                'duration' => $vehicleroute['duration'],
-                'distance' => 0.00,
-            );
-            $update=$this->routes_model->updateDuration($vehicleroute['id'], $datar);
-            //echo $datar['duration'];
+        // if ($this->form_validation->run('customers/add_day') == true) {
             
-
-        }
-        }
-                
-            }
-                if($update==FALSE)
-                { **/
-           // $this->session->set_flashdata('message', $this->lang->line("allocation_day_added but route plan not updated"));
-                //}else{
-                    $this->session->set_flashdata('message', $this->lang->line("allocation_day_added")); 
-                //}
-                //print_r($vehicle);
+        //     $data = array(
+        //         'allocation_id' => $id,
+        //         'day' => $this->input->post('day'),
+        //         'expiry' => $this->input->post('expiry') ? $this->input->post('expiry') : null,
+        //     );
+        // } elseif ($this->input->post('add_day')) {
+        //     $this->session->set_flashdata('error', validation_errors());
+        //     redirect('customers/customers');
+        // }
+    // $this->lang->line("allocation_day_added")
+            $this->session->set_flashdata('message', "Allocation days Added"); 
+             
             redirect('customers/customers');
 
-        } else {
-            $this->data['allocation'] = $allocation;
-            $this->data['page_title'] = lang('add_day');
-            $this->data['modal_js'] = $this->site->modal_js();
-            $this->load->view($this->theme.'customers/add_day',$this->data);
-        }
+        // if ($this->form_validation->run() == true && $cid = $this->companies_model->addAllocationDay($data)) {
+        
+        //     $this->session->set_flashdata('message', $this->lang->line("allocation_day_added")); 
+             
+        //     redirect('customers/customers');
+
+        // } else {
+        //     $this->data['allocation'] = $allocation;
+        //     $this->data['page_title'] = lang('add_day');
+        //     $this->data['modal_js'] = $this->site->modal_js();
+        //     $this->load->view($this->theme.'customers/add_day',$this->data);
+        // }
 
     }
     
     function edit_day($id){
-        //$this->sma->checkPermissions('add-shops',true,'customers');
         if ($this->input->get('id')) {
             $id = $this->input->get('id');
         }
