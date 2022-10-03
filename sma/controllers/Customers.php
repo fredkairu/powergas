@@ -1033,11 +1033,14 @@ class Customers extends MY_Controller
     
     function add_day($id){
     
-        $allocation = $this->companies_model->getAllocationById($id);
+       
 
-        $dataarray = $this->input->post('day');
+        
         // print_r($dataarray);
         // die("a");
+        if ($this->input->post('day')) {
+          $dataarray = $this->input->post('day');
+        
         foreach($dataarray as $value){
           $this->form_validation->set_rules('day', $this->lang->line("Day"), 'required');
            $data = array(
@@ -1051,18 +1054,6 @@ class Customers extends MY_Controller
            }
         }
 
-        // if ($this->form_validation->run('customers/add_day') == true) {
-            
-        //     $data = array(
-        //         'allocation_id' => $id,
-        //         'day' => $this->input->post('day'),
-        //         'expiry' => $this->input->post('expiry') ? $this->input->post('expiry') : null,
-        //     );
-        // } elseif ($this->input->post('add_day')) {
-        //     $this->session->set_flashdata('error', validation_errors());
-        //     redirect('customers/customers');
-        // }
-    // $this->lang->line("allocation_day_added")
             $this->session->set_flashdata('message', "Allocation days Added"); 
              
             redirect('customers/customers');
@@ -1073,12 +1064,13 @@ class Customers extends MY_Controller
              
         //     redirect('customers/customers');
 
-        // } else {
-        //     $this->data['allocation'] = $allocation;
-        //     $this->data['page_title'] = lang('add_day');
-        //     $this->data['modal_js'] = $this->site->modal_js();
-        //     $this->load->view($this->theme.'customers/add_day',$this->data);
-        // }
+         } else {
+             $allocation = $this->companies_model->getAllocationById($id);
+            $this->data['allocation'] = $allocation;
+            $this->data['page_title'] = lang('add_day');
+            $this->data['modal_js'] = $this->site->modal_js();
+            $this->load->view($this->theme.'customers/add_day',$this->data);
+        }
 
     }
     
