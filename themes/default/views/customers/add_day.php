@@ -50,7 +50,7 @@
                 <?= lang("Day", "day") ?>
                 <br/>
                 <?php foreach($customdays as $day) { 
-
+// Test
                      if ($this->companies_model->myArrayContainsDay($day['day'],$allocation_days)) {   
                         $day_id = $this->companies_model->myArrayGetDay($day['day'],$allocation_days);
                         if ($day_id) {
