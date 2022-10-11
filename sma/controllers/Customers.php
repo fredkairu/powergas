@@ -1033,15 +1033,16 @@ class Customers extends MY_Controller
     
     function add_day($id){
     
-       
-
-        
+        $allocation_days = $this->companies_model->getAllocationDays($id);
         // print_r($dataarray);
         // die("a");
         if ($this->input->post('day')) {
           $dataarray = $this->input->post('day');
         
         foreach($dataarray as $value){
+            if ($this->companies_model->myArrayContainsDay($day['day'],$allocation_days)) { 
+
+            }
           $this->form_validation->set_rules('day', $this->lang->line("Day"), 'required');
            $data = array(
                 'allocation_id' => $id,
@@ -1066,8 +1067,10 @@ class Customers extends MY_Controller
 
          } else {
              $allocation = $this->companies_model->getAllocationById($id);
+            $this->data['allocation_days']=$allocation_days;
             $this->data['allocation'] = $allocation;
             $this->data['page_title'] = lang('add_day');
+            $this->data['passed_id'] = $id;
             $this->data['modal_js'] = $this->site->modal_js();
             $this->load->view($this->theme.'customers/add_day',$this->data);
         }
@@ -1134,6 +1137,7 @@ class Customers extends MY_Controller
 
         $this->data['allocation_days']=$allocation_days;
         $this->data['allocation'] = $allocation;
+        $this->data['passed_id'] = $id;
         $this->data['page_title'] = lang('view_days');
         $this->load->view($this->theme.'customers/view_days',$this->data);
     }

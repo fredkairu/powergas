@@ -6,18 +6,66 @@
             <h5 class="modal-title" id="myModalLabel"><?php echo lang($page_title); ?> TO SERVE SHOP <span style="color:#ff0000"><?= $allocation[0]->shop_name ?></span> ON ROUTE <span style="color:#ff0000"><?= $allocation[0]->route_name ?></span></h5>
         </div>
         <?php $attrib = array('data-toggle' => 'validator', 'role' => 'form','enctype'=>'multipart/form-data','method'=>'POST');
-        echo form_open("customers/add_day/".$allocation[0]->id, $attrib); ?>
+        echo form_open("customers/add_day/".$allocation[0]->id, $attrib);
+
+        $customdays = array(
+
+              array(
+                'day' => 'Mon',
+                "value" => '1',
+            ),
+              array(
+                'day' => 'Tue',
+                "value" => '2',
+            ),
+              array(
+                'day' => 'Wed',
+                "value" => '3',
+            ),
+
+              array(
+                'day' => 'Thur',
+                "value" => '4',
+            ),
+              array(
+                'day' => 'Fri',
+                "value" => '5',
+            ),
+              array(
+                'day' => 'Sat',
+                "value" => '6',
+            ),
+
+              array(
+                'day' => 'Sun',
+                "value" => '7',
+            ),
+          );
+
+           
+
+         ?>
         <div class="modal-body">
             <div class="form-group">
                 <?= lang("Day", "day") ?>
                 <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="1"> Mon <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="2"> Tue <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="3"> Wed <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="4"> Thur <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="5"> Fri <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="6"> Sat <br/>
-                <input type="checkbox" class="form-control" name='day[]' value="6"> Sun <br/>
+                <?php foreach($customdays as $day) { 
+
+                     if ($this->companies_model->myArrayContainsDay($day['day'],$allocation_days)) {   
+                        $day_id = $this->companies_model->myArrayGetDay($day['day'],$allocation_days);
+                        if ($day_id) {
+                            echo $day_id;
+                        
+                        
+                        ?>
+
+                <input type="checkbox" checked="checked" class="form-control" name='day[]' value="<?php echo $day_id ?>"> <?php echo $day['day'] ?> <br/>
+
+
+                <?php } } else{ ?>
+
+                <input type="checkbox"  class="form-control" name='day[]' value="<?php echo $day['value'] ?>"> <?php echo $day['day'] ?> <br/>
+        <?php } }?>
             </div>
             <div class="form-group">
                 <label for="expiry">Expiry</label><br>

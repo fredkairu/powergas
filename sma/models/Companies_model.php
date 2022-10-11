@@ -292,6 +292,24 @@ class Companies_model extends CI_Model
         return FALSE;
     }
 
+    public function myArrayContainsDay($value,$myarray){
+        foreach ($myarray as $allocation_day) {
+            if ($allocation_day->day == $value) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function myArrayGetDay($value,$myarray){
+        foreach ($myarray as $allocation_day) {
+            if ($allocation_day->day == $value) {
+                return $allocation_day->id;
+            }
+        }
+        return null;
+    }
+
     public function getAllocationDays($id)
     {
 
