@@ -1038,11 +1038,11 @@ class Customers extends MY_Controller
         // die("a");
         if ($this->input->post('day')) {
           $dataarray = $this->input->post('day');
-        
+          $success = $this->companies_model->deleteAllocDays($id);
+        if ($success) {
+            
         foreach($dataarray as $value){
-            if ($this->companies_model->myArrayContainsDay($day['day'],$allocation_days)) { 
-
-            }
+            
           $this->form_validation->set_rules('day', $this->lang->line("Day"), 'required');
            $data = array(
                 'allocation_id' => $id,
@@ -1054,6 +1054,7 @@ class Customers extends MY_Controller
                $cid = $this->companies_model->addAllocationDay($data);
            }
         }
+    }
 
             $this->session->set_flashdata('message', "Allocation days Added"); 
              

@@ -42,8 +42,12 @@
             ),
           );
 
-           
+          /*
+           Submit allocation days
+           if allocation day is checked 
 
+          */
+        
          ?>
         <div class="modal-body">
             <div class="form-group">
@@ -53,13 +57,10 @@
 // Test
                      if ($this->companies_model->myArrayContainsDay($day['day'],$allocation_days)) {   
                         $day_id = $this->companies_model->myArrayGetDay($day['day'],$allocation_days);
-                        if ($day_id) {
-                            echo $day_id;
-                        
-                        
+                        if (is_numeric($day_id)) {
                         ?>
 
-                <input type="checkbox" checked="checked" class="form-control" name='day[]' value="<?php echo $day_id ?>"> <?php echo $day['day'] ?> <br/>
+                <input type="checkbox" checked="checked" class="form-control" name='day[]' value="<?php echo $day['value'] ?>"> <?php echo $day['day'] ?> <br/>
 
 
                 <?php } } else{ ?>
