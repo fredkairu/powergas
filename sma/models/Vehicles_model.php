@@ -25,6 +25,13 @@ class Vehicles_model extends CI_Model
         }
         return false;
     }
+    public function disabletemporary($data = array()){
+        if ($this->db->insert('temporary_alloc_disable', $data)) {
+            $rid = $this->db->insert_id();
+            return $rid;
+        }
+        return false;
+    }
     public function getDays($all_id)
     {
         

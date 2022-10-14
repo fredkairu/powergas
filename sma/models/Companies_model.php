@@ -292,6 +292,42 @@ class Companies_model extends CI_Model
         return FALSE;
     }
 
+    public function deleteAllocDays($id){
+        $this->db->where('allocation_id',$id);
+        $delete = $this->db->delete("sma_allocation_days");
+        if ($delete) {
+            return true;
+        }
+        return false;
+    }
+
+    public function myArrayContainsDay($value,$myarray){
+        foreach ($myarray as $allocation_day) {
+            if ($allocation_day->day == $value) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function myArrayContainsAlloCid($value,$allocation_id,$myarray){
+        foreach ($myarray as $allocation_day) {
+            if ($allocation_day->id == $value && $allocation_day->allocation_id =$allocation_id) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function myArrayGetDay($value,$myarray){
+        foreach ($myarray as $allocation_day) {
+            if ($allocation_day->day == $value) {
+                return $allocation_day->id;
+            }
+        }
+        return null;
+    }
+
     public function getAllocationDays($id)
     {
 

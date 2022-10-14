@@ -19,6 +19,7 @@
                             <th><?= lang("Longitude"); ?></th>
                             <th><?= lang("Shop"); ?></th>
                             <th style="width:85px;"><?= lang("position"); ?></th>
+                            <th style="width:85px;">Actions</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -33,6 +34,7 @@
                              echo "<td>".$row->lng."</td>";
                              echo "<td>".$row->shop_name."</td>";
                              echo "<td>".$row->positions."</td>";
+                             echo "<td><a href='".site_url('vehicles/disabletemporary/'. $row->allid .'/'. $dayNo .'/'. $vehicle_id .'')."'>Disable</a></td>";
                              echo "</tr>";
                          }
      

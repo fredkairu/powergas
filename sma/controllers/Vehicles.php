@@ -1229,8 +1229,6 @@ function getVehicleSingleRoute()
 }
 function getRoutesForVehicle($id = NULL, $dayNo = NULL)
 {
-    //$vehicle = $this->vehicles_model->getVehicleByID($id);
-    //echo json_encode($vehicle->id);
 
     $current_date = date("Y-m-d").' '.'23:59:00';
     $day = $dayNo;
@@ -1248,14 +1246,42 @@ function getRoutesForVehicle($id = NULL, $dayNo = NULL)
                 left join sma_allocation_days on sma_allocation_days.allocation_id = sma_shop_allocations.id 
     WHERE 
     sma_vehicles.id = $vehicle_id and sma_customers.active = 1 and sma_allocation_days.day = $day and sma_allocation_days.active = 1 and sma_vehicle_route.day = $day and 
+     sma_allocation_days.id NOT IN(SELECT allocation_id from sma_temporary_alloc_disable WHERE disabled_date = '$current_date' and vehicle_id = $vehicle_id) and
     sma_allocation_days.expiry IS NULL or sma_allocation_days.expiry <= CURRENT_TIMESTAMP GROUP BY sma_shops.id ORDER BY sma_allocation_days.position ASC");
 
     $result=$query->result();
     $this->data["myroutes"] = $result;
+    $this->data["dayNo"] = $dayNo;
+    $this->data["vehicle_id"] = $id;
     $bc = array(array('link' => base_url(), 'page' => lang('home')), array('link' => site_url('products'), 'page' => lang('vehicle routes')));
     $meta = array('page_title' => "My routes", 'bc' => $bc);
     $this->page_construct('vehicles/test_test', $meta, $this->data);
 }
+
+// Disable route temporarily
+function disabletemporary($alloc_id,$day_no,$vehicle_id)
+{
+
+    $current_date = date("Y-m-d").' '.'23:59:00';
+
+    $data = array(
+            'allocation_id' => $alloc_id,
+            'day_no' => $day_no,
+            'disabled_date' =>$current_date,
+            'vehicle_id' =>$vehicle_id,
+        );
+
+    $id = $this->vehicles_model->disabletemporary($data);
+    if (is_numeric($id)) {
+        $this->session->set_flashdata('message', "route disabled successfully");
+        redirect('vehicles/getRoutesForVehicle/15/1');
+    }else{
+        $this->session->set_flashdata('warning', "Failed to disable route");
+        redirect('vehicles/getRoutesForVehicle/15/1');
+    }
+ 
+}
+
 function updatePosition()
 {
     if(isset($_POST['update']))
