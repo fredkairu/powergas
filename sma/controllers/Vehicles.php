@@ -430,36 +430,6 @@ class Vehicles extends MY_Controller
         }
     }
 
-//     function getVehiclesForRoute()
-//     {
-//         $current_date = date("Y-m-d").' '.'23:59:00';
-//         $day = 1;
-//         $vehicle_id = 13;
-
-//         $this->load->library('datatables');
-//         $this->datatables
-//         ->select('sma_customers.id as id,sma_allocation_days.id as allid, sma_customers.name, sma_customers.phone, sma_customers.active, sma_customers.email, sma_customers.customer_group_id, sma_customers.customer_group_name, sma_allocation_days.duration as durations,sma_allocation_days.position as positions,sma_shops.image as logo, sma_shops.shop_name, sma_shops.id as shop_id, sma_shops.lat, sma_shops.lng, sma_currencies.french_name as county_name, sma_cities.city as town_name,sma_cities.id as town_id')
-//         ->from('sma_shops')
-//         ->join('sma_customers','sma_customers.id = sma_shops.customer_id','left')
-//         ->join('sma_cities','sma_cities.id = sma_customers.city','left')
-//         ->join('sma_currencies','sma_currencies.id = sma_cities.county_id','left')
-//         ->join('sma_shop_allocations','sma_shop_allocations.shop_id = sma_shops.id','left')
-//         ->join('sma_vehicle_route','sma_shop_allocations.route_id=sma_vehicle_route.route_id','left')
-//         ->join('sma_vehicles','sma_vehicle_route.vehicle_id = sma_vehicles.id','left')
-//         ->join('sma_routes','sma_vehicle_route.route_id = sma_routes.id','left')
-//         ->join('sma_allocation_days','sma_allocation_days.allocation_id = sma_shop_allocations.id','left');
-//          ->where("NOT EXISTS (SELECT * FROM   sma_sales
-//         WHERE  sma_shops.id = sma_sales.shop_id and sma_sales.date = CURRENT_DATE and sma_sales.created < '$current_date')
-//         AND NOT EXISTS
-//         (SELECT *
-//         FROM   sma_tickets
-//         WHERE  sma_shops.id = sma_tickets.shop_id and sma_tickets.date = CURRENT_DATE and sma_tickets.created_at < '$current_date') and 
-//          sma_vehicles.id = '.$vehicle_id.'and sma_customers.active = 1 and sma_allocation_days.day = '.$day.'and (sma_allocation_days.duration > 0 or sma_allocation_days.start_point = 1) and sma_allocation_days.active = 1 and sma_vehicle_route.day = .'$day.' and sma_allocation_days.salesman_id = '.$vehicle_id.' and 
-//          sma_allocation_days.expiry IS NULL or sma_allocation_days.expiry <= CURRENT_TIMESTAMP GROUP BY sma_shops.id ORDER BY sma_allocation_days.position ASC"); 
-     
-//         // echo $this->datatables->generate();
- 
-// }
 
 function testFunction($id = NULL)
 {
@@ -1144,17 +1114,9 @@ function add_route($id){
                         'distance' => 0.00,
                         'salesman_id' =>$vehicleroute['description'],
                     );
-                    //$allocationday=$this->routes_model->getAllocationByDays($vehicleroute['id']);
-                    /**foreach($allocationday as $allocationday)
-                    {
-        
-                        
-                        if($allocationday->day==$day->id)
-                        {**/
+                
                     $this->routes_model->updateDurationAll($vehicleroute['id'],$allocation->day, $datar);
-                        //}
-                    //echo $datar['duration'];
-                    //}
+                    
                     
                     }
                  }
