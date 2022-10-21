@@ -21,6 +21,7 @@ class Vehicles extends MY_Controller
         $this->load->model('companies_model');
         $this->load->model('auth_model');
 
+// ;;dd
     }
 
     function index($action = NULL)
