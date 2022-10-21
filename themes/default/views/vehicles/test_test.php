@@ -19,6 +19,7 @@
                             <th><?= lang("Longitude"); ?></th>
                             <th><?= lang("Shop"); ?></th>
                             <th style="width:85px;"><?= lang("position"); ?></th>
+                            <th style="width:85px;">Status</th>
                             <th style="width:85px;">Actions</th>
                         </tr>
                         </thead>
@@ -34,9 +35,26 @@
                              echo "<td>".$row->lng."</td>";
                              echo "<td>".$row->shop_name."</td>";
                              echo "<td>".$row->positions."</td>";
-                             echo "<td><a href='".site_url('vehicles/disabletemporary/'. $row->allid .'/'. $dayNo .'/'. $vehicle_id .'')."'>Disable</a></td>";
+                             echo "<td>";
+
+                             if ($row->disabledStatus=="NOTAVAILABLE") {
+                                echo "<p style='color:green;font-weight:bold'>ACTIVE</p>";
+                             }else{
+                                echo "<p style='color:red';font-weight:bold>DISABLED</p>";
+                             }
+
+                             echo "</td>";
+                             echo "<td>";
+                             if ($row->disabledStatus=="NOTAVAILABLE") {
+                               echo "<a href='".site_url('vehicles/disabletemporary/'. $row->allid .'/'. $dayNo .'/'. $vehicle_id .'')."'>Disable</a></td>";
+                             }else{
+                               echo "<a href='".site_url('vehicles/enabletemporary/'. $row->allid .'/'. $dayNo .'/'. $vehicle_id .'')."'>Enable</a></td>";
+                              }
                              echo "</tr>";
                          }
+
+
+                         // adada
      
                         ?>
                       

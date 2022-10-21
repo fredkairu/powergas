@@ -13,8 +13,8 @@ class Products extends MY_Controller
         $this->lang->load('products', $this->Settings->language);
         $this->load->library('form_validation');
         $this->load->model('products_model');
-         $this->load->model('settings_model');
-          $this->load->model('companies_model');
+        $this->load->model('settings_model');
+        $this->load->model('companies_model');
         $this->load->model('auth_model');
         $this->load->library('ion_auth');
         $this->digital_upload_path = 'files/';
@@ -78,8 +78,7 @@ class Products extends MY_Controller
     // echo json_encode($this->data);
       $this->page_construct('products/index2', $meta, $this->data);
     }
-// $single_barcode = anchor_popup('products/single_barcode/$1/' . ($warehouse_id ? $warehouse_id : ''), '<i class="fa fa-print"></i> ' . lang('print_barcode'), $this->popup_attributes);
-        //$single_label = anchor_popup('products/single_label/$1/' . ($warehouse_id ? $warehouse_id : ''), '<i class="fa fa-print"></i> ' . lang('print_label'), $this->popup_attributes);
+
         
     function getProducts($warehouse_id = NULL)
     {
