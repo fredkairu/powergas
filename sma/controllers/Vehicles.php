@@ -7,10 +7,7 @@ class Vehicles extends MY_Controller
     {
         parent::__construct();
 
-        /* if (!$this->loggedIn) {
-             $this->session->set_userdata('requested_page', $this->uri->uri_string());
-             redirect('login');
-         }*/
+
         if ($this->Customer || $this->Supplier) {
             $this->session->set_flashdata('warning', lang('access_denied'));
             redirect($_SERVER["HTTP_REFERER"]);
@@ -1234,8 +1231,8 @@ function getRoutesForVehicle($id = NULL, $dayNo = NULL)
     $day = $dayNo;
     $vehicle_id = $id;
     $query=  $this->db->query("
-    SELECT sma_customers.id as id,sma_allocation_days.id as allid, sma_customers.name, sma_customers.phone, sma_customers.active, sma_customers.email, sma_customers.customer_group_id, sma_customers.customer_group_name, sma_allocation_days.duration as durations,sma_allocation_days.position as positions,sma_shops.image as logo, sma_shops.shop_name, sma_shops.id as shop_id, sma_shops.lat, sma_shops.lng, sma_currencies.french_name as county_name, sma_cities.city as town_name,sma_cities.id as town_id
-    FROM   sma_shops
+    SELECT sma_customers.id as id,sma_allocation_days.id as allid,IFNULL((SELECT allocation_id FROM sma_temporary_alloc_disable WHERE allocation_id = sma_allocation_days.id),'NOTAVAILABLE') as disabledStatus, sma_customers.name, sma_customers.phone, sma_customers.active, sma_customers.email, sma_customers.customer_group_id, sma_customers.customer_group_name, sma_allocation_days.duration as durations,sma_allocation_days.position as positions,sma_shops.image as logo, sma_shops.shop_name, sma_shops.id as shop_id, sma_shops.lat, sma_shops.lng, sma_currencies.french_name as county_name, sma_cities.city as town_name,sma_cities.id as town_id
+    FROM sma_shops
 				left join sma_customers on sma_customers.id = sma_shops.customer_id
                 left join sma_cities on sma_cities.id = sma_customers.city
                 left join sma_currencies on sma_currencies.id = sma_cities.county_id
@@ -1244,9 +1241,9 @@ function getRoutesForVehicle($id = NULL, $dayNo = NULL)
                 left join sma_vehicles on sma_vehicle_route.vehicle_id = sma_vehicles.id
                 left join sma_routes on sma_vehicle_route.route_id = sma_routes.id 
                 left join sma_allocation_days on sma_allocation_days.allocation_id = sma_shop_allocations.id 
+                left join sma_temporary_alloc_disable on sma_temporary_alloc_disable.allocation_id = sma_allocation_days.allocation_id 
     WHERE 
-    sma_vehicles.id = $vehicle_id and sma_customers.active = 1 and sma_allocation_days.day = $day and sma_allocation_days.active = 1 and sma_vehicle_route.day = $day and 
-     sma_allocation_days.id NOT IN(SELECT allocation_id from sma_temporary_alloc_disable WHERE disabled_date = '$current_date' and vehicle_id = $vehicle_id) and
+    sma_vehicles.id = $vehicle_id and sma_customers.active = 1 and sma_allocation_days.day = $day and sma_allocation_days.active = 1 and sma_vehicle_route.day = $day  and
     sma_allocation_days.expiry IS NULL or sma_allocation_days.expiry <= CURRENT_TIMESTAMP GROUP BY sma_shops.id ORDER BY sma_allocation_days.position ASC");
 
     $result=$query->result();
@@ -1274,12 +1271,24 @@ function disabletemporary($alloc_id,$day_no,$vehicle_id)
     $id = $this->vehicles_model->disabletemporary($data);
     if (is_numeric($id)) {
         $this->session->set_flashdata('message', "route disabled successfully");
-        redirect('vehicles/getRoutesForVehicle/15/1');
+        redirect('vehicles/getRoutesForVehicle/'.$vehicle_id.'/'.$day_no.'');
     }else{
         $this->session->set_flashdata('warning', "Failed to disable route");
-        redirect('vehicles/getRoutesForVehicle/15/1');
+        redirect('vehicles/getRoutesForVehicle/'.$vehicle_id.'/'.$day_no.'');
     }
  
+}
+
+function enabletemporary($alloc_id,$day_no,$vehicle_id){
+    $this->db->where("allocation_id",$alloc_id)->where("vehicle_id",$vehicle_id);
+    $delete = $this->db->delete("sma_temporary_alloc_disable");
+    if ($delete) {
+         $this->session->set_flashdata('message', "route enabled successfully");
+         redirect('vehicles/getRoutesForVehicle/'.$vehicle_id.'/'.$day_no.'');
+    }else{
+         $this->session->set_flashdata('warning', "Failed to enable route");
+         redirect('vehicles/getRoutesForVehicle/'.$vehicle_id.'/'.$day_no.'');
+    }
 }
 
 function updatePosition()
