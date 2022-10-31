@@ -136,9 +136,8 @@
                             $data.="<a onClick=\"javascript: return confirm('Are you sure?');\" href='" . site_url('customers/delete1/'.$customer->id.'') . "'><i class=\"fa fa-trash-o\"></i></a></center>
                             </td>
                             </tr>";
-                            // <a href='#' class='tip po' title='<b>" . $this->lang->line("delete_customer1") . "</b>' data-content=\"<p>" . lang('r_u_sure') . "</p><a class='btn btn-danger po-delete' href='" . site_url('customers/delete1/'.$customer->id.'') . "'>" . lang('i_m_sure') . "</a> <button class='btn po-close'>" . lang('no') . "</button>\"  rel='popover'><i class=\"fa fa-trash-o\"></i></a>
-                        //     <a href='#' class='tip po' title='<b>" . $this->lang->line("activate_customer") . "</b>' data-content=\"<p>" . lang('r_u_sure') . "</p><a class='btn btn-success po-active' href='" . site_url('customers/activate_customer/'.$customer->id.'') . "'>" . lang('i_m_sure') . "</a> <button class='btn po-close'>" . lang('no') . "</button>\"  rel='popover'><i class=\"fa fa-check\"></i></a>
-                           
+                            
+                  
                          echo $data;
                         }
                         ?>

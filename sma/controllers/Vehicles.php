@@ -1194,7 +1194,7 @@ function getRoutesForVehicle($id = NULL, $dayNo = NULL)
     $day = $dayNo;
     $vehicle_id = $id;
     $query=  $this->db->query("
-    SELECT sma_customers.id as id,sma_allocation_days.id as allid,IFNULL((SELECT allocation_id FROM sma_temporary_alloc_disable WHERE allocation_id = sma_allocation_days.id),'NOTAVAILABLE') as disabledStatus, sma_customers.name, sma_customers.phone, sma_customers.active, sma_customers.email, sma_customers.customer_group_id, sma_customers.customer_group_name, sma_allocation_days.duration as durations,sma_allocation_days.position as positions,sma_shops.image as logo, sma_shops.shop_name, sma_shops.id as shop_id, sma_shops.lat, sma_shops.lng, sma_currencies.french_name as county_name, sma_cities.city as town_name,sma_cities.id as town_id
+    SELECT sma_customers.id as id,sma_allocation_days.id as allid,IFNULL((SELECT allocation_id FROM sma_temporary_alloc_disable WHERE allocation_id = sma_allocation_days.id and disabled_date='$current_date' LIMIT 1),'NOTAVAILABLE') as disabledStatus, sma_customers.name, sma_customers.phone, sma_customers.active, sma_customers.email, sma_customers.customer_group_id, sma_customers.customer_group_name, sma_allocation_days.duration as durations,sma_allocation_days.position as positions,sma_shops.image as logo, sma_shops.shop_name, sma_shops.id as shop_id, sma_shops.lat, sma_shops.lng, sma_currencies.french_name as county_name, sma_cities.city as town_name,sma_cities.id as town_id
     FROM sma_shops
 				left join sma_customers on sma_customers.id = sma_shops.customer_id
                 left join sma_cities on sma_cities.id = sma_customers.city
